@@ -1,4 +1,4 @@
-## Weekly seminars: Spring 2020
+## [Weekly seminars](./index.md): Spring 2020
 
 ### Jun 5
 
