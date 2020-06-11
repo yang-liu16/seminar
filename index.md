@@ -24,7 +24,7 @@ Qiuqi Wang (University of Waterloo)
 ## Upcoming event
 > Title:
 > 
-> Speaker: Yuyu Chen
+> Speaker: Yuyu Chen (Department of Statistics and Actuarial Science, University of Waterloo)
 > 
 > Time: 9:00pm-10:00pm, Jun 12 (Fri) 
 > 
