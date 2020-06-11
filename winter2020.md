@@ -1,4 +1,4 @@
-## Weekly seminars: Winter 2020
+## [Weekly seminars](./index.md): Winter 2020
 
 
 ### Mar 12
