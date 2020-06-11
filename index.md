@@ -4,7 +4,7 @@ The weekly seminar series is a venue for international scholars in risk manageme
 
 
 ## Current routine
-Time: 9:00-10:00pm, every Friday (Eastern Standard Time)
+Time: 9:00pm-10:00pm, every Friday (Eastern Standard Time)
 
 Zoom Link: [https://cernet.zoom.com.cn/j/67990545137](https://cernet.zoom.com.cn/j/67990545137)
 
