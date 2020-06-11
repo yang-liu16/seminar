@@ -29,6 +29,7 @@ Qiuqi Wang (University of Waterloo)
 > Time: 9:00-10:00pm, Jun 12 (Fri) 
 > 
 > Location: online via Zoom
+>
 
 
 ## Past events
