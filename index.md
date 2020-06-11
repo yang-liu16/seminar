@@ -26,7 +26,7 @@ Qiuqi Wang (University of Waterloo)
 > 
 > Speaker: Yuyu Chen
 > 
-> Time: 9:00-10:00pm, Jun 12 (Fri) 
+> Time: 9:00pm-10:00pm, Jun 12 (Fri) 
 > 
 > Location: online via Zoom
 >
