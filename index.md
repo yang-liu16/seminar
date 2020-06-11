@@ -18,7 +18,7 @@ Qiuqi Wang (University of Waterloo)
 
 
 ## Faculty mentor
-[Dr. Ruodu Wang](http://sas.uwaterloo.ca/~wang/) (University of Waterloo) 
+[Prof. Ruodu Wang](http://sas.uwaterloo.ca/~wang/) (University of Waterloo) 
 
 
 ## Upcoming event
