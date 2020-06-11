@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# Weekly seminars on risk management and actuarial science
 
-You can use the [editor on GitHub](https://github.com/yang-liu16/seminar/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+The weekly seminar series is a venue for international scholars in risk management and actuarial science to discuss research advances and exchange ideas. Junior researchers are the most encouraged to present their on-going research work. Currently, participants from Canada, China, US, and Europe are included. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Student organizers
+[Yang Liu](https://yang-liu16.github.io/) (Tsinghua University & University of Waterloo)
 
-### Markdown
+Qiuqi Wang (University of Waterloo)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Faculty mentor
+[Dr. Ruodu Wang](http://sas.uwaterloo.ca/~wang/) (University of Waterloo) 
 
-```markdown
-Syntax highlighted code block
+## Current Routine
+Time: 9pm-10pm, every Friday (Eastern Standard Time)
 
-# Header 1
-## Header 2
-### Header 3
+Zoom Link: [https://cernet.zoom.com.cn/j/67990545137](https://cernet.zoom.com.cn/j/67990545137)
 
-- Bulleted
-- List
+Meeting ID：679 9054 5137
 
-1. Numbered
-2. List
+## Past Events
 
-**Bold** and _Italic_ and `Code` text
+[Spring 2020](./spring2020.md)
 
-[Link](url) and ![Image](src)
-```
+[Winter 2020](./winter2020.html)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yang-liu16/seminar/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Fall 2019](./fall2019.html)
