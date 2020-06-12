@@ -12,9 +12,9 @@ Meeting ID：679 9054 5137
 
 
 ## Student organizers
-[Yang Liu](https://yang-liu16.github.io/) (Tsinghua University & University of Waterloo)
+[Yang Liu](https://yang-liu16.github.io/) (Tsinghua University & University of Waterloo): [y2796liu@uwaterloo.ca](y2796liu@uwaterloo.ca)
 
-Qiuqi Wang (University of Waterloo)
+Qiuqi Wang (University of Waterloo): [q428wang@uwaterloo.ca](q428wang@uwaterloo.ca)
 
 
 ## Faculty mentor
@@ -24,7 +24,7 @@ Qiuqi Wang (University of Waterloo)
 ## Upcoming event
 > Title:
 > 
-> Speaker: Yuyu Chen (Department of Statistics and Actuarial Science, University of Waterloo)
+> Speaker: Yuyu Chen (PhD candidate, University of Waterloo)
 > 
 > Time: 9:00pm-10:00pm, Jun 12 (Fri) 
 > 
@@ -39,3 +39,6 @@ Qiuqi Wang (University of Waterloo)
 [Winter 2020](./winter2020.html)
 
 [Fall 2019](./fall2019.html)
+
+## Other Online Seminar Initiatives
+[One World Actuarial Research Seminar](http://www.maths.usyd.edu.au/u/munir/owars/)
