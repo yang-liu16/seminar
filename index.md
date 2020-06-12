@@ -78,9 +78,8 @@ Qiuqi Wang (University of Waterloo): [q428wang@uwaterloo.ca](q428wang@uwaterloo.
 > Location: online via Zoom
 >
 > <dl>
-> <dt>Name: Godzilla</dt>
-> <dt>Born</dt>
-> <dd>1952</dd>
+> <dt>Name:</dt> Godzilla
+> <dt>Born:</dt> 1952
 > <dt>Birthplace</dt>
 > <dd>Japan</dd>
 > <dt>Color</dt>
