@@ -1,4 +1,6 @@
-# Weekly Seminars on Risk Management and Actuarial Science
+# Weekly Seminars 
+
+# Risk Management and Actuarial Science
 
 <b>The weekly seminar series is a venue for international scholars in risk management and actuarial science to discuss research advances and exchange ideas. Junior researchers are the most encouraged to present their recent work, including on-going projects. The list of current and past speakers includes scholars from Canada, US, China, Australia, and Europe. </b>
 
