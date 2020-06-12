@@ -84,12 +84,6 @@ Qiuqi Wang (University of Waterloo):
 [Seminars in 2019](./2019.html)
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>details和summary标签</title>
-</head>
 <body>
     <details>
         <summary>常见的水果</summary>
@@ -100,7 +94,7 @@ Qiuqi Wang (University of Waterloo):
         </ol>
     </details>
 </body>
-</html>
+
 
 * * *
 ## Other Online Seminar Initiatives
