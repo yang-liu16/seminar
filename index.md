@@ -27,14 +27,15 @@ Qiuqi Wang (University of Waterloo): [q428wang@uwaterloo.ca](q428wang@uwaterloo.
 ## Upcoming Events
 
 ### Jun 12
-> Title: TBA
+> Title: Ordering and Inequalities of Mixtures on Risk Aggregation
 > 
 > Speaker: Yuyu Chen (PhD candidate, University of Waterloo)
 > 
 > Time: 9:00pm-10:00pm, Jun 12 (Fri) 
 > 
 > Location: online via Zoom
-
+> 
+> Abstract: In this paper we first investigate the ordering relationship between aggregation sets where the marginal risks from different sets are related by some simple operations, such as distribution-mixture or quantile-mixture defined by doubly stochastic matrices.  It turns out that the aggregation set after operating a distribution-mixture becomes larger for general marginal distributions. However, the aggregation sets are not comparable under quantile-mixture operations in general. Our results on orders of aggregation sets imply that distribution-mixture operations on marginal risks can increase the worst-case values of risk measures for general marginal risks and general law-invariant risk measures. If all marginal distributions have decreasing densities,  we show that quantile-mixture operations can produce a larger worst-case value of a specific regulatory risk measure, Value-at-Risk (VaR). We particularly focus on the worst-case values of risk measure for Pareto marginal distributions to obtain more specific inequalities related to the simple operations. Our results can be used to compare the the worst-case values of risk measures on two risk aggregations where no stochastic dominance exists between them.  Numerical studies are conducted to illustrate our findings on inequalities for the worst-case values of VaR. 
 
 ### Jun 19
 > Title: Dircrimination-free Insurance Pricing
