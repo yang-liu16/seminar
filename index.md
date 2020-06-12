@@ -30,7 +30,7 @@ Qiuqi Wang (University of Waterloo):
 
 <body>
     <details>
-        <summary><u><b>Jul 3</b></u></summary>
+        <summary><u><b>Jul 3 (Mario Wüthrich)</b></u></summary>
         <ol>
             <div> Title: TBA </div>
              
@@ -48,7 +48,7 @@ Qiuqi Wang (University of Waterloo):
 
 <body>
     <details>
-        <summary><u><b>Jun 26</b></u></summary>
+        <summary><u><b>Jun 26 (Tolulope Fadina)</b></u></summary>
         <ol>
             <div> Title: TBA </div>
              
@@ -66,7 +66,7 @@ Qiuqi Wang (University of Waterloo):
 
 <body>
     <details>
-        <summary><u><b>Jun 19</b></u></summary>
+        <summary><u><b>Jun 19 (Andreas Tsanakas)</b></u></summary>
         <ol>
             <div> Title: Dircrimination-free Insurance Pricing </div>
              
@@ -84,7 +84,7 @@ Qiuqi Wang (University of Waterloo):
 
 <body>
     <details>
-        <summary><u><b>Jun 12</b></u></summary>
+        <summary><u><b>Jun 12 (Yuyu Chen) </b></u></summary>
         <ol>
             <div> Title: Ordering and Inequalities of Mixtures on Risk Aggregation </div>
              
