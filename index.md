@@ -30,7 +30,11 @@
 
 <body>
     <details>
-        <summary><u><b>Jul 3 (Prof. Mario Wüthrich, ETH Zurich)</b></u></summary>
+        <summary><b><table><thead><tr>
+        <td style="text-align: left">Jul 3</td>
+        <td style="text-align: left">Prof. Mario Wüthrich</td>
+        <td style="text-align: left">ETH Zurich</td>
+        </tr></thead></table></b></u></summary>
         <ol>
           <blockquote>
             <p><b> Title: TBA</b></p>
@@ -44,7 +48,11 @@
 
 
     <details>
-        <summary><u><b>Jun 26 (Dr. Tolulope Fadina, University of Waterloo)</b></u></summary>
+        <summary><b><table><thead><tr>
+        <td style="text-align: left">Jun 26</td>
+        <td style="text-align: left">Dr. Tolulope Fadina</td>
+        <td style="text-align: left">University of Waterloo</td>
+        </tr></thead></table></b></u></summary>
         <ol>
           <blockquote>
             <p><b> Title: TBA</b></p>
@@ -58,7 +66,11 @@
     
     
     <details>
-        <summary><u><b>Jun 19 (Prof. Andreas Tsanakas, Cass Business School)</b></u></summary>
+        <summary><b><table><thead><tr>
+        <td style="text-align: left">Jun 19</td>
+        <td style="text-align: left">Prof. Andreas Tsanakas</td>
+        <td style="text-align: left">Cass Business School</td>
+        </tr></thead></table></b></u></summary>
         <ol>
           <blockquote>
             <p><b> Title: Dircrimination-free Insurance Pricing </b></p>
@@ -104,10 +116,7 @@
 <body>
   
     <details>
-        <summary><u><b>
-        <table>
-        <thead>
-        <tr>
+        <summary><b><table><thead><tr>
         <td style="text-align: left">Jun 5</td>
         <td style="text-align: left">Mingren Yin</td>
         <td style="text-align: left">University of Waterloo</td>
