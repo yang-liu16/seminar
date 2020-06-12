@@ -88,7 +88,7 @@
 
 
 ## Past Events
-### [Seminars in 2020](./2020.html)
+### [<u>Seminars in 2020</u>](./2020.html)
 
 <body>
     <details>
@@ -312,7 +312,7 @@
 </body>
 
 
-### [Seminars in 2019](./2019.html)
+### [<u>Seminars in 2019</u>](./2019.html)
 
 
 
