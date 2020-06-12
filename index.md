@@ -87,9 +87,9 @@
 
 
 
-## Past Events in 2020
+## Past Events
+### [Seminars in 2020](./2020.html)
 
-<body>
     <details>
         <summary><u><b>Jun 5 (Mingren Yin, University of Waterloo)</b></u></summary>
         <ol>
@@ -308,10 +308,7 @@
           </blockquote>
         </ol>
     </details>
-
-
 </body>
-
 
 
 ### [Seminars in 2019](./2019.html)
