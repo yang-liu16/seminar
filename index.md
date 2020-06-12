@@ -152,6 +152,19 @@ Qiuqi Wang (University of Waterloo):
 </script>
 
 
+<script>
+function change(){
+var obj=document.getElementById("DIVTEXT");
+if(obj.style.display=="none"){
+obj.style.display="block"
+}else{
+obj.style.display="none"
+}
+}
+</script>
+<a href="javascript:change();">点击显示隐藏dao</a> 
+<div id="DIVTEXT">这里是现bai实du的内容zhi</div>
+
 * * *
 ## Other Online Seminar Initiatives
 [One World Actuarial Research Seminar](http://www.maths.usyd.edu.au/u/munir/owars/)
