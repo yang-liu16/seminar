@@ -14,7 +14,7 @@ Zoom Link: [https://cernet.zoom.com.cn/j/67990545137](https://cernet.zoom.com.cn
 Meeting ID：679 9054 5137
 
 
-## Student organizers
+## Student Organizers
 [Yang Liu](https://yang-liu16.github.io/) (Tsinghua University & University of Waterloo):
 <a href="#"><i class="far fa-envelope fa-fw mr-2" data-fa-transform="grow-3"></i>y2796liu@uwaterloo.ca</a>
 
