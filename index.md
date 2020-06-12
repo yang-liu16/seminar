@@ -29,86 +29,10 @@
 ## Upcoming Events
 
 <body>
- <table><thead>
-  <tr>
-    <details>
-        <summary><b>
-        <td style="text-align: left">Jul 3</td>
-        <td style="text-align: left">Prof. Mario Wüthrich</td>
-        <td style="text-align: left">ETH Zurich</td>
-       </b></summary>
-        <ol>
-          <blockquote>
-            <p><b> Title: TBA</b></p>
-            <p><b> Speaker: Mario Wüthrich (Professor, ETH Zurich) </b></p>
-            <p><b> Time: 11:00am-12:00am, Jul 3 (Fri) </b></p>
-            <p><b> Location: Online via Zoom </b></p>
-            <p><b> Abstract: TBA </b></p>
-          </blockquote>
-        </ol>
-    </details> </tr>
-
-
-    <tr><details>
-        <summary><b>
-        <td style="text-align: left">Jun 26</td>
-        <td style="text-align: left">Dr. Tolulope Fadina</td>
-        <td style="text-align: left">University of Waterloo</td>
-        </b></summary>
-        <ol>
-          <blockquote>
-            <p><b> Title: TBA</b></p>
-            <p><b> Speaker: Tolulope Fadina (Postdoc Fellow, University of Waterloo) </b></p>
-            <p><b> Time: 9:00pm-10:00pm, Jun 26 (Fri) </b></p>
-            <p><b> Location: Online via Zoom </b></p>
-            <p><b> Abstract: TBA </b></p>
-          </blockquote>
-        </ol>
-    </details></tr>
-    
-    
-    <tr><details>
-        <summary><b>
-        <td style="text-align: left">Jun 19</td>
-        <td style="text-align: left">Prof. Andreas Tsanakas</td>
-        <td style="text-align: left">Cass Business School</td>
-        </b></summary>
-        <ol>
-          <blockquote>
-            <p><b> Title: Discrimination-free Insurance Pricing </b></p>
-            <p><b> Speaker: Andreas Tsanakas (Professor, Cass Business School, City University London) </b></p>
-            <p><b> Time: 11:00pm-12:00pm, Jun 19 (Fri) </b></p>
-            <p><b> Location: Online via Zoom </b></p>
-            <p><b> Abstract: Abstract: We consider the following question: given information on individual policyholder characteristics,     how can we ensure that insurance prices do not discriminate with respect to protected characteristics, such as gender? We address the issues of direct and indirect discrimination, the latter meaning that protected characteristics are implicitly learned (“proxied”) from non-protected ones. We provide mathematical definitions for direct and indirect discrimination and introduce a simple formula for discrimination-free pricing, which avoids both direct and indirect discrimination. This formula works in any statistical model. We demonstrate its application on a health insurance example, using a generalized linear model and a neural network regression model. An important conclusion is that discrimination-free pricing in general requires collection of policyholders’ discriminatory characteristics, posing potential challenges in relation to policyholder’s privacy concerns. Moving towards application of this approach in practice raises further questions, which I aim to discuss in the seminar. This is a joint work with M. Lindholm, R. Richman, M.V. Wuethrich. </b></p>
-          </blockquote>
-        </ol>
-    </details></tr>
-
-
-    <tr><details>
-        <summary><b>
-        <td style="text-align: left">Jun 12</td>
-        <td style="text-align: left">Yuyu Chen</td>
-        <td style="text-align: left">University of Waterloo</td>
-        </b></summary>
-        <ol>
-          <blockquote>
-            <p><b> Title: Ordering and Inequalities of Mixtures on Risk Aggregation </b></p>
-            <p><b> Speaker: Yuyu Chen (PhD candidate, University of Waterloo) </b></p>
-            <p><b> Time: 9:00pm-10:00pm, Jun 12 (Fri) </b></p>
-            <p><b> Location: Online via Zoom </b></p>
-            <p><b> Abstract: In this paper we first investigate the ordering relationship between aggregation sets where the marginal risks from different sets are related by some simple operations, such as distribution-mixture or quantile-mixture defined by doubly stochastic matrices.  It turns out that the aggregation set after operating a distribution-mixture becomes larger for general marginal distributions. However, the aggregation sets are not comparable under quantile-mixture operations in general. Our results on orders of aggregation sets imply that distribution-mixture operations on marginal risks can increase the worst-case values of risk measures for general marginal risks and general law-invariant risk measures. If all marginal distributions have decreasing densities,  we show that quantile-mixture operations can produce a larger worst-case value of a specific regulatory risk measure, Value-at-Risk (VaR). We particularly focus on the worst-case values of risk measure for Pareto marginal distributions to obtain more specific inequalities related to the simple operations. Our results can be used to compare the the worst-case values of risk measures on two risk aggregations where no stochastic dominance exists between them.  Numerical studies are conducted to illustrate our findings on inequalities for the worst-case values of VaR. </b></p>
-          </blockquote>
-        </ol>
-    </details></tr>
-</thead></table>
-</body>
-
-<body>
  
     <details>
         <summary><b><table><thead><tr>
-        <td style="text-align: left">Jul 3</td>
+        <td style="text-align: left"><u>Jul 3</u></td>
         <td style="text-align: left">Prof. Mario Wüthrich</td>
         <td style="text-align: left">ETH Zurich</td>
        </tr></thead></table></b></summary>
@@ -126,7 +50,7 @@
 
     <details>
         <summary><b><table><thead><tr>
-        <td style="text-align: left">Jun 26</td>
+        <td style="text-align: left"><u>Jun 26</u></td>
         <td style="text-align: left">Dr. Tolulope Fadina</td>
         <td style="text-align: left">University of Waterloo</td>
         </tr></thead></table></b></summary>
@@ -144,7 +68,7 @@
     
     <details>
         <summary><b><table><thead><tr>
-        <td style="text-align: left">Jun 19</td>
+        <td style="text-align: left"><u>Jun 19</u></td>
         <td style="text-align: left">Prof. Andreas Tsanakas</td>
         <td style="text-align: left">Cass Business School</td>
         </tr></thead></table></b></summary>
@@ -162,7 +86,7 @@
 
     <details>
         <summary><b><table><thead><tr>
-        <td style="text-align: left">Jun 12</td>
+        <td style="text-align: left"><u>Jun 12</u></td>
         <td style="text-align: left">Yuyu Chen</td>
         <td style="text-align: left">University of Waterloo</td>
         </tr></thead></table></b></summary>
@@ -181,15 +105,6 @@
 
 ## Past Events
 
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
 
 ### [<u>Seminars in 2020</u>](./2020.html)
 
