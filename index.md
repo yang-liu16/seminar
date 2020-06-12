@@ -140,7 +140,7 @@
 
 
     <details>
-        <summary><u><b>May 29 (Liyuan Lin, Central University of Finance and Economics & University of Waterloo)</b></u></summary>
+        <summary><u><b>May 29 (Liyuan Lin, Central University of Finance and Economics)</b></u></summary>
         <ol>
           <blockquote>
             <p><b> Title: Self-consistency, subjective pricing, and a theory of credit rating </b></p>
@@ -205,7 +205,7 @@
 
 
     <details>
-        <summary><u><b>Apr 26 (Yang Liu, Tsinghua University & University of Waterloo)</b></u></summary>
+        <summary><u><b>Apr 26 (Yang Liu, Tsinghua University)</b></u></summary>
         <ol>
           <blockquote>
             <p><b> Primal bounds on quantile aggregation </b></p>
@@ -218,7 +218,7 @@
 
 
     <details>
-        <summary><u><b>Mar 12 (Liyuan Lin, Central University of Finance and Economics & University of Waterloo)</b></u></summary>
+        <summary><u><b>Mar 12 (Liyuan Lin, Central University of Finance and Economics)</b></u></summary>
         <ol>
           <blockquote>
             <p><b> Title: An axiomatic foundation of the Expected Shortfall </b></p>
@@ -231,7 +231,7 @@
 
 
     <details>
-        <summary><u><b>Mar 5 (Yang Liu, Tsinghua University & University of Waterloo)</b></u></summary>
+        <summary><u><b>Mar 5 (Yang Liu, Tsinghua University)</b></u></summary>
         <ol>
           <blockquote>
             <p><b> Title: Bounds on quantile aggregation </b></p>
@@ -321,7 +321,7 @@
 
 
     <details>
-        <summary><u><b>Jan 9 (Yang Liu, Tsinghua University & University of Waterloo)</b></u></summary>
+        <summary><u><b>Jan 9 (Yang Liu, Tsinghua University)</b></u></summary>
         <ol>
           <blockquote>
             <p><b> Title: A method to check whether an n-tuple of distributions with two-step densities is JM </b></p>
