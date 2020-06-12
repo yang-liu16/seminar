@@ -19,7 +19,7 @@
 <a href="mailto:y2796liu@uwaterloo.ca">y2796liu@uwaterloo.ca</a></b>
  
 <b>Qiuqi Wang (University of Waterloo):
-<a href="mailto:q428wang@uwaterloo.ca"><i class="far fa-envelope fa-fw mr-2" data-fa-transform="grow-3"></i>q428wang@uwaterloo.ca</a></b>
+<a href="mailto:q428wang@uwaterloo.ca">q428wang@uwaterloo.ca</a></b>
 
 
 ## Faculty Mentor
