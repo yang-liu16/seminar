@@ -110,6 +110,23 @@ Qiuqi Wang (University of Waterloo):
 [Seminars in 2019](./2019.html)
 
 
+<p><a href="###" οnclick="openShutManager(this,'box')">点击展开</a></p>
+<p id="box" style="display:none">
+   这里面放的是box的内容.
+</p>
+<p><a href="###" οnclick="openShutManager(this,'box2',true)">点击展开</a></p>
+<p id="box2" style="display:none">
+   这里面放的是box的内容.
+</p>
+<p><a href="###" οnclick="openShutManager(this,'box3',false,'点击关闭','点击展开')">点击展开</a></p>
+<p id="box3" style="display:none">
+   这里面放的是box的内容.
+</p>
+<p><button οnclick="openShutManager(this,'box4',false,'点击关闭','点击展开')">点击展开</button></p>
+<p id="box4" style="display:none">
+   这里面放的是box的内容.
+</p>
+
 * * *
 ## Other Online Seminar Initiatives
 [One World Actuarial Research Seminar](http://www.maths.usyd.edu.au/u/munir/owars/)
