@@ -51,7 +51,7 @@ Qiuqi Wang (University of Waterloo): [q428wang@uwaterloo.ca](q428wang@uwaterloo.
 ### Jun 26
 > Title: TBA
 > 
-> Speaker: Tolulope Fadina (PostDoc, University of Waterloo)
+> Speaker: Tolulope Fadina (Postdoc Fellow, University of Waterloo)
 > 
 > Time: 9:00pm-10:00pm, Jun 26 (Fri) 
 > 
