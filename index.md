@@ -24,7 +24,7 @@ Qiuqi Wang (University of Waterloo): [q428wang@uwaterloo.ca](q428wang@uwaterloo.
 [Prof. Ruodu Wang](http://sas.uwaterloo.ca/~wang/) (University of Waterloo) 
 
 
-## Upcoming Event
+## Upcoming Events
 
 ### Jun 12
 > Title: TBA
@@ -39,7 +39,7 @@ Qiuqi Wang (University of Waterloo): [q428wang@uwaterloo.ca](q428wang@uwaterloo.
 ### Jun 19
 > Title: Dircrimination-free Insurance Pricing
 > 
-> Speaker: Andreas Tsanakas (Professor, Cass Business School, City University London)
+> Speaker: Andreas Tsanakas (Assistant Professor, Cass Business School, City University London)
 > 
 > Time: 11:00pm-12:00pm, Jun 19 (Fri) 
 > 
@@ -67,15 +67,6 @@ Qiuqi Wang (University of Waterloo): [q428wang@uwaterloo.ca](q428wang@uwaterloo.
 > 
 > Location: online via Zoom
 
-
-### Jul 3
-> Title: TBA
-> 
-> Speaker: Mario Wüthrich (Professor, ETH Zurich) 
-> 
-> Time: 11:00am-12:00am, Jul 3 (Fri) 
-> 
-> Location: online via Zoom
 
 
 ## Past Events
