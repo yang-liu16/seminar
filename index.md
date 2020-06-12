@@ -141,6 +141,16 @@ Qiuqi Wang (University of Waterloo):
     <button id="btn">展开</button>
 </div>
 
+<script src="jquery-3.2.1.min.js"></script>
+
+<script>
+    var btn = $('#btn')
+    var spread = $('#spread')
+    btn.click(function () {
+        spread.slideToggle()
+    })
+</script>
+
 
 * * *
 ## Other Online Seminar Initiatives
