@@ -30,7 +30,7 @@
 
 <body>
     <details>
-        <summary><u><b>Jul 3</b></u></summary>
+        <summary><u><b>Jul 3 (Mario Wüthrich)</b></u></summary>
         <ol>
           <blockquote>
             <p><b> Title: TBA</b></p>
@@ -43,50 +43,44 @@
     </details>
 
 
-
     <details>
         <summary><u><b>Jun 26 (Tolulope Fadina)</b></u></summary>
         <ol>
-            <div> Title: TBA </div>
-             
-            <div> Speaker: Tolulope Fadina (Postdoc Fellow, University of Waterloo) </div>
-             
-            <div> Time: 9:00pm-10:00pm, Jun 26 (Fri)  </div>
-             
-            <div> Location: online via Zoom </div>
-            
-            <div> Abstract: TBA </div>
+          <blockquote>
+            <p><b> Title: TBA</b></p>
+            <p><b> Speaker: Tolulope Fadina (Postdoc Fellow, University of Waterloo) </b></p>
+            <p><b> Time: 9:00pm-10:00pm, Jun 26 (Fri) </b></p>
+            <p><b> Location: online via Zoom </b></p>
+            <p><b> Abstract: TBA </b></p>
+          </blockquote>
         </ol>
     </details>
+    
     
     <details>
         <summary><u><b>Jun 19 (Andreas Tsanakas)</b></u></summary>
         <ol>
-            <div> Title: Dircrimination-free Insurance Pricing </div>
-             
-            <div> Speaker: Andreas Tsanakas (Professor, Cass Business School, City University London) </div>
-             
-            <div> Time: 11:00pm-12:00pm, Jun 19 (Fri)  </div>
-             
-            <div> Location: online via Zoom </div>
-            
-            <div> Abstract: Abstract: We consider the following question: given information on individual policyholder characteristics,     how can we ensure that insurance prices do not discriminate with respect to protected characteristics, such as gender? We address the issues of direct and indirect discrimination, the latter meaning that protected characteristics are implicitly learned (“proxied”) from non-protected ones. We provide mathematical definitions for direct and indirect discrimination and introduce a simple formula for discrimination-free pricing, which avoids both direct and indirect discrimination. This formula works in any statistical model. We demonstrate its application on a health insurance example, using a generalized linear model and a neural network regression model. An important conclusion is that discrimination-free pricing in general requires collection of policyholders’ discriminatory characteristics, posing potential challenges in relation to policyholder’s privacy concerns. Moving towards application of this approach in practice raises further questions, which I aim to discuss in the seminar. This is a joint work with M. Lindholm, R. Richman, M.V. Wuethrich. </div>
+          <blockquote>
+            <p><b> Title: Dircrimination-free Insurance Pricing </b></p>
+            <p><b> Speaker: Andreas Tsanakas (Professor, Cass Business School, City University London) </b></p>
+            <p><b> Time: 11:00pm-12:00pm, Jun 19 (Fri) </b></p>
+            <p><b> Location: online via Zoom </b></p>
+            <p><b> Abstract: Abstract: We consider the following question: given information on individual policyholder characteristics,     how can we ensure that insurance prices do not discriminate with respect to protected characteristics, such as gender? We address the issues of direct and indirect discrimination, the latter meaning that protected characteristics are implicitly learned (“proxied”) from non-protected ones. We provide mathematical definitions for direct and indirect discrimination and introduce a simple formula for discrimination-free pricing, which avoids both direct and indirect discrimination. This formula works in any statistical model. We demonstrate its application on a health insurance example, using a generalized linear model and a neural network regression model. An important conclusion is that discrimination-free pricing in general requires collection of policyholders’ discriminatory characteristics, posing potential challenges in relation to policyholder’s privacy concerns. Moving towards application of this approach in practice raises further questions, which I aim to discuss in the seminar. This is a joint work with M. Lindholm, R. Richman, M.V. Wuethrich. </b></p>
+          </blockquote>
         </ol>
     </details>
 
 
     <details>
-        <summary><u><b>Jun 12 (Yuyu Chen) </b></u></summary>
+        <summary><u><b> Jun 12 (Yuyu Chen) </b></u></summary>
         <ol>
-            <div> Title: Ordering and Inequalities of Mixtures on Risk Aggregation </div>
-             
-            <div> Speaker: Yuyu Chen (PhD candidate, University of Waterloo) </div>
-             
-            <div>Time: 9:00pm-10:00pm, Jun 12 (Fri)   </div>
-             
-            <div> Location: online via Zoom </div>
-            
-            <div> Abstract: In this paper we first investigate the ordering relationship between aggregation sets where the marginal risks from different sets are related by some simple operations, such as distribution-mixture or quantile-mixture defined by doubly stochastic matrices.  It turns out that the aggregation set after operating a distribution-mixture becomes larger for general marginal distributions. However, the aggregation sets are not comparable under quantile-mixture operations in general. Our results on orders of aggregation sets imply that distribution-mixture operations on marginal risks can increase the worst-case values of risk measures for general marginal risks and general law-invariant risk measures. If all marginal distributions have decreasing densities,  we show that quantile-mixture operations can produce a larger worst-case value of a specific regulatory risk measure, Value-at-Risk (VaR). We particularly focus on the worst-case values of risk measure for Pareto marginal distributions to obtain more specific inequalities related to the simple operations. Our results can be used to compare the the worst-case values of risk measures on two risk aggregations where no stochastic dominance exists between them.  Numerical studies are conducted to illustrate our findings on inequalities for the worst-case values of VaR.  </div>
+          <blockquote>
+            <p><b> Title: Ordering and Inequalities of Mixtures on Risk Aggregation </b></p>
+            <p><b> Speaker: Yuyu Chen (PhD candidate, University of Waterloo) </b></p>
+            <p><b> Time: 9:00pm-10:00pm, Jun 12 (Fri) </b></p>
+            <p><b> Location: online via Zoom </b></p>
+            <p><b> Abstract: In this paper we first investigate the ordering relationship between aggregation sets where the marginal risks from different sets are related by some simple operations, such as distribution-mixture or quantile-mixture defined by doubly stochastic matrices.  It turns out that the aggregation set after operating a distribution-mixture becomes larger for general marginal distributions. However, the aggregation sets are not comparable under quantile-mixture operations in general. Our results on orders of aggregation sets imply that distribution-mixture operations on marginal risks can increase the worst-case values of risk measures for general marginal risks and general law-invariant risk measures. If all marginal distributions have decreasing densities,  we show that quantile-mixture operations can produce a larger worst-case value of a specific regulatory risk measure, Value-at-Risk (VaR). We particularly focus on the worst-case values of risk measure for Pareto marginal distributions to obtain more specific inequalities related to the simple operations. Our results can be used to compare the the worst-case values of risk measures on two risk aggregations where no stochastic dominance exists between them.  Numerical studies are conducted to illustrate our findings on inequalities for the worst-case values of VaR. </b></p>
+          </blockquote>
         </ol>
     </details>
 </body>
