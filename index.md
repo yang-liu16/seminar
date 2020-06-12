@@ -36,7 +36,7 @@
             <p><b> Title: TBA</b></p>
             <p><b> Speaker: Mario Wüthrich (Professor, ETH Zurich) </b></p>
             <p><b> Time: 11:00am-12:00am, Jul 3 (Fri) </b></p>
-            <p><b> Location: online via Zoom </b></p>
+            <p><b> Location: Online via Zoom </b></p>
             <p><b> Abstract: TBA </b></p>
           </blockquote>
         </ol>
@@ -50,7 +50,7 @@
             <p><b> Title: TBA</b></p>
             <p><b> Speaker: Tolulope Fadina (Postdoc Fellow, University of Waterloo) </b></p>
             <p><b> Time: 9:00pm-10:00pm, Jun 26 (Fri) </b></p>
-            <p><b> Location: online via Zoom </b></p>
+            <p><b> Location: Online via Zoom </b></p>
             <p><b> Abstract: TBA </b></p>
           </blockquote>
         </ol>
@@ -64,7 +64,7 @@
             <p><b> Title: Dircrimination-free Insurance Pricing </b></p>
             <p><b> Speaker: Andreas Tsanakas (Professor, Cass Business School, City University London) </b></p>
             <p><b> Time: 11:00pm-12:00pm, Jun 19 (Fri) </b></p>
-            <p><b> Location: online via Zoom </b></p>
+            <p><b> Location: Online via Zoom </b></p>
             <p><b> Abstract: Abstract: We consider the following question: given information on individual policyholder characteristics,     how can we ensure that insurance prices do not discriminate with respect to protected characteristics, such as gender? We address the issues of direct and indirect discrimination, the latter meaning that protected characteristics are implicitly learned (“proxied”) from non-protected ones. We provide mathematical definitions for direct and indirect discrimination and introduce a simple formula for discrimination-free pricing, which avoids both direct and indirect discrimination. This formula works in any statistical model. We demonstrate its application on a health insurance example, using a generalized linear model and a neural network regression model. An important conclusion is that discrimination-free pricing in general requires collection of policyholders’ discriminatory characteristics, posing potential challenges in relation to policyholder’s privacy concerns. Moving towards application of this approach in practice raises further questions, which I aim to discuss in the seminar. This is a joint work with M. Lindholm, R. Richman, M.V. Wuethrich. </b></p>
           </blockquote>
         </ol>
@@ -78,7 +78,7 @@
             <p><b> Title: Ordering and Inequalities of Mixtures on Risk Aggregation </b></p>
             <p><b> Speaker: Yuyu Chen (PhD candidate, University of Waterloo) </b></p>
             <p><b> Time: 9:00pm-10:00pm, Jun 12 (Fri) </b></p>
-            <p><b> Location: online via Zoom </b></p>
+            <p><b> Location: Online via Zoom </b></p>
             <p><b> Abstract: In this paper we first investigate the ordering relationship between aggregation sets where the marginal risks from different sets are related by some simple operations, such as distribution-mixture or quantile-mixture defined by doubly stochastic matrices.  It turns out that the aggregation set after operating a distribution-mixture becomes larger for general marginal distributions. However, the aggregation sets are not comparable under quantile-mixture operations in general. Our results on orders of aggregation sets imply that distribution-mixture operations on marginal risks can increase the worst-case values of risk measures for general marginal risks and general law-invariant risk measures. If all marginal distributions have decreasing densities,  we show that quantile-mixture operations can produce a larger worst-case value of a specific regulatory risk measure, Value-at-Risk (VaR). We particularly focus on the worst-case values of risk measure for Pareto marginal distributions to obtain more specific inequalities related to the simple operations. Our results can be used to compare the the worst-case values of risk measures on two risk aggregations where no stochastic dominance exists between them.  Numerical studies are conducted to illustrate our findings on inequalities for the worst-case values of VaR. </b></p>
           </blockquote>
         </ol>
@@ -89,105 +89,134 @@
 
 ## Past Events
 
-### Jun 5
-
-> Title: Risk measures based on behavioural economics theory
->
-> Speaker: Mingren Yin (PhD Candidate, University of Waterloo)
->
-> Time: 9:00pm-10:00pm, Jun 5 (Fri)
-> 
-> Location: Online via Zoom
-
-
-### May 29
-
-> Title: Self-consistency, subjective pricing, and a theory of credit rating
->
-> Speaker: Liyuan Lin (Graduate Student, Central University of Finance and Economics & University of Waterloo)
-> 
-> Time: 9:00pm-10:00pm, May 29 (Fri)
->
-> Location: Online via Zoom
+<body>
+    <details>
+        <summary><u><b>Jun 5 (Mingren Yin)</b></u></summary>
+        <ol>
+          <blockquote>
+            <p><b> Title: Risk measures based on behavioural economics theory </b></p>
+            <p><b> Speaker: Mingren Yin (PhD Candidate, University of Waterloo) </b></p>
+            <p><b> Time: 9:00pm-10:00pm, Jun 5 (Fri) </b></p>
+            <p><b> Location: Online via Zoom </b></p>
+          </blockquote>
+        </ol>
+    </details>
 
 
-### May 24
-
-> Title: Minimizing the probability of absolute ruin under ambiguity aversion
->
-> Speaker: Xia Han (PhD, Nanjing Normal University)
->
-> Time: 9:00pm-10:00pm, May 24 (Sun), 2020
->
-> Location: Online via Zoom
-
-
-### May 15
-
-> Title: Functions operating on multivariate distributions
-> 
-> Speaker: Peng Liu (Postdoc Fellow, University of Waterloo)
-> 
-> Time: 9:00pm-10:00pm, May 15 (Fri)
->
-> Location: Online via Zoom
+    <details>
+        <summary><u><b>May 29 (Liyuan Lin)</b></u></summary>
+        <ol>
+          <blockquote>
+            <p><b> Title: Self-consistency, subjective pricing, and a theory of credit rating </b></p>
+            <p><b> Speaker: Liyuan Lin (Graduate Student, Central University of Finance and Economics & University of Waterloo) </b></p>
+            <p><b> Time: 9:00pm-10:00pm, May 29 (Fri) </b></p>
+            <p><b> Location: Online via Zoom </b></p>
+          </blockquote>
+        </ol>
+    </details>
 
 
-### May 8
-
-> Title: Extreme and inference for tail-Gini functionals with applications in tail risk management
->
-> Speaker: Xing Wang (Assistant Professor, Illinois State University)
->
-> Time: Fri, 9:00pm-10:00pm, May 8 (Fri)
-> 
-> Location: Online via Zoom
-
-
-### May 1
-
-> Title: Risk quadrangles
->
-> Speaker: Qiuqi Wang (PhD Candidate, University of Waterloo)
->
-> Time: 9:00pm-10:00pm, May 1 (Fri) 
->
-> Location: Online via Zoom
+    <details>
+        <summary><u><b>May 24 (Xia Han)</b></u></summary>
+        <ol>
+          <blockquote>
+            <p><b> Title: Minimizing the probability of absolute ruin under ambiguity aversion </b></p>
+            <p><b> Speaker: Xia Han (PhD, Nanjing Normal University) </b></p>
+            <p><b> Time: 9:00pm-10:00pm, May 24 (Sun) </b></p>
+            <p><b> Location: Online via Zoom </b></p>
+          </blockquote>
+        </ol>
+    </details>
 
 
-### Apr 26
-
-> Title: Primal bounds on quantile aggregation
->
-> Speaker: Yang Liu (PhD Candidate, Tsinghua University & University of Waterloo)
->
-> Time: 9:00pm-10:00pm, Apr 26 (Sun)
->
-> Location: Online via Zoom
-
-
-### Mar 12
-
-> Title: An axiomatic foundation of the Expected Shortfall
->
-> Speaker: Liyuan Lin (Graduate Student, Central University of Finance and Economics & University of Waterloo)
->
-> Time: 3:00pm-4:00pm, Mar 12 (Thu)
->
-> Location: M3-3001, University of Waterloo
+    <details>
+        <summary><u><b>May 15 (Peng Liu)</b></u></summary>
+        <ol>
+          <blockquote>
+            <p><b> Title: Functions operating on multivariate distributions </b></p>
+            <p><b> Speaker: Peng Liu (Postdoc Fellow, University of Waterloo) </b></p>
+            <p><b> Time: 9:00pm-10:00pm, May 15 (Fri) </b></p>
+            <p><b> Location: Online via Zoom </b></p>
+          </blockquote>
+        </ol>
+    </details>
 
 
-### Mar 5
+    <details>
+        <summary><u><b>May 8 (Xing Wang)</b></u></summary>
+        <ol>
+          <blockquote>
+            <p><b> Title: Extreme and inference for tail-Gini functionals with applications in tail risk management </b></p>
+            <p><b> Speaker: Xing Wang (Assistant Professor, Illinois State University) </b></p>
+            <p><b> Time: Fri, 9:00pm-10:00pm, May 8 (Fri) </b></p>
+            <p><b> Location: Online via Zoom </b></p>
+          </blockquote>
+        </ol>
+    </details>
 
-> Title: Bounds on quantile aggregation
->
-> Speaker: Yang Liu (PhD Candidate, Tsinghua University & University of Waterloo)
->
-> Time: 3:00pm-4:00pm, Mar 5 (Thu)
-> 
-> Location: M3-3001, University of Waterloo
 
- 
+    <details>
+        <summary><u><b>May 1 (Qiuqi Wang)</b></u></summary>
+        <ol>
+          <blockquote>
+            <p><b> Title: Risk quadrangles </b></p>
+            <p><b> Speaker: Qiuqi Wang (PhD Candidate, University of Waterloo) </b></p>
+            <p><b> Time: 9:00pm-10:00pm, May 1 (Fri)  </b></p>
+            <p><b> Location: Online via Zoom </b></p>
+          </blockquote>
+        </ol>
+    </details>
+
+
+    <details>
+        <summary><u><b>Apr 26 (Yang Liu)</b></u></summary>
+        <ol>
+          <blockquote>
+            <p><b> Primal bounds on quantile aggregation </b></p>
+            <p><b> Speaker: Yang Liu (PhD Candidate, Tsinghua University & University of Waterloo) </b></p>
+            <p><b> Time: 9:00pm-10:00pm, Apr 26 (Sun) </b></p>
+            <p><b> Location: Online via Zoom </b></p>
+          </blockquote>
+        </ol>
+    </details>
+
+
+    <details>
+        <summary><u><b>Mar 12 (Liyuan Lin)</b></u></summary>
+        <ol>
+          <blockquote>
+            <p><b> Title: An axiomatic foundation of the Expected Shortfall </b></p>
+            <p><b> Speaker: Liyuan Lin (Graduate Student, Central University of Finance and Economics & University of Waterloo) </b></p>
+            <p><b> Time: 3:00pm-4:00pm, Mar 12 (Thu) </b></p>
+            <p><b> Location: Online via Zoom </b></p>
+          </blockquote>
+        </ol>
+    </details>
+
+
+    <details>
+        <summary><u><b>Mar 5 (Yang Liu)</b></u></summary>
+        <ol>
+          <blockquote>
+            <p><b> Title: Bounds on quantile aggregation </b></p>
+            <p><b> Speaker: Yang Liu (PhD Candidate, Tsinghua University & University of Waterloo) </b></p>
+            <p><b> Time: 3:00pm-4:00pm, Mar 5 (Thu) </b></p>
+            <p><b> Location: M3-3001, University of Waterloo </b></p>
+          </blockquote>
+        </ol>
+    </details>
+
+     <details>
+        <summary><u><b>Jun 5 (Mingren Yin)</b></u></summary>
+        <ol>
+          <blockquote>
+            <p><b> Title: Risk measures based on behavioural economics theory </b></p>
+            <p><b> Speaker: Mingren Yin (PhD Candidate, University of Waterloo) </b></p>
+            <p><b> Time: 9:00pm-10:00pm, Jun 5 (Fri) </b></p>
+            <p><b> Location: Online via Zoom </b></p>
+          </blockquote>
+        </ol>
+    </details>
 ### Feb 25
 
 > Title: Retirement planning with systematic disability and mortality risk
@@ -198,7 +227,17 @@
 >
 > Location: M3-3001, University of Waterloo
 
-
+    <details>
+        <summary><u><b>Jun 5 (Mingren Yin)</b></u></summary>
+        <ol>
+          <blockquote>
+            <p><b> Title: Risk measures based on behavioural economics theory </b></p>
+            <p><b> Speaker: Mingren Yin (PhD Candidate, University of Waterloo) </b></p>
+            <p><b> Time: 9:00pm-10:00pm, Jun 5 (Fri) </b></p>
+            <p><b> Location: Online via Zoom </b></p>
+          </blockquote>
+        </ol>
+    </details>
 ### Feb 13
 
 > Title: Is the inf-convolution of law-invariant preferences law-invariant?
@@ -209,7 +248,17 @@
 > 
 > Location: M3-3001, University of Waterloo
 
-
+    <details>
+        <summary><u><b>Jun 5 (Mingren Yin)</b></u></summary>
+        <ol>
+          <blockquote>
+            <p><b> Title: Risk measures based on behavioural economics theory </b></p>
+            <p><b> Speaker: Mingren Yin (PhD Candidate, University of Waterloo) </b></p>
+            <p><b> Time: 9:00pm-10:00pm, Jun 5 (Fri) </b></p>
+            <p><b> Location: Online via Zoom </b></p>
+          </blockquote>
+        </ol>
+    </details>
 ### Feb 6
 
 > Title: Trade-off between anytime- and sometime-safe methods for merging p-values
@@ -220,7 +269,17 @@
 >
 > Location: M3-3001, University of Waterloo
 
-
+    <details>
+        <summary><u><b>Jun 5 (Mingren Yin)</b></u></summary>
+        <ol>
+          <blockquote>
+            <p><b> Title: Risk measures based on behavioural economics theory </b></p>
+            <p><b> Speaker: Mingren Yin (PhD Candidate, University of Waterloo) </b></p>
+            <p><b> Time: 9:00pm-10:00pm, Jun 5 (Fri) </b></p>
+            <p><b> Location: Online via Zoom </b></p>
+          </blockquote>
+        </ol>
+    </details>
 ### Jan 30 
 
 > Title: Minimax pricing and Choquet pricing
@@ -231,7 +290,17 @@
 >
 > Location: M3-3001, University of Waterloo
 
-
+    <details>
+        <summary><u><b>Jun 5 (Mingren Yin)</b></u></summary>
+        <ol>
+          <blockquote>
+            <p><b> Title: Risk measures based on behavioural economics theory </b></p>
+            <p><b> Speaker: Mingren Yin (PhD Candidate, University of Waterloo) </b></p>
+            <p><b> Time: 9:00pm-10:00pm, Jun 5 (Fri) </b></p>
+            <p><b> Location: Online via Zoom </b></p>
+          </blockquote>
+        </ol>
+    </details>
 ### Jan 23
 
 > Title: Risk measures derived from a regulator’s perspective on the regulatory capital requirements for insurers
@@ -241,7 +310,17 @@
 > Time: 3:00pm-4:00pm, Jan 23 (Thu)
 > 
 > Location: M3-3001, University of Waterloo 
-
+    <details>
+        <summary><u><b>Jun 5 (Mingren Yin)</b></u></summary>
+        <ol>
+          <blockquote>
+            <p><b> Title: Risk measures based on behavioural economics theory </b></p>
+            <p><b> Speaker: Mingren Yin (PhD Candidate, University of Waterloo) </b></p>
+            <p><b> Time: 9:00pm-10:00pm, Jun 5 (Fri) </b></p>
+            <p><b> Location: Online via Zoom </b></p>
+          </blockquote>
+        </ol>
+    </details>
 
 ### Jan 16
 
@@ -253,7 +332,17 @@
 > 
 > Location: M3-4206, University of Waterloo
 
-
+    <details>
+        <summary><u><b>Jun 5 (Mingren Yin)</b></u></summary>
+        <ol>
+          <blockquote>
+            <p><b> Title: Risk measures based on behavioural economics theory </b></p>
+            <p><b> Speaker: Mingren Yin (PhD Candidate, University of Waterloo) </b></p>
+            <p><b> Time: 9:00pm-10:00pm, Jun 5 (Fri) </b></p>
+            <p><b> Location: Online via Zoom </b></p>
+          </blockquote>
+        </ol>
+    </details>
 ### Jan 9
 
 > Title: A method to check whether an n-tuple of distributions with two-step densities is JM
@@ -264,7 +353,17 @@
 > 
 > Location: M3-3001, University of Waterloo
 
-
+    <details>
+        <summary><u><b>Jun 5 (Mingren Yin)</b></u></summary>
+        <ol>
+          <blockquote>
+            <p><b> Title: Risk measures based on behavioural economics theory </b></p>
+            <p><b> Speaker: Mingren Yin (PhD Candidate, University of Waterloo) </b></p>
+            <p><b> Time: 9:00pm-10:00pm, Jun 5 (Fri) </b></p>
+            <p><b> Location: Online via Zoom </b></p>
+          </blockquote>
+        </ol>
+    </details>
 ### Jan 3
 
 > Title: Risk management with non-convex and non-monotone preferences
@@ -274,6 +373,9 @@
 > Time: 3:00pm-4:00pm, Jan 3 (Fri)
 > 
 > Location: M3-3001, University of Waterloo
+
+</body>
+
 
 
 ### [Seminars in 2019](./2019.html)
