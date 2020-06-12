@@ -1,25 +1,3 @@
-<script type="text/javascript">
-//===========================点击展开关闭效果====================================
-function openShutManager(oSourceObj,oTargetObj,shutAble,oOpenTip,oShutTip){
-var sourceObj = typeof oSourceObj == "string" ? document.getElementById(oSourceObj) : oSourceObj;
-var targetObj = typeof oTargetObj == "string" ? document.getElementById(oTargetObj) : oTargetObj;
-var openTip = oOpenTip || "";
-var shutTip = oShutTip || "";
-if(targetObj.style.display!="none"){
-   if(shutAble) return;
-   targetObj.style.display="none";
-   if(openTip  &&  shutTip){
-    sourceObj.innerHTML = shutTip; 
-   }
-} else {
-   targetObj.style.display="block";
-   if(openTip  &&  shutTip){
-    sourceObj.innerHTML = openTip; 
-   }
-}
-}
-</script>
-
 # Weekly Seminars on Risk Management and Actuarial Science
 
 The weekly seminar series is a venue for international scholars in risk management and actuarial science to discuss research advances and exchange ideas. Junior researchers are the most encouraged to present their recent work, including on-going projects. The list of current and past speakers includes scholars from Canada, US, China, Australia, and Europe. 
@@ -110,60 +88,23 @@ Qiuqi Wang (University of Waterloo):
 [Seminars in 2019](./2019.html)
 
 
-<p><a href="###" οnclick="openShutManager(this,'box')">点击展开</a></p>
-<p id="box" style="display:none">
-   这里面放的是box的内容.
-</p>
-<p><a href="###" οnclick="openShutManager(this,'box2',true)">点击展开</a></p>
-<p id="box2" style="display:none">
-   这里面放的是box的内容.
-</p>
-<p><a href="###" οnclick="openShutManager(this,'box3',false,'点击关闭','点击展开')">点击展开</a></p>
-<p id="box3" style="display:none">
-   这里面放的是box的内容.
-</p>
-<p><button οnclick="openShutManager(this,'box4',false,'点击关闭','点击展开')">点击展开</button></p>
-<p id="box4" style="display:none">
-   这里面放的是box的内容.
-</p>
-
-<div id="box">
-    <div id="content">
-        <h4>皮质腕表 水晶刻度大气表盘</h4>
-        <p>瑞典 | Daniel Wellington | 价格:￥1233.24</p>
-        <div id="spread">
-            <img src="images/pic.jpg" alt="">
-            <p>税费：进口税 预计146.76元</p>
-            <p>物流：香港仓发货 至中国海关 至杭州市</p>
-            <p>运费：0.00 24：00前付款,预计15日内送达</p>
-        </div>
-    </div>
-    <button id="btn">展开</button>
-</div>
-
-<script src="jquery-3.2.1.min.js"></script>
-
-<script>
-    var btn = $('#btn')
-    var spread = $('#spread')
-    btn.click(function () {
-        spread.slideToggle()
-    })
-</script>
-
-
-<script>
-function change(){
-var obj=document.getElementById("DIVTEXT");
-if(obj.style.display=="none"){
-obj.style.display="block"
-}else{
-obj.style.display="none"
-}
-}
-</script>
-<a href="javascript:change();">点击显示隐藏dao</a> 
-<div id="DIVTEXT">这里是现bai实du的内容zhi</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>details和summary标签</title>
+</head>
+<body>
+    <details>
+        <summary>常见的水果</summary>
+        <ol>
+            <li>草莓</li>
+            <li>香蕉</li>
+            <li>苹果</li>
+        </ol>
+    </details>
+</body>
+</html>
 
 * * *
 ## Other Online Seminar Initiatives
