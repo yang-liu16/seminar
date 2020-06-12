@@ -28,17 +28,23 @@ Qiuqi Wang (University of Waterloo):
 
 ## Upcoming Events
 
+<body>
+    <details>
+        <summary><u>### Jul 3</u></summary>
+        <ol>
+            > Title: TBA
+            > 
+            > Speaker: Mario Wüthrich (Professor, ETH Zurich) 
+            > 
+            > Time: 11:00am-12:00am, Jul 3 (Fri) 
+            > 
+            > Location: online via Zoom
+            >
+            > Abstract: TBA
+        </ol>
+    </details>
+</body>
 
-### Jul 3
-> Title: TBA
-> 
-> Speaker: Mario Wüthrich (Professor, ETH Zurich) 
-> 
-> Time: 11:00am-12:00am, Jul 3 (Fri) 
-> 
-> Location: online via Zoom
->
-> Abstract: TBA
 
 
 ### Jun 26
@@ -84,16 +90,6 @@ Qiuqi Wang (University of Waterloo):
 [Seminars in 2019](./2019.html)
 
 
-<body>
-    <details>
-        <summary>常见的水果</summary>
-        <ol>
-            <li>草莓</li>
-            <li>香蕉</li>
-            <li>苹果</li>
-        </ol>
-    </details>
-</body>
 
 
 * * *
