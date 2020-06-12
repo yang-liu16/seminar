@@ -76,16 +76,6 @@ Qiuqi Wang (University of Waterloo): [q428wang@uwaterloo.ca](q428wang@uwaterloo.
 > Time: 11:00am-12:00am, Jul 3 (Fri) 
 > 
 > Location: online via Zoom
->
-> <dl>
-> <dt>Name:</dt> Godzilla
-> <dt>Born:</dt> 1952
-> <dt>Birthplace</dt>
-> <dd>Japan</dd>
-> <dt>Color</dt>
-> <dd>Green</dd>
-> </dl>
-
 
 
 ## Past Events
