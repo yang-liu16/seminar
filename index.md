@@ -29,10 +29,9 @@
 ## Upcoming Events
 
 <body>
- 
     <details>
         <summary><b><table><thead><tr>
-        <td style="text-align: left"><u>Jul 3</u></td>
+        <td style="text-align: left">Jul 3</td>
         <td style="text-align: left">Prof. Mario Wüthrich</td>
         <td style="text-align: left">ETH Zurich</td>
        </tr></thead></table></b></summary>
@@ -49,11 +48,11 @@
 
 
     <details>
-        <summary><b><table><thead><tr>
-        <td style="text-align: left"><u>Jun 26</u></td>
+        <summary><b><table><tbody><tr>
+        <td style="text-align: left">Jun 26</td>
         <td style="text-align: left">Dr. Tolulope Fadina</td>
         <td style="text-align: left">University of Waterloo</td>
-        </tr></thead></table></b></summary>
+        </tr></tbody></table></b></summary>
         <ol>
           <blockquote>
             <p><b> Title: TBA</b></p>
@@ -64,11 +63,11 @@
           </blockquote>
         </ol>
     </details>
-    
+ </table>   
     
     <details>
         <summary><b><table><thead><tr>
-        <td style="text-align: left"><u>Jun 19</u></td>
+        <td style="text-align: left">Jun 19</td>
         <td style="text-align: left">Prof. Andreas Tsanakas</td>
         <td style="text-align: left">Cass Business School</td>
         </tr></thead></table></b></summary>
@@ -76,7 +75,7 @@
           <blockquote>
             <p><b> Title: Discrimination-free Insurance Pricing </b></p>
             <p><b> Speaker: Andreas Tsanakas (Professor, Cass Business School, City University London) </b></p>
-            <p><b> Time: 11:00am-12:00am, Jun 19 (Fri) </b></p>
+            <p><b> Time: 11:00pm-12:00pm, Jun 19 (Fri) </b></p>
             <p><b> Location: Online via Zoom </b></p>
             <p><b> Abstract: Abstract: We consider the following question: given information on individual policyholder characteristics,     how can we ensure that insurance prices do not discriminate with respect to protected characteristics, such as gender? We address the issues of direct and indirect discrimination, the latter meaning that protected characteristics are implicitly learned (“proxied”) from non-protected ones. We provide mathematical definitions for direct and indirect discrimination and introduce a simple formula for discrimination-free pricing, which avoids both direct and indirect discrimination. This formula works in any statistical model. We demonstrate its application on a health insurance example, using a generalized linear model and a neural network regression model. An important conclusion is that discrimination-free pricing in general requires collection of policyholders’ discriminatory characteristics, posing potential challenges in relation to policyholder’s privacy concerns. Moving towards application of this approach in practice raises further questions, which I aim to discuss in the seminar. This is a joint work with M. Lindholm, R. Richman, M.V. Wuethrich. </b></p>
           </blockquote>
@@ -86,7 +85,7 @@
 
     <details>
         <summary><b><table><thead><tr>
-        <td style="text-align: left"><u>Jun 12</u></td>
+        <td style="text-align: left">Jun 12</td>
         <td style="text-align: left">Yuyu Chen</td>
         <td style="text-align: left">University of Waterloo</td>
         </tr></thead></table></b></summary>
@@ -101,7 +100,6 @@
         </ol>
     </details>
 </body>
-
 
 ## Past Events
 
