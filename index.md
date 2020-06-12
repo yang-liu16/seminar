@@ -39,7 +39,7 @@ Qiuqi Wang (University of Waterloo): [q428wang@uwaterloo.ca](q428wang@uwaterloo.
 ### Jun 19
 > Title: Dircrimination-free Insurance Pricing
 > 
-> Speaker: Andreas Tsanakas (Assistant Professor, Cass Business School, City University London)
+> Speaker: Andreas Tsanakas (Professor, Cass Business School, City University London)
 > 
 > Time: 11:00pm-12:00pm, Jun 19 (Fri) 
 > 
