@@ -4,7 +4,7 @@
 
 * <b>To volunteer yourself or propose a speaker for a research presentation, please contact the organizers by email. </b>
 
-* <b>If you would like to be included in the mailing list, please contact the organizers.</b>
+* <b>We will send out weekly reminders via a mailing list, usually on the day before the presentation. Papers and presentation slides will be circulated among participants via the mailing list. If you would like to be included in the list, please contact the organizers.</b>
 
 ## Current Schedule
 <b>Time: 9:00pm-10:00pm or 11:00am-12:00am, every Friday (Eastern Standard Time)</b>
