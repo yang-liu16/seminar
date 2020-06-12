@@ -88,9 +88,33 @@
 
 
 ## Past Events
+
+
+###### Header 6
+
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
+
 ### [<u>Seminars in 2020</u>](./2020.html)
 
 <body>
+  
+    <details>
+        <summary><u><b> | ok           | good swedish fish | nice  |  </b></u></summary>
+        <ol>
+          <blockquote>
+            <p><b> Title: Risk measures based on behavioural economics theory </b></p>
+            <p><b> Speaker: Mingren Yin (PhD Candidate, University of Waterloo) </b></p>
+            <p><b> Time: 9:00pm-10:00pm, Jun 5 (Fri) </b></p>
+            <p><b> Location: Online via Zoom </b></p>
+          </blockquote>
+        </ol>
+    </details>
+ 
     <details>
         <summary><u><b>Jun 5 (Mingren Yin, University of Waterloo)</b></u></summary>
         <ol>
@@ -320,11 +344,3 @@
 ## Other Online Seminar Initiatives
 [One World Actuarial Research Seminar](http://www.maths.usyd.edu.au/u/munir/owars/)
 
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
