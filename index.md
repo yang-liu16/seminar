@@ -7,23 +7,23 @@
 * <b>If you would like to be included in the mailing list, please contact the organizers.</b>
 
 ## Current Schedule
-<b>Time: 9:00pm-10:00pm or 11:00am-12:00am, every Friday (Eastern Standard Time)
+<b>Time: 9:00pm-10:00pm or 11:00am-12:00am, every Friday (Eastern Standard Time)</b>
 
-Zoom Link: [https://cernet.zoom.com.cn/j/67990545137](https://cernet.zoom.com.cn/j/67990545137)
+<b>Zoom Link: [https://cernet.zoom.com.cn/j/67990545137](https://cernet.zoom.com.cn/j/67990545137)</b>
 
-Meeting ID：679 9054 5137</b>
+<b>Meeting ID：679 9054 5137</b>
 
 
 ## Student Organizers
 <b>[Yang Liu](https://yang-liu16.github.io/) (Tsinghua University & University of Waterloo):
-<a href="#"><i class="far fa-envelope fa-fw mr-2" data-fa-transform="grow-3"></i>y2796liu@uwaterloo.ca</a>
+<a href="#"><i class="far fa-envelope fa-fw mr-2" data-fa-transform="grow-3"></i>y2796liu@uwaterloo.ca</a></b>
 
-Qiuqi Wang (University of Waterloo):
+<b>Qiuqi Wang (University of Waterloo):
 <a href="#"><i class="far fa-envelope fa-fw mr-2" data-fa-transform="grow-3"></i>q428wang@uwaterloo.ca</a></b>
 
 
 ## Faculty Mentor
-[Prof. Ruodu Wang](http://sas.uwaterloo.ca/~wang/) (University of Waterloo) 
+<b>[Prof. Ruodu Wang](http://sas.uwaterloo.ca/~wang/) (University of Waterloo) </b>
 
 
 ## Upcoming Events
@@ -32,15 +32,15 @@ Qiuqi Wang (University of Waterloo):
     <details>
         <summary><u><b>Jul 3 (Mario Wüthrich)</b></u></summary>
         <ol>
-            <div> Title: TBA </div>
+            <div> <b>Title: TBA </b></div>
              
-            <div> Speaker: Mario Wüthrich (Professor, ETH Zurich) </div>
+            <div> <b>Speaker: Mario Wüthrich (Professor, ETH Zurich) </b></div>
              
-            <div> Time: 11:00am-12:00am, Jul 3 (Fri) </div>
+            <div> <b>Time: 11:00am-12:00am, Jul 3 (Fri) </b></div>
              
-            <div> Location: online via Zoom </div>
+            <div> <b>Location: online via Zoom </b></div>
             
-            <div> Abstract: TBA </div>
+            <div> <b>Abstract: TBA </b></div>
         </ol>
     </details>
 </body>
