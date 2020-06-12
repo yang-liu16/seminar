@@ -1,25 +1,25 @@
 # Weekly Seminars on Risk Management and Actuarial Science
 
-<b>The weekly seminar series is a venue for international scholars in risk management and actuarial science to discuss research advances and exchange ideas. Junior researchers are the most encouraged to present their recent work, including on-going projects. The list of current and past speakers includes scholars from Canada, US, China, Australia, and Europe. 
+<b>The weekly seminar series is a venue for international scholars in risk management and actuarial science to discuss research advances and exchange ideas. Junior researchers are the most encouraged to present their recent work, including on-going projects. The list of current and past speakers includes scholars from Canada, US, China, Australia, and Europe. </b>
 
-* To volunteer yourself or propose a speaker for a research presentation, please contact the organizers by email. 
+* <b>To volunteer yourself or propose a speaker for a research presentation, please contact the organizers by email. </b>
 
-* If you would like to be included in the mailing list, please contact the organizers.</b>
+* <b>If you would like to be included in the mailing list, please contact the organizers.</b>
 
 ## Current Schedule
-Time: 9:00pm-10:00pm or 11:00am-12:00am, every Friday (Eastern Standard Time)
+<b>Time: 9:00pm-10:00pm or 11:00am-12:00am, every Friday (Eastern Standard Time)
 
 Zoom Link: [https://cernet.zoom.com.cn/j/67990545137](https://cernet.zoom.com.cn/j/67990545137)
 
-Meeting ID：679 9054 5137
+Meeting ID：679 9054 5137</b>
 
 
 ## Student Organizers
-[Yang Liu](https://yang-liu16.github.io/) (Tsinghua University & University of Waterloo):
+<b>[Yang Liu](https://yang-liu16.github.io/) (Tsinghua University & University of Waterloo):
 <a href="#"><i class="far fa-envelope fa-fw mr-2" data-fa-transform="grow-3"></i>y2796liu@uwaterloo.ca</a>
 
 Qiuqi Wang (University of Waterloo):
-<a href="#"><i class="far fa-envelope fa-fw mr-2" data-fa-transform="grow-3"></i>q428wang@uwaterloo.ca</a>
+<a href="#"><i class="far fa-envelope fa-fw mr-2" data-fa-transform="grow-3"></i>q428wang@uwaterloo.ca</a></b>
 
 
 ## Faculty Mentor
