@@ -104,7 +104,11 @@
 <body>
   
     <details>
-        <summary><u><b> | ok           | good swedish fish | nice  |  </b></u></summary>
+        <summary><u><b> <tr>
+      <td style="text-align: left">Jun 5</td>
+      <td style="text-align: left">Mingren Yin</td>
+      <td style="text-align: left">University of Waterloo</td>
+      </tr></b></u></summary>
         <ol>
           <blockquote>
             <p><b> Title: Risk measures based on behavioural economics theory </b></p>
