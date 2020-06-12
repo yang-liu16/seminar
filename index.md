@@ -34,7 +34,7 @@
         <td style="text-align: left">Jul 3</td>
         <td style="text-align: left">Prof. Mario Wüthrich</td>
         <td style="text-align: left">ETH Zurich</td>
-        </tr></thead></table></b></u></summary>
+        </tr></thead></table></b></summary>
         <ol>
           <blockquote>
             <p><b> Title: TBA</b></p>
@@ -52,7 +52,7 @@
         <td style="text-align: left">Jun 26</td>
         <td style="text-align: left">Dr. Tolulope Fadina</td>
         <td style="text-align: left">University of Waterloo</td>
-        </tr></thead></table></b></u></summary>
+        </tr></thead></table></b></summary>
         <ol>
           <blockquote>
             <p><b> Title: TBA</b></p>
@@ -70,7 +70,7 @@
         <td style="text-align: left">Jun 19</td>
         <td style="text-align: left">Prof. Andreas Tsanakas</td>
         <td style="text-align: left">Cass Business School</td>
-        </tr></thead></table></b></u></summary>
+        </tr></thead></table></b></summary>
         <ol>
           <blockquote>
             <p><b> Title: Dircrimination-free Insurance Pricing </b></p>
@@ -120,7 +120,7 @@
         <td style="text-align: left">Jun 5</td>
         <td style="text-align: left">Mingren Yin</td>
         <td style="text-align: left">University of Waterloo</td>
-        </tr></thead></table></b></u></summary>
+        </tr></thead></table></b></summary>
         <ol>
           <blockquote>
             <p><b> Title: Risk measures based on behavioural economics theory </b></p>
