@@ -43,10 +43,8 @@
             <div> <b>Abstract: TBA </b></div>
         </ol>
     </details>
-</body>
 
 
-<body>
     <details>
         <summary><u><b>Jun 26 (Tolulope Fadina)</b></u></summary>
         <ol>
@@ -61,10 +59,7 @@
             <div> Abstract: TBA </div>
         </ol>
     </details>
-</body>
-
-
-<body>
+    
     <details>
         <summary><u><b>Jun 19 (Andreas Tsanakas)</b></u></summary>
         <ol>
@@ -79,10 +74,8 @@
             <div> Abstract: Abstract: We consider the following question: given information on individual policyholder characteristics,     how can we ensure that insurance prices do not discriminate with respect to protected characteristics, such as gender? We address the issues of direct and indirect discrimination, the latter meaning that protected characteristics are implicitly learned (“proxied”) from non-protected ones. We provide mathematical definitions for direct and indirect discrimination and introduce a simple formula for discrimination-free pricing, which avoids both direct and indirect discrimination. This formula works in any statistical model. We demonstrate its application on a health insurance example, using a generalized linear model and a neural network regression model. An important conclusion is that discrimination-free pricing in general requires collection of policyholders’ discriminatory characteristics, posing potential challenges in relation to policyholder’s privacy concerns. Moving towards application of this approach in practice raises further questions, which I aim to discuss in the seminar. This is a joint work with M. Lindholm, R. Richman, M.V. Wuethrich. </div>
         </ol>
     </details>
-</body>
 
 
-<body>
     <details>
         <summary><u><b>Jun 12 (Yuyu Chen) </b></u></summary>
         <ol>
