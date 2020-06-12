@@ -1,7 +1,10 @@
-# Weekly seminars on risk management and actuarial science
+# Weekly Seminars on Risk Management and Actuarial Science
 
-The weekly seminar series is a venue for international scholars in risk management and actuarial science to discuss research advances and exchange ideas. Junior researchers are the most encouraged to present their on-going research work. Currently, participants from Canada, China, US, and Europe are included. 
+The weekly seminar series is a venue for international scholars in risk management and actuarial science to discuss research advances and exchange ideas. Junior researchers are the most encouraged to present their recent work, including on-going projects. The list of current and past speakers includes scholars from Canada, US, China, Australia, and Europe. 
 
+* To volunteer yourself or propose a speaker for a research presentation, please contact the organizers by email. 
+
+* If you would like to be included in the mailing list, please contact the organizers.
 
 ## Current Schedule
 Time: 9:00pm-10:00pm or 11:00am-12:00am, every Friday (Eastern Standard Time)
@@ -17,11 +20,11 @@ Meeting ID：679 9054 5137
 Qiuqi Wang (University of Waterloo): [q428wang@uwaterloo.ca](q428wang@uwaterloo.ca)
 
 
-## Faculty mentor
+## Faculty Mentor
 [Prof. Ruodu Wang](http://sas.uwaterloo.ca/~wang/) (University of Waterloo) 
 
 
-## Upcoming event
+## Upcoming Event
 
 ### Jun 12
 > Title: TBA
@@ -31,6 +34,7 @@ Qiuqi Wang (University of Waterloo): [q428wang@uwaterloo.ca](q428wang@uwaterloo.
 > Time: 9:00pm-10:00pm, Jun 12 (Fri) 
 > 
 > Location: online via Zoom
+
 
 ### Jun 19
 > Title: Dircrimination-free Insurance Pricing
@@ -65,7 +69,7 @@ Qiuqi Wang (University of Waterloo): [q428wang@uwaterloo.ca](q428wang@uwaterloo.
 
 
 
-## Past events
+## Past Events
 
 [Spring 2020](./spring2020.md)
 
