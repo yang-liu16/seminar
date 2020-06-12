@@ -30,19 +30,18 @@
 
 <body>
     <details>
-        <summary><u><b>Jul 3 (Mario Wüthrich)</b></u></summary>
+        <summary><u><b>Jul 3</b></u></summary>
         <ol>
-            <div> <b>Title: TBA </b></div>
-             
-            <div> <b>Speaker: Mario Wüthrich (Professor, ETH Zurich) </b></div>
-             
-            <div> <b>Time: 11:00am-12:00am, Jul 3 (Fri) </b></div>
-             
-            <div> <b>Location: online via Zoom </b></div>
-            
-            <div> <b>Abstract: TBA </b></div>
+          <blockquote>
+            <p><b> Title: TBA</b></p>
+            <p><b> Speaker: Mario Wüthrich (Professor, ETH Zurich) </b></p>
+            <p><b> Time: 11:00am-12:00am, Jul 3 (Fri) </b></p>
+            <p><b> Location: online via Zoom </b></p>
+            <p><b> Abstract: TBA </b></p>
+          </blockquote>
         </ol>
     </details>
+
 
 
     <details>
