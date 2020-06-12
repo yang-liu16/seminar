@@ -16,7 +16,8 @@ Meeting ID：679 9054 5137
 
 ## Student organizers
 [Yang Liu](https://yang-liu16.github.io/) (Tsinghua University & University of Waterloo): [y2796liu@uwaterloo.ca](y2796liu@uwaterloo.ca)
-<li class="mb-5"><a href="#"><i class="far fa-envelope fa-fw mr-2" data-fa-transform="grow-3"></i>yang-liu16@mails.tsinghua.edu.cn</a></li>
+
+<a href="#"><i class="far fa-envelope fa-fw mr-2" data-fa-transform="grow-3"></i>yang-liu16@mails.tsinghua.edu.cn</a>
 
 Qiuqi Wang (University of Waterloo): [q428wang@uwaterloo.ca](q428wang@uwaterloo.ca)
 
