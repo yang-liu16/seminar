@@ -95,6 +95,7 @@ Qiuqi Wang (University of Waterloo): [q428wang@uwaterloo.ca](q428wang@uwaterloo.
 [Seminars in 2019](./2019.html)
 
 
+* * *
 ## Other Online Seminar Initiatives
 [One World Actuarial Research Seminar](http://www.maths.usyd.edu.au/u/munir/owars/)
 
