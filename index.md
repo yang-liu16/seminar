@@ -59,6 +59,9 @@ Qiuqi Wang (University of Waterloo):
 > Time: 9:00pm-10:00pm, Jun 26 (Fri) 
 > 
 > Location: online via Zoom
+>
+> Abstract: TBA
+
 
 
 ### Jul 3
@@ -69,7 +72,8 @@ Qiuqi Wang (University of Waterloo):
 > Time: 11:00am-12:00am, Jul 3 (Fri) 
 > 
 > Location: online via Zoom
-
+>
+> Abstract: TBA
 
 
 ## Past Events
