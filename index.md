@@ -30,17 +30,17 @@ Qiuqi Wang (University of Waterloo):
 
 <body>
     <details>
-        <summary><u>### Jul 3</u></summary>
+        <summary><u><b>Jul 3</b></u></summary>
         <ol>
-            > Title: TBA
-            > 
-            > Speaker: Mario Wüthrich (Professor, ETH Zurich) 
-            > 
-            > Time: 11:00am-12:00am, Jul 3 (Fri) 
-            > 
-            > Location: online via Zoom
-            >
-            > Abstract: TBA
+            <div> Title: TBA </div>
+             
+            <div> Speaker: Mario Wüthrich (Professor, ETH Zurich) </div>
+             
+            <div> Time: 11:00am-12:00am, Jul 3 (Fri) </div>
+             
+            <div> Location: online via Zoom </div>
+            
+            <div> Abstract: TBA </div>
         </ol>
     </details>
 </body>
