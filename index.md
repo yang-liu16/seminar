@@ -22,6 +22,8 @@ Qiuqi Wang (University of Waterloo): [q428wang@uwaterloo.ca](q428wang@uwaterloo.
 
 
 ## Upcoming event
+
+### Jun 12
 > Title: TBA
 > 
 > Speaker: Yuyu Chen (PhD candidate, University of Waterloo)
@@ -30,7 +32,7 @@ Qiuqi Wang (University of Waterloo): [q428wang@uwaterloo.ca](q428wang@uwaterloo.
 > 
 > Location: online via Zoom
 
-
+### Jun 19
 > Title: Dircrimination-free Insurance Pricing
 > 
 > Speaker: Andreas Tsanakas (Professor, Cass Business School, City University London)
@@ -42,6 +44,7 @@ Qiuqi Wang (University of Waterloo): [q428wang@uwaterloo.ca](q428wang@uwaterloo.
 > Abstract: We consider the following question: given information on individual policyholder characteristics, how can we ensure that insurance prices do not discriminate with respect to protected characteristics, such as gender? We address the issues of direct and indirect discrimination, the latter meaning that protected characteristics are implicitly learned (“proxied”) from non-protected ones. We provide mathematical definitions for direct and indirect discrimination and introduce a simple formula for discrimination-free pricing, which avoids both direct and indirect discrimination. This formula works in any statistical model. We demonstrate its application on a health insurance example, using a generalized linear model and a neural network regression model. An important conclusion is that discrimination-free pricing in general requires collection of policyholders’ discriminatory characteristics, posing potential challenges in relation to policyholder’s privacy concerns. Moving towards application of this approach in practice raises further questions, which I aim to discuss in the seminar. This is a joint work with M. Lindholm, R. Richman, M.V. Wuethrich.
 
 
+### Jun 26
 > Title: TBA
 > 
 > Speaker: Tolulope Fadina (PostDoc, University of Waterloo)
@@ -51,6 +54,7 @@ Qiuqi Wang (University of Waterloo): [q428wang@uwaterloo.ca](q428wang@uwaterloo.
 > Location: online via Zoom
 
 
+### Jul 3
 > Title: TBA
 > 
 > Speaker: Mario Wüthrich (Professor, ETH Zurich) 
