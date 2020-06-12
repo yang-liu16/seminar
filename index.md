@@ -109,22 +109,6 @@
 ### [<u>Seminars in 2020</u>](./2020.html)
 
 <body>
-  
-    <details>
-        <summary><b><table><thead><tr>
-        <td style="text-align: left">Jun 5</td>
-        <td style="text-align: left">Mingren Yin</td>
-        <td style="text-align: left">University of Waterloo</td>
-        </tr></thead></table></b></summary>
-        <ol>
-          <blockquote>
-            <p><b> Title: Risk measures based on behavioural economics theory </b></p>
-            <p><b> Speaker: Mingren Yin (PhD Candidate, University of Waterloo) </b></p>
-            <p><b> Time: 9:00pm-10:00pm, Jun 5 (Fri) </b></p>
-            <p><b> Location: Online via Zoom </b></p>
-          </blockquote>
-        </ol>
-    </details>
  
     <details>
         <summary><u><b>Jun 5 (Mingren Yin, University of Waterloo)</b></u></summary>
