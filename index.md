@@ -31,7 +31,7 @@
 <body>
     <details>
         <summary><b><table><thead><tr>
-        <td style="text-align: left">Jul 3</td>
+        <td style="text-align: left"><u>Jul 3</u></td>
         <td style="text-align: left">Prof. Mario Wüthrich</td>
         <td style="text-align: left">ETH Zurich</td>
        </tr></thead></table></b></summary>
@@ -49,7 +49,7 @@
 
     <details>
         <summary><b><table><tbody><tr>
-        <td style="text-align: left">Jun 26</td>
+        <td style="text-align: left"><u>Jun 26</u></td>
         <td style="text-align: left">Dr. Tolulope Fadina</td>
         <td style="text-align: left">University of Waterloo</td>
         </tr></tbody></table></b></summary>
@@ -66,7 +66,7 @@
     
     <details>
         <summary><b><table><thead><tr>
-        <td style="text-align: left">Jun 19</td>
+        <td style="text-align: left"><u>Jun 19</u></td>
         <td style="text-align: left">Prof. Andreas Tsanakas</td>
         <td style="text-align: left">Cass Business School</td>
         </tr></thead></table></b></summary>
@@ -84,7 +84,7 @@
 
     <details>
         <summary><b><table><thead><tr>
-        <td style="text-align: left">Jun 12</td>
+        <td style="text-align: left"><u>Jun 12</u></td>
         <td style="text-align: left">Yuyu Chen</td>
         <td style="text-align: left">University of Waterloo</td>
         </tr></thead></table></b></summary>
