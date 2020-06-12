@@ -68,6 +68,28 @@ Qiuqi Wang (University of Waterloo): [q428wang@uwaterloo.ca](q428wang@uwaterloo.
 > Location: online via Zoom
 
 
+### Jul 3
+> Title: TBA
+> 
+> Speaker: Mario Wüthrich (Professor, ETH Zurich) 
+> 
+> Time: 11:00am-12:00am, Jul 3 (Fri) 
+> 
+> Location: online via Zoom
+>
+> <dl>
+> <dt>Name</dt>
+> <dd>Godzilla</dd>
+> <dt>Born</dt>
+> <dd>1952</dd>
+> <dt>Birthplace</dt>
+> <dd>Japan</dd>
+> <dt>Color</dt>
+> <dd>Green</dd>
+> </dl>
+
+
+
 
 ## Past Events
 
@@ -101,15 +123,6 @@ Qiuqi Wang (University of Waterloo): [q428wang@uwaterloo.ca](q428wang@uwaterloo.
   - level 2 item
   - level 2 item
 - level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
 
 ### Definition lists can be used with HTML syntax.
 
