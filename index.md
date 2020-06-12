@@ -150,7 +150,7 @@
         </tr></thead></table></b></summary>
         <ol>
           <blockquote>
-            <p><b> Title: Dircrimination-free Insurance Pricing </b></p>
+            <p><b> Title: Discrimination-free Insurance Pricing </b></p>
             <p><b> Speaker: Andreas Tsanakas (Professor, Cass Business School, City University London) </b></p>
             <p><b> Time: 11:00pm-12:00pm, Jun 19 (Fri) </b></p>
             <p><b> Location: Online via Zoom </b></p>
