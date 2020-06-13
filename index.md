@@ -74,10 +74,10 @@
 
 ## Past Events
 
-
 ### [<u>Seminars in 2020</u>](./2020.html)
 
 <body>
+ <br/>
     <details>
         <summary><u><b>Jun 12: Yuyu Chen (University of Waterloo) </b></u></summary>
         <ol>
