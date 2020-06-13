@@ -41,7 +41,7 @@
         </ol>
     </details>
 
-
+<br/>
     <details>
         <summary><u><b>Jun 26 (Dr. Tolulope Fadina, University of Waterloo)</b></u></summary>
         <ol>
@@ -55,7 +55,7 @@
         </ol>
     </details>
     
-    
+<br/>    
     <details>
         <summary><u><b>Jun 19 (Prof. Andreas Tsanakas, Cass Business School)</b></u></summary>
         <ol>
@@ -70,7 +70,7 @@
         </ol>
     </details>
 
-
+<br/>
     <details>
         <summary><u><b>Jun 12 (Yuyu Chen, University of Waterloo) </b></u></summary>
         <ol>
