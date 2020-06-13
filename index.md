@@ -181,7 +181,7 @@ inequalities for the worst-case values of VaR. </b></p>
 
 
     <details>
-        <summary><u><b>May 8: Dr. Xing Wang (Illinois State University)</b></u></summary>
+        <summary><u><b>May 8: Prof. Xing Wang (Illinois State University)</b></u></summary>
         <ol>
           <blockquote>
             <p><b> Title: Extreme and inference for tail-Gini functionals with applications in tail risk management </b></p>
@@ -341,7 +341,7 @@ inequalities for the worst-case values of VaR. </b></p>
 
 
     <details>
-        <summary><u><b>Jun 5: Dr. Yunran Wei (Northern Illinois University)</b></u></summary>
+        <summary><u><b>Jun 5: Prof. Yunran Wei (Northern Illinois University)</b></u></summary>
         <ol>
           <blockquote>
             <p><b> Title: Risk management with non-convex and non-monotone preferences </b></p>
