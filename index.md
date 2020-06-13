@@ -104,7 +104,7 @@
         </ol>
     </details>
 
-
+<br/>
     <details>
         <summary><u><b>May 29 (Liyuan Lin, Central University of Finance and Economics)</b></u></summary>
         <ol>
@@ -117,7 +117,7 @@
         </ol>
     </details>
 
-
+<br/>
     <details>
         <summary><u><b>May 24 (Dr. Xia Han, Nanjing Normal University)</b></u></summary>
         <ol>
@@ -130,7 +130,7 @@
         </ol>
     </details>
 
-
+<br/>
     <details>
         <summary><u><b>May 15 (Dr. Peng Liu, University of Waterloo)</b></u></summary>
         <ol>
@@ -143,7 +143,7 @@
         </ol>
     </details>
 
-
+<br/>
     <details>
         <summary><u><b>May 8 (Dr. Xing Wang, Illinois State University)</b></u></summary>
         <ol>
@@ -156,7 +156,7 @@
         </ol>
     </details>
 
-
+<br/>
     <details>
         <summary><u><b>May 1 (Qiuqi Wang, University of Waterloo)</b></u></summary>
         <ol>
@@ -169,7 +169,7 @@
         </ol>
     </details>
 
-
+<br/>
     <details>
         <summary><u><b>Apr 26 (Yang Liu, Tsinghua University)</b></u></summary>
         <ol>
@@ -182,7 +182,7 @@
         </ol>
     </details>
 
-
+<br/>
     <details>
         <summary><u><b>Mar 12 (Liyuan Lin, Central University of Finance and Economics)</b></u></summary>
         <ol>
@@ -195,7 +195,7 @@
         </ol>
     </details>
 
-
+<br/>
     <details>
         <summary><u><b>Mar 5 (Yang Liu, Tsinghua University)</b></u></summary>
         <ol>
@@ -208,6 +208,7 @@
         </ol>
     </details>
 
+<br/>
      <details>
         <summary><u><b>Feb 25 (Dr. Mengyi Xu, UNSW Business School)</b></u></summary>
         <ol>
@@ -220,7 +221,7 @@
         </ol>
     </details>
 
-
+<br/>
     <details>
         <summary><u><b>Feb 13 (Dr. Peng Liu, University of Waterloo)</b></u></summary>
         <ol>
@@ -233,7 +234,7 @@
         </ol>
     </details>
 
-
+<br/>
     <details>
         <summary><u><b>Feb 6 (Yuyu Chen, University of Waterloo)</b></u></summary>
         <ol>
@@ -246,7 +247,7 @@
         </ol>
     </details>
 
-
+<br/>
     <details>
         <summary><u><b>Jan 30 (Dr. Xiaole Xue, University of Waterloo)</b></u></summary>
         <ol>
@@ -259,7 +260,7 @@
         </ol>
     </details>
 
-
+<br/>
     <details>
         <summary><u><b>Jan 23 (Mingren Yin, University of Waterloo)</b></u></summary>
         <ol>
@@ -272,7 +273,7 @@
         </ol>
     </details>
     
-    
+<br/>    
     <details>
         <summary><u><b>Jan 16 (Qiuqi Wang, University of Waterloo)</b></u></summary>
         <ol>
@@ -285,7 +286,7 @@
         </ol>
     </details>
 
-
+<br/>
     <details>
         <summary><u><b>Jan 9 (Yang Liu, Tsinghua University)</b></u></summary>
         <ol>
@@ -298,7 +299,7 @@
         </ol>
     </details>
 
-
+<br/>
     <details>
         <summary><u><b>Jun 5 (Dr. Yunran Wei, Northern Illinois University)</b></u></summary>
         <ol>
