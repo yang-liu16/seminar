@@ -29,7 +29,7 @@
 ## Upcoming Events
 <body>
    <details>
-        <summary><u><b>Jul 3 (Prof. Mario Wüthrich, ETH Zurich)</b></u></summary>
+        <summary><u><b>Jul 3: Prof. Mario Wüthrich (ETH Zurich)</b></u></summary>
         <ol>
           <blockquote>
             <p><b> Title: TBA</b></p>
@@ -43,7 +43,7 @@
 
 <br/>
     <details>
-        <summary><u><b>Jun 26 (Dr. Tolulope Fadina, University of Waterloo)</b></u></summary>
+        <summary><u><b>Jun 26: Dr. Tolulope Fadina (University of Waterloo)</b></u></summary>
         <ol>
           <blockquote>
             <p><b> Title: TBA</b></p>
@@ -57,7 +57,7 @@
     
 <br/>    
     <details>
-        <summary><u><b>Jun 19 (Prof. Andreas Tsanakas, Cass Business School)</b></u></summary>
+        <summary><u><b>Jun 19: Prof. Andreas Tsanakas (Cass Business School)</b></u></summary>
         <ol>
           <blockquote>
             <p><b> Title: Discrimination-free Insurance Pricing </b></p>
@@ -70,9 +70,16 @@
         </ol>
     </details>
 
-<br/>
+</body>
+
+## Past Events
+
+
+### [<u>Seminars in 2020</u>](./2020.html)
+
+<body>
     <details>
-        <summary><u><b>Jun 12 (Yuyu Chen, University of Waterloo) </b></u></summary>
+        <summary><u><b>Jun 12: Yuyu Chen (University of Waterloo) </b></u></summary>
         <ol>
           <blockquote>
             <p><b> Title: Ordering and Inequalities of Mixtures on Risk Aggregation </b></p>
@@ -83,17 +90,10 @@
           </blockquote>
         </ol>
     </details>
-</body>
 
-## Past Events
-
-
-### [<u>Seminars in 2020</u>](./2020.html)
-
-<body>
- 
+<br/>
     <details>
-        <summary><u><b>June 5 (Mingren Yin, University of Waterloo)</b></u></summary>
+        <summary><u><b>June 5: Mingren Yin (University of Waterloo)</b></u></summary>
         <ol>
           <blockquote>
             <p><b> Title: Risk measures based on behavioural economics theory </b></p>
@@ -106,7 +106,7 @@
 
 <br/>
     <details>
-        <summary><u><b>May 29 (Liyuan Lin, Central University of Finance and Economics)</b></u></summary>
+        <summary><u><b>May 29: Liyuan Lin (Central University of Finance and Economics)</b></u></summary>
         <ol>
           <blockquote>
             <p><b> Title: Self-consistency, subjective pricing, and a theory of credit rating </b></p>
@@ -119,7 +119,7 @@
 
 <br/>
     <details>
-        <summary><u><b>May 24 (Dr. Xia Han, Nanjing Normal University)</b></u></summary>
+        <summary><u><b>May 24: Dr. Xia Han (Nanjing Normal University)</b></u></summary>
         <ol>
           <blockquote>
             <p><b> Title: Minimizing the probability of absolute ruin under ambiguity aversion </b></p>
@@ -132,7 +132,7 @@
 
 <br/>
     <details>
-        <summary><u><b>May 15 (Dr. Peng Liu, University of Waterloo)</b></u></summary>
+        <summary><u><b>May 15: Dr. Peng Liu (University of Waterloo)</b></u></summary>
         <ol>
           <blockquote>
             <p><b> Title: Functions operating on multivariate distributions </b></p>
@@ -145,7 +145,7 @@
 
 <br/>
     <details>
-        <summary><u><b>May 8 (Dr. Xing Wang, Illinois State University)</b></u></summary>
+        <summary><u><b>May 8: Dr. Xing Wang (Illinois State University)</b></u></summary>
         <ol>
           <blockquote>
             <p><b> Title: Extreme and inference for tail-Gini functionals with applications in tail risk management </b></p>
@@ -158,7 +158,7 @@
 
 <br/>
     <details>
-        <summary><u><b>May 1 (Qiuqi Wang, University of Waterloo)</b></u></summary>
+        <summary><u><b>May 1: Qiuqi Wang (University of Waterloo)</b></u></summary>
         <ol>
           <blockquote>
             <p><b> Title: Risk quadrangles </b></p>
@@ -171,7 +171,7 @@
 
 <br/>
     <details>
-        <summary><u><b>Apr 26 (Yang Liu, Tsinghua University)</b></u></summary>
+        <summary><u><b>Apr 26: Yang Liu (Tsinghua University)</b></u></summary>
         <ol>
           <blockquote>
             <p><b> Primal bounds on quantile aggregation </b></p>
@@ -184,7 +184,7 @@
 
 <br/>
     <details>
-        <summary><u><b>Mar 12 (Liyuan Lin, Central University of Finance and Economics)</b></u></summary>
+        <summary><u><b>Mar 12: Liyuan Lin (Central University of Finance and Economics)</b></u></summary>
         <ol>
           <blockquote>
             <p><b> Title: An axiomatic foundation of the Expected Shortfall </b></p>
@@ -197,7 +197,7 @@
 
 <br/>
     <details>
-        <summary><u><b>Mar 5 (Yang Liu, Tsinghua University)</b></u></summary>
+        <summary><u><b>Mar 5: Yang Liu (Tsinghua University)</b></u></summary>
         <ol>
           <blockquote>
             <p><b> Title: Bounds on quantile aggregation </b></p>
@@ -210,7 +210,7 @@
 
 <br/>
      <details>
-        <summary><u><b>Feb 25 (Dr. Mengyi Xu, UNSW Business School)</b></u></summary>
+        <summary><u><b>Feb 25: Dr. Mengyi Xu (UNSW Business School)</b></u></summary>
         <ol>
           <blockquote>
             <p><b> Title: Retirement planning with systematic disability and mortality risk </b></p>
@@ -223,7 +223,7 @@
 
 <br/>
     <details>
-        <summary><u><b>Feb 13 (Dr. Peng Liu, University of Waterloo)</b></u></summary>
+        <summary><u><b>Feb 13: Dr. Peng Liu (University of Waterloo)</b></u></summary>
         <ol>
           <blockquote>
             <p><b> Title: Is the inf-convolution of law-invariant preferences law-invariant? </b></p>
@@ -236,7 +236,7 @@
 
 <br/>
     <details>
-        <summary><u><b>Feb 6 (Yuyu Chen, University of Waterloo)</b></u></summary>
+        <summary><u><b>Feb 6: Yuyu Chen (University of Waterloo)</b></u></summary>
         <ol>
           <blockquote>
             <p><b> Title: Trade-off between anytime- and sometime-safe methods for merging p-values </b></p>
@@ -249,7 +249,7 @@
 
 <br/>
     <details>
-        <summary><u><b>Jan 30 (Dr. Xiaole Xue, University of Waterloo)</b></u></summary>
+        <summary><u><b>Jan 30: Dr. Xiaole Xue (University of Waterloo)</b></u></summary>
         <ol>
           <blockquote>
             <p><b> Title: Minimax pricing and Choquet pricing </b></p>
@@ -262,7 +262,7 @@
 
 <br/>
     <details>
-        <summary><u><b>Jan 23 (Mingren Yin, University of Waterloo)</b></u></summary>
+        <summary><u><b>Jan 23: Mingren Yin (University of Waterloo)</b></u></summary>
         <ol>
           <blockquote>
             <p><b> Title: Risk measures derived from a regulator’s perspective on the regulatory capital requirements for insurers</b></p>
@@ -275,7 +275,7 @@
     
 <br/>    
     <details>
-        <summary><u><b>Jan 16 (Qiuqi Wang, University of Waterloo)</b></u></summary>
+        <summary><u><b>Jan 16: Qiuqi Wang (University of Waterloo)</b></u></summary>
         <ol>
           <blockquote>
             <p><b> Title: Optimizing distortion riskmetrics with distributional uncertainty </b></p>
@@ -288,7 +288,7 @@
 
 <br/>
     <details>
-        <summary><u><b>Jan 9 (Yang Liu, Tsinghua University)</b></u></summary>
+        <summary><u><b>Jan 9: Yang Liu (Tsinghua University)</b></u></summary>
         <ol>
           <blockquote>
             <p><b> Title: A method to check whether an n-tuple of distributions with two-step densities is JM </b></p>
@@ -301,7 +301,7 @@
 
 <br/>
     <details>
-        <summary><u><b>Jun 5 (Dr. Yunran Wei, Northern Illinois University)</b></u></summary>
+        <summary><u><b>Jun 5: Dr. Yunran Wei (Northern Illinois University)</b></u></summary>
         <ol>
           <blockquote>
             <p><b> Title: Risk management with non-convex and non-monotone preferences </b></p>
