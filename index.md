@@ -108,7 +108,7 @@
 <body>
  
     <details>
-        <summary><u><b>Jun 5 <br/><br/> Mingren Yin <br/><br/> University of Waterloo</b></u></summary>
+        <summary><u><b>June 5 &nbsp&nbsp&nbsp&nbsp&nbsp Mingren Yin &nbsp&nbsp&nbsp&nbsp&nbsp (University of Waterloo)</b></u></summary>
         <ol>
           <blockquote>
             <p><b> Title: Risk measures based on behavioural economics theory </b></p>
