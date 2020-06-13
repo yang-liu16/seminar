@@ -27,7 +27,7 @@
 
 
 ## Upcoming Events
-
+<body>
    <details>
         <summary><u><b>Jul 3 (Prof. Mario Wüthrich, ETH Zurich)</b></u></summary>
         <ol>
@@ -118,7 +118,7 @@ inequalities for the worst-case values of VaR. </b></p>
           </blockquote>
         </ol>
     </details>
-
+</body>
 
 ## Past Events
 
