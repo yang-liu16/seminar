@@ -41,7 +41,7 @@
         </ol>
     </details>
 
-<br/>
+
     <details>
         <summary><u><b>Jun 26: Dr. Tolulope Fadina (University of Waterloo)</b></u></summary>
         <ol>
@@ -55,7 +55,7 @@
         </ol>
     </details>
     
-<br/>    
+   
     <details>
         <summary><u><b>Jun 19: Prof. Andreas Tsanakas (Cass Business School)</b></u></summary>
         <ol>
@@ -64,12 +64,27 @@
             <p><b> Speaker: Andreas Tsanakas (Professor, Cass Business School, City University London) </b></p>
             <p><b> Time: 11:00am-12:00am, Jun 19 (Fri) </b></p>
             <p><b> Location: Online via Zoom </b></p>
-            <p><b> Abstract: Abstract: We consider the following question: given information on individual policyholder characteristics, 
-    how can we ensure that insurance prices do not discriminate with respect to protected characteristics, such as gender? We address the issues of direct and indirect discrimination, the latter meaning that protected characteristics are implicitly learned (“proxied”) from non-protected ones. We provide mathematical definitions for direct and indirect discrimination and introduce a simple formula for discrimination-free pricing, which avoids both direct and indirect discrimination. This formula works in any statistical model. We demonstrate its application on a health insurance example, using a generalized linear model and a neural network regression model. An important conclusion is that discrimination-free pricing in general requires collection of policyholders’ discriminatory characteristics, posing potential challenges in relation to policyholder’s privacy concerns. Moving towards application of this approach in practice raises further questions, which I aim to discuss in the seminar. This is a joint work with M. Lindholm, R. Richman, M.V. Wuethrich. </b></p>
+            <p><b> Abstract: Abstract: We consider the following 
+question: given information on individual policyholder characteristics, 
+    how can we ensure that insurance prices do not discriminate with 
+respect to protected characteristics, such as gender? We address the 
+issues of direct and indirect discrimination, the latter meaning that 
+protected characteristics are implicitly learned (“proxied”) from 
+non-protected ones. We provide mathematical definitions for direct and 
+indirect discrimination and introduce a simple formula for 
+discrimination-free pricing, which avoids both direct and indirect 
+discrimination. This formula works in any statistical model. We 
+demonstrate its application on a health insurance example, using a 
+generalized linear model and a neural network regression model. An 
+important conclusion is that discrimination-free pricing in general 
+requires collection of policyholders’ discriminatory characteristics, 
+posing potential challenges in relation to policyholder’s privacy 
+concerns. Moving towards application of this approach in practice raises
+ further questions, which I aim to discuss in the seminar. This is a 
+joint work with M. Lindholm, R. Richman, M.V. Wuethrich. </b></p>
           </blockquote>
         </ol>
     </details>
-
 </body>
 
 ## Past Events
@@ -77,7 +92,8 @@
 ### [<u>Seminars in 2020</u>](./2020.html)
 
 <body>
- <br/>
+ <b>June</b>
+
     <details>
         <summary><u><b>Jun 12: Yuyu Chen (University of Waterloo) </b></u></summary>
         <ol>
@@ -86,12 +102,31 @@
             <p><b> Speaker: Yuyu Chen (PhD candidate, University of Waterloo) </b></p>
             <p><b> Time: 9:00pm-10:00pm, Jun 12 (Fri) </b></p>
             <p><b> Location: Online via Zoom </b></p>
-            <p><b> Abstract: In this paper we first investigate the ordering relationship between aggregation sets where the marginal risks from different sets are related by some simple operations, such as distribution-mixture or quantile-mixture defined by doubly stochastic matrices.  It turns out that the aggregation set after operating a distribution-mixture becomes larger for general marginal distributions. However, the aggregation sets are not comparable under quantile-mixture operations in general. Our results on orders of aggregation sets imply that distribution-mixture operations on marginal risks can increase the worst-case values of risk measures for general marginal risks and general law-invariant risk measures. If all marginal distributions have decreasing densities,  we show that quantile-mixture operations can produce a larger worst-case value of a specific regulatory risk measure, Value-at-Risk (VaR). We particularly focus on the worst-case values of risk measure for Pareto marginal distributions to obtain more specific inequalities related to the simple operations. Our results can be used to compare the the worst-case values of risk measures on two risk aggregations where no stochastic dominance exists between them.  Numerical studies are conducted to illustrate our findings on inequalities for the worst-case values of VaR. </b></p>
+            <p><b> Abstract: In this paper we first investigate the 
+ordering relationship between aggregation sets where the marginal risks 
+from different sets are related by some simple operations, such as 
+distribution-mixture or quantile-mixture defined by doubly stochastic 
+matrices.  It turns out that the aggregation set after operating a 
+distribution-mixture becomes larger for general marginal distributions. 
+However, the aggregation sets are not comparable under quantile-mixture 
+operations in general. Our results on orders of aggregation sets imply 
+that distribution-mixture operations on marginal risks can increase the 
+worst-case values of risk measures for general marginal risks and 
+general law-invariant risk measures. If all marginal distributions have 
+decreasing densities,  we show that quantile-mixture operations can 
+produce a larger worst-case value of a specific regulatory risk measure,
+ Value-at-Risk (VaR). We particularly focus on the worst-case values of 
+risk measure for Pareto marginal distributions to obtain more specific 
+inequalities related to the simple operations. Our results can be used 
+to compare the the worst-case values of risk measures on two risk 
+aggregations where no stochastic dominance exists between them.  
+Numerical studies are conducted to illustrate our findings on 
+inequalities for the worst-case values of VaR. </b></p>
           </blockquote>
         </ol>
     </details>
 
-<br/>
+
     <details>
         <summary><u><b>June 5: Mingren Yin (University of Waterloo)</b></u></summary>
         <ol>
@@ -104,20 +139,21 @@
         </ol>
     </details>
 
-<br/>
+<br>
+<b>May</b>
     <details>
         <summary><u><b>May 29: Liyuan Lin (Central University of Finance and Economics)</b></u></summary>
         <ol>
           <blockquote>
             <p><b> Title: Self-consistency, subjective pricing, and a theory of credit rating </b></p>
-            <p><b> Speaker: Liyuan Lin (Graduate Student, Central University of Finance and Economics & University of Waterloo) </b></p>
+            <p><b> Speaker: Liyuan Lin (Graduate Student, Central University of Finance and Economics &amp; University of Waterloo) </b></p>
             <p><b> Time: 9:00pm-10:00pm, May 29 (Fri) </b></p>
             <p><b> Location: Online via Zoom </b></p>
           </blockquote>
         </ol>
     </details>
 
-<br/>
+
     <details>
         <summary><u><b>May 24: Dr. Xia Han (Nanjing Normal University)</b></u></summary>
         <ol>
@@ -130,7 +166,7 @@
         </ol>
     </details>
 
-<br/>
+
     <details>
         <summary><u><b>May 15: Dr. Peng Liu (University of Waterloo)</b></u></summary>
         <ol>
@@ -143,7 +179,7 @@
         </ol>
     </details>
 
-<br/>
+
     <details>
         <summary><u><b>May 8: Dr. Xing Wang (Illinois State University)</b></u></summary>
         <ol>
@@ -156,7 +192,7 @@
         </ol>
     </details>
 
-<br/>
+
     <details>
         <summary><u><b>May 1: Qiuqi Wang (University of Waterloo)</b></u></summary>
         <ol>
@@ -169,46 +205,49 @@
         </ol>
     </details>
 
-<br/>
+<br>
+<b>April</b>
     <details>
         <summary><u><b>Apr 26: Yang Liu (Tsinghua University)</b></u></summary>
         <ol>
           <blockquote>
             <p><b> Primal bounds on quantile aggregation </b></p>
-            <p><b> Speaker: Yang Liu (PhD Candidate, Tsinghua University & University of Waterloo) </b></p>
+            <p><b> Speaker: Yang Liu (PhD Candidate, Tsinghua University &amp; University of Waterloo) </b></p>
             <p><b> Time: 9:00pm-10:00pm, Apr 26 (Sun) </b></p>
             <p><b> Location: Online via Zoom </b></p>
           </blockquote>
         </ol>
     </details>
 
-<br/>
+<br>
+<b>March</b>
     <details>
         <summary><u><b>Mar 12: Liyuan Lin (Central University of Finance and Economics)</b></u></summary>
         <ol>
           <blockquote>
             <p><b> Title: An axiomatic foundation of the Expected Shortfall </b></p>
-            <p><b> Speaker: Liyuan Lin (Graduate Student, Central University of Finance and Economics & University of Waterloo) </b></p>
+            <p><b> Speaker: Liyuan Lin (Graduate Student, Central University of Finance and Economics &amp; University of Waterloo) </b></p>
             <p><b> Time: 3:00pm-4:00pm, Mar 12 (Thu) </b></p>
             <p><b> Location: Online via Zoom </b></p>
           </blockquote>
         </ol>
     </details>
 
-<br/>
+
     <details>
         <summary><u><b>Mar 5: Yang Liu (Tsinghua University)</b></u></summary>
         <ol>
           <blockquote>
             <p><b> Title: Bounds on quantile aggregation </b></p>
-            <p><b> Speaker: Yang Liu (PhD Candidate, Tsinghua University & University of Waterloo) </b></p>
+            <p><b> Speaker: Yang Liu (PhD Candidate, Tsinghua University &amp; University of Waterloo) </b></p>
             <p><b> Time: 3:00pm-4:00pm, Mar 5 (Thu) </b></p>
             <p><b> Location: M3-3001, University of Waterloo </b></p>
           </blockquote>
         </ol>
     </details>
 
-<br/>
+<br>
+<b>February</b>
      <details>
         <summary><u><b>Feb 25: Dr. Mengyi Xu (UNSW Business School)</b></u></summary>
         <ol>
@@ -221,7 +260,7 @@
         </ol>
     </details>
 
-<br/>
+
     <details>
         <summary><u><b>Feb 13: Dr. Peng Liu (University of Waterloo)</b></u></summary>
         <ol>
@@ -234,7 +273,7 @@
         </ol>
     </details>
 
-<br/>
+
     <details>
         <summary><u><b>Feb 6: Yuyu Chen (University of Waterloo)</b></u></summary>
         <ol>
@@ -247,7 +286,8 @@
         </ol>
     </details>
 
-<br/>
+<br>
+<b>January</b>
     <details>
         <summary><u><b>Jan 30: Dr. Xiaole Xue (University of Waterloo)</b></u></summary>
         <ol>
@@ -260,7 +300,7 @@
         </ol>
     </details>
 
-<br/>
+
     <details>
         <summary><u><b>Jan 23: Mingren Yin (University of Waterloo)</b></u></summary>
         <ol>
@@ -273,7 +313,7 @@
         </ol>
     </details>
     
-<br/>    
+  
     <details>
         <summary><u><b>Jan 16: Qiuqi Wang (University of Waterloo)</b></u></summary>
         <ol>
@@ -286,20 +326,20 @@
         </ol>
     </details>
 
-<br/>
+
     <details>
         <summary><u><b>Jan 9: Yang Liu (Tsinghua University)</b></u></summary>
         <ol>
           <blockquote>
             <p><b> Title: A method to check whether an n-tuple of distributions with two-step densities is JM </b></p>
-            <p><b> Speaker: Yang Liu (PhD Candidate, Tsinghua University & University of Waterloo) </b></p>
+            <p><b> Speaker: Yang Liu (PhD Candidate, Tsinghua University &amp; University of Waterloo) </b></p>
             <p><b> Time: 3:00pm-4:00pm, Jan 9 (Thu) </b></p>
             <p><b> Location: M3-3001, University of Waterloo </b></p>
           </blockquote>
         </ol>
     </details>
 
-<br/>
+
     <details>
         <summary><u><b>Jun 5: Dr. Yunran Wei (Northern Illinois University)</b></u></summary>
         <ol>
