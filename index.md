@@ -211,7 +211,7 @@ inequalities for the worst-case values of VaR. </b></p>
         <summary><u><b>Apr 26: Yang Liu (Tsinghua University)</b></u></summary>
         <ol>
           <blockquote>
-            <p><b> Primal bounds on quantile aggregation </b></p>
+            <p><b> Title: Primal bounds on quantile aggregation </b></p>
             <p><b> Speaker: Yang Liu (PhD Candidate, Tsinghua University &amp; University of Waterloo) </b></p>
             <p><b> Time: 9:00pm-10:00pm, Apr 26 (Sun) </b></p>
             <p><b> Location: Online via Zoom </b></p>
