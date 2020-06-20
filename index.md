@@ -29,6 +29,19 @@
 ## Upcoming Events
 <body>
    <details>
+        <summary><u><b>Jul 10: Xin Zang (Peking University)</b></u></summary>
+        <ol>
+          <blockquote>
+            <p><b> Title: TBA</b></p>
+            <p><b> Speaker: Xin Zang (PhD candidate, Peking University) </b></p>
+            <p><b> Time: 9:00pm-10:00pm, Jul 10 (Fri) </b></p>
+            <p><b> Location: Online via Zoom </b></p>
+            <p><b> Abstract: TBA </b></p>
+          </blockquote>
+        </ol>
+    </details>
+    
+   <details>
         <summary><u><b>Jul 3: Prof. Mario Wüthrich (ETH Zurich)</b></u></summary>
         <ol>
           <blockquote>
