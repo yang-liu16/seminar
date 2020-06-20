@@ -67,9 +67,15 @@
           </blockquote>
         </ol>
     </details>
-    
-   
-    <details>
+</body>
+
+## Past Events
+
+### [<u>Seminars in 2020</u>](./2020.html)
+
+<body>
+ <b>June</b>
+     <details>
         <summary><u><b>Jun 19: Prof. Andreas Tsanakas (Cass Business School)</b></u></summary>
         <ol>
           <blockquote>
@@ -81,15 +87,7 @@
           </blockquote>
         </ol>
     </details>
-</body>
-
-## Past Events
-
-### [<u>Seminars in 2020</u>](./2020.html)
-
-<body>
- <b>June</b>
-
+ 
     <details>
         <summary><u><b>Jun 12: Yuyu Chen (University of Waterloo) </b></u></summary>
         <ol>
