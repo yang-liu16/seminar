@@ -337,7 +337,7 @@ inequalities for the worst-case values of VaR. </b></p>
 
 
     <details>
-        <summary><u><b>Jun 5: Prof. Yunran Wei (Northern Illinois University)</b></u></summary>
+        <summary><u><b>Jan 5: Prof. Yunran Wei (Northern Illinois University)</b></u></summary>
         <ol>
           <blockquote>
             <p><b> Title: Risk management with non-convex and non-monotone preferences </b></p>
