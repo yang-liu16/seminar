@@ -7,7 +7,7 @@
 * <b>We will send out weekly reminders via a mailing list, usually on the day before the presentation. Papers and presentation slides will be circulated among participants via the mailing list. If you would like to be included in the list, please contact the organizers.</b>
 
 ## Current Schedule
-<b>Time: 9:00pm-10:00pm or 11:00am-12:00am, every Friday (Eastern Standard Time)</b>
+<b>Time: 10:00am-11:00am, every Thursday (Eastern Standard Time)</b>
 
 <b>Zoom Link: [https://cernet.zoom.com.cn/j/67990545137](https://cernet.zoom.com.cn/j/67990545137)</b>
 
@@ -34,7 +34,7 @@
           <blockquote>
             <p><b> Title: TBA</b></p>
             <p><b> Speaker: Xin Zang (PhD candidate, Peking University) </b></p>
-            <p><b> Time: 9:00pm-10:00pm, Jul 10 (Fri) </b></p>
+            <p><b> Time: 10:00am-11:00am, Jul 9 (Thursday) </b></p>
             <p><b> Location: Online via Zoom </b></p>
             <p><b> Abstract: TBA </b></p>
           </blockquote>
@@ -55,6 +55,15 @@
     </details>
 
 
+</body>
+
+## Past Events
+
+### [<u>Seminars in 2020</u>](./2020.html)
+
+<body>
+ <b>June</b>
+ 
     <details>
         <summary><u><b>Jun 26: Dr. Tolulope Fadina (University of Waterloo)</b></u></summary>
         <ol>
@@ -67,14 +76,7 @@
           </blockquote>
         </ol>
     </details>
-</body>
-
-## Past Events
-
-### [<u>Seminars in 2020</u>](./2020.html)
-
-<body>
- <b>June</b>
+    
      <details>
         <summary><u><b>Jun 19: Prof. Andreas Tsanakas (Cass Business School)</b></u></summary>
         <ol>
