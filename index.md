@@ -124,7 +124,7 @@ inequalities for the worst-case values of VaR. </b></p>
 
 
     <details>
-        <summary><u><b>June 5: Mingren Yin (University of Waterloo)</b></u></summary>
+        <summary><u><b>Jun 5: Mingren Yin (University of Waterloo)</b></u></summary>
         <ol>
           <blockquote>
             <p><b> Title: Risk measures based on behavioural economics theory </b></p>
