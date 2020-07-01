@@ -29,7 +29,7 @@
 ## Upcoming Events
 <body>
    <details>
-        <summary><u><b>Jul 10: Xin Zang (Peking University)</b></u></summary>
+        <summary><u><b>Jul 9: Xin Zang (Peking University)</b></u></summary>
         <ol>
           <blockquote>
             <p><b> Title: TBA</b></p>
