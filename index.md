@@ -30,7 +30,7 @@
 <body>
  
    <details>
-      <summary><u><b>Jul 9: Xin Zang (Peking University)</b></u></summary>
+      <summary><u><b>Jul 16: Takaaki Koike (University of Waterloo)</b></u></summary>
         <ol>
           <blockquote>
             <p><b> Title: Estimation and Comparison of Correlation-based Measures of Concordance</b></p>
@@ -73,8 +73,9 @@
           </blockquote>
         </ol>
     </details>
- <b>June</b>
+ <br>
  
+ <b>June</b>
     <details>
         <summary><u><b>Jun 26: Dr. Tolulope Fadina (University of Waterloo)</b></u></summary>
         <ol>
