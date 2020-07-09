@@ -41,18 +41,6 @@
           </blockquote>
         </ol>
    </details>
-   <details>
-        <summary><u><b>Jul 9: Xin Zang (Peking University)</b></u></summary>
-        <ol>
-          <blockquote>
-            <p><b> Title: Joint Mix Copulas</b></p>
-            <p><b> Speaker: Xin Zang (PhD candidate, Peking University) </b></p>
-            <p><b> Time: 10:00am-11:00am, Jul 9 (Thursday) </b></p>
-            <p><b> Location: Online via Zoom </b></p>
-            <p><b> Abstract: In this paper, we study the joint mixability of symmetric distributions from a common location-scale family with characteristic generator in $\Phi_{2}$, which is the set of generators of 2-dimensional spherical distributions. First, we verify the equivalence of univariate unimodal-symmetric distributions and location-scale family with a characteristic generator of 3-dimensional spherical distributions. Second, we introduce some methodologies to construct joint mix copulas with margins from a common location-scale family, including the so-called recursive method and geometric method. Via our method, we can construct a large family of joint mix copulas with sufficient flexibility. Third, we investigate the simulation of joint mix distributions via the related copulas and provide some numerical illustrations. We partially give an answer to the Open Problems 8 and 9 in Wang (2015). </b></p>
-          </blockquote>
-        </ol>
-    </details>
 </body>
 
 ## Past Events
@@ -61,6 +49,18 @@
 
 <body>
 <b>July</b> 
+        <details>
+        <summary><u><b>Jul 9: Dr. Xin Zang (Peking University)</b></u></summary>
+        <ol>
+          <blockquote>
+            <p><b> Title: Joint Mix Copulas</b></p>
+            <p><b> Speaker: Dr. Xin Zang (Postdoc fellow, Peking University) </b></p>
+            <p><b> Time: 10:00am-11:00am, Jul 9 (Thursday) </b></p>
+            <p><b> Location: Online via Zoom </b></p>
+            <p><b> Abstract: In this paper, we study the joint mixability of symmetric distributions from a common location-scale family with characteristic generator in $\Phi_{2}$, which is the set of generators of 2-dimensional spherical distributions. First, we verify the equivalence of univariate unimodal-symmetric distributions and location-scale family with a characteristic generator of 3-dimensional spherical distributions. Second, we introduce some methodologies to construct joint mix copulas with margins from a common location-scale family, including the so-called recursive method and geometric method. Via our method, we can construct a large family of joint mix copulas with sufficient flexibility. Third, we investigate the simulation of joint mix distributions via the related copulas and provide some numerical illustrations. We partially give an answer to the Open Problems 8 and 9 in Wang (2015). </b></p>
+          </blockquote>
+        </ol>
+       </details>
        <details>
         <summary><u><b>Jul 3: Prof. Mario Wüthrich (ETH Zurich)</b></u></summary>
         <ol>
