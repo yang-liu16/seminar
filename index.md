@@ -34,7 +34,7 @@
           <blockquote>
             <p><b> Title: TBA </b></p>
             <p><b> Speaker: Yunran Wei (Assistant Professor, Northern Illinois University)  </b></p>
-            <p><b> Time: 10:00pm-11:00pm, Jul 23 (Thursday) </b></p>
+            <p><b> Time: 10:00pm-11:00pm, Jul 23 (Thu) </b></p>
             <p><b> Location: Online via Zoom </b></p>
             <p><b> Abstract: TBA </b></p>
           </blockquote>
@@ -46,7 +46,7 @@
           <blockquote>
             <p><b> Title: Estimation and Comparison of Correlation-based Measures of Concordance</b></p>
             <p><b> Speaker: Takaaki Koike (PhD Candidate, University of Waterloo) </b></p>
-            <p><b> Time: 10:00am-11:00am, Jul 16 (Thursday) </b></p>
+            <p><b> Time: 10:00am-11:00am, Jul 16 (Thu) </b></p>
             <p><b> Location: Online via Zoom </b></p>
             <p><b> Abstract: We address the problem of estimating and comparing transformed rank correlation coefficients defined as Pearson’s linear correlation between two random variables transformed by a so-called concordance-inducing function. The class of transformed rank correlations includes Spearman’s rho, Blomqvist’s beta and van der Waerden’s coefficient as special cases by taking uniform, Bernoulli and normal distributions as concordance-inducing functions, respectively. We propose a novel framework for comparing transformed rank correlations in terms of the asymptotic variance of their canonical estimators. A general criterion derived from this framework is that concordance-inducing functions with smaller variances of squared random variables are more preferable. In particular, we show that Blomqvist’s beta attains the optimal asymptotic variance and Spearman’s rho outperforms van der Waerden’s coefficient. We also find that the optimal bounds of the asymptotic variance are attained by Kendall’s tau. </b></p>
           </blockquote>
@@ -66,7 +66,7 @@
           <blockquote>
             <p><b> Title: Joint Mix Copulas</b></p>
             <p><b> Speaker: Dr. Xin Zang (Postdoc Fellow, Peking University) </b></p>
-            <p><b> Time: 10:00am-11:00am, Jul 9 (Thursday) </b></p>
+            <p><b> Time: 10:00am-11:00am, Jul 9 (Thu) </b></p>
             <p><b> Location: Online via Zoom </b></p>
             <p><b> Abstract: In this paper, we study the joint mixability of symmetric distributions from a common location-scale family with characteristic generator in $\Phi_{2}$, which is the set of generators of 2-dimensional spherical distributions. First, we verify the equivalence of univariate unimodal-symmetric distributions and location-scale family with a characteristic generator of 3-dimensional spherical distributions. Second, we introduce some methodologies to construct joint mix copulas with margins from a common location-scale family, including the so-called recursive method and geometric method. Via our method, we can construct a large family of joint mix copulas with sufficient flexibility. Third, we investigate the simulation of joint mix distributions via the related copulas and provide some numerical illustrations. We partially give an answer to the Open Problems 8 and 9 in Wang (2015). </b></p>
           </blockquote>
