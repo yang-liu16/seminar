@@ -40,7 +40,15 @@
           </blockquote>
         </ol>
    </details>
-   <details>
+</body>
+
+## Past Events
+
+### [<u>Seminars in 2020</u>](./2020.html)
+
+<body>
+<b>July</b>
+      <details>
       <summary><u><b>Jul 16: Takaaki Koike (University of Waterloo)</b></u></summary>
         <ol>
           <blockquote>
@@ -51,15 +59,7 @@
             <p><b> Abstract: We address the problem of estimating and comparing transformed rank correlation coefficients defined as Pearson’s linear correlation between two random variables transformed by a so-called concordance-inducing function. The class of transformed rank correlations includes Spearman’s rho, Blomqvist’s beta and van der Waerden’s coefficient as special cases by taking uniform, Bernoulli and normal distributions as concordance-inducing functions, respectively. We propose a novel framework for comparing transformed rank correlations in terms of the asymptotic variance of their canonical estimators. A general criterion derived from this framework is that concordance-inducing functions with smaller variances of squared random variables are more preferable. In particular, we show that Blomqvist’s beta attains the optimal asymptotic variance and Spearman’s rho outperforms van der Waerden’s coefficient. We also find that the optimal bounds of the asymptotic variance are attained by Kendall’s tau. </b></p>
           </blockquote>
         </ol>
-   </details>
-</body>
-
-## Past Events
-
-### [<u>Seminars in 2020</u>](./2020.html)
-
-<body>
-<b>July</b> 
+        </details>
         <details>
         <summary><u><b>Jul 9: Dr. Xin Zang (Peking University)</b></u></summary>
         <ol>
