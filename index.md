@@ -29,6 +29,18 @@
 ## Upcoming Events
 <body>
    <details>
+      <summary><u><b>Jul 16: Prof. Silvana Pesenti (University of Toronto)</b></u></summary>
+        <ol>
+          <blockquote>
+            <p><b> Title: TBA</b></p>
+            <p><b> Speaker: Silvana Pesenti (Assistant Professor, University of Toronto) </b></p>
+            <p><b> Time: 10:00am-11:00am, Jul 30 (Thu) </b></p>
+            <p><b> Location: Online via Zoom </b></p>
+            <p><b> Abstract: TBA </b></p>
+          </blockquote>
+        </ol>
+        </details>
+   <details>
         <summary><u><b>Jul 23: Prof. Yunran Wei (Northern Illinois University)</b></u></summary>
         <ol>
           <blockquote>
