@@ -32,11 +32,10 @@
         <summary><u><b>Jul 23: Prof. Yunran Wei (Northern Illinois University)</b></u></summary>
         <ol>
           <blockquote>
-            <p><b> Title: TBA </b></p>
+            <p><b> Title: Elicitation Complexity of Statistical Properties </b></p>
             <p><b> Speaker: Yunran Wei (Assistant Professor, Northern Illinois University)  </b></p>
             <p><b> Time: 10:00pm-11:00pm, Jul 23 (Thu) </b></p>
             <p><b> Location: Online via Zoom </b></p>
-            <p><b> Abstract: TBA </b></p>
           </blockquote>
         </ol>
    </details>
