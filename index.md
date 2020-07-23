@@ -32,11 +32,11 @@
       <summary><u><b>Jul 30: Prof. Silvana Pesenti (University of Toronto)</b></u></summary>
         <ol>
           <blockquote>
-            <p><b> Title: TBA</b></p>
+            <p><b> Title: Portfolio Optimisation within a Wasserstein Ball</b></p>
             <p><b> Speaker: Silvana Pesenti (Assistant Professor, University of Toronto) </b></p>
             <p><b> Time: 10:00am-11:00am, Jul 30 (Thu) </b></p>
             <p><b> Location: Online via Zoom </b></p>
-            <p><b> Abstract: TBA </b></p>
+            <p><b> Abstract: We consider the problem of active portfolio management where a loss-averse and/or risk-seeking investor aims to outperform a benchmark strategy's risk profile while staying ``close'' to the benchmark. Specifically, an investor considers alternative strategies whose (a) cost does not exceed that of the benchmark's, (b) whose terminal wealth and that of the benchmark's is comonotonic, and (c) whose terminal wealth lies within a Wasserstein ball around the benchmark's. The investor's personal risk profile is modelled by minimising a distortion risk measure. We prove that the optimal dynamic strategy exists and is unique, and provide a characterisation of the optimal strategy through the notion of isotonic projections. Moreover, we illustrate how investors with different risk preferences invest using the Tail Value-at-Risk and inverse S-shaped risk measures as examples. </b></p>
           </blockquote>
         </ol>
         </details>
