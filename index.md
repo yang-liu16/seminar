@@ -29,7 +29,7 @@
 ## Upcoming Events
 <body>
    <details>
-      <summary><u><b>Jul 16: Prof. Silvana Pesenti (University of Toronto)</b></u></summary>
+      <summary><u><b>Jul 30: Prof. Silvana Pesenti (University of Toronto)</b></u></summary>
         <ol>
           <blockquote>
             <p><b> Title: TBA</b></p>
