@@ -40,7 +40,15 @@
           </blockquote>
         </ol>
         </details>
-   <details>
+</body>
+
+## Past Events
+
+### [<u>Seminars in 2020</u>](./2020.html)
+
+<body>
+<b>July</b>
+       <details>
         <summary><u><b>Jul 23: Prof. Yunran Wei (Northern Illinois University)</b></u></summary>
         <ol>
           <blockquote>
@@ -50,15 +58,7 @@
             <p><b> Location: Online via Zoom </b></p>
           </blockquote>
         </ol>
-   </details>
-</body>
-
-## Past Events
-
-### [<u>Seminars in 2020</u>](./2020.html)
-
-<body>
-<b>July</b>
+      </details>
       <details>
       <summary><u><b>Jul 16: Takaaki Koike (University of Waterloo)</b></u></summary>
         <ol>
