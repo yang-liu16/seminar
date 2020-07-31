@@ -7,12 +7,12 @@
 
 * <b>We will send out weekly reminders via a mailing list, usually on the day before the presentation. Papers and presentation slides will be circulated among participants via the mailing list. If you would like to be included in the list, please contact the organizers.</b>
 
-%## Current Schedule
-%<b>Time: 10:00am-11:00am, every Thursday (Eastern Standard Time)</b>
+ <! -- ## Current Schedule
+<b>Time: 10:00am-11:00am, every Thursday (Eastern Standard Time)</b>
 
-%<b>Zoom Link: [https://cernet.zoom.com.cn/j/67990545137](https://cernet.zoom.com.cn/j/67990545137)</b>
+<b>Zoom Link: [https://cernet.zoom.com.cn/j/67990545137](https://cernet.zoom.com.cn/j/67990545137)</b>
 
-%<b>Meeting ID：679 9054 5137</b>
+<b>Meeting ID：679 9054 5137</b> -->
 
 
 ## Student Organizers
