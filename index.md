@@ -23,7 +23,7 @@
 
 ## Upcoming Events
 <body>
-     <b> The weekly seminar is temporarily cancelled in August. We will resume in September with a notice email in advance. Thanks for your contribution, attendance and interest. <\b>
+
 </body>
 
 ## Past Events
