@@ -9,7 +9,7 @@
 ## Current Schedule
 <b> The weekly seminar is temporarily cancelled in August. We will resume in September with a notice email in advance. Thanks for your contribution, attendance and interest. </b>
 
-<b> Zoom Link: https://cernet.zoom.com.cn/j/67990545137 </b>
+<b> Zoom Link: <a href="https://cernet.zoom.com.cn/j/67990545137">https://cernet.zoom.com.cn/j/67990545137</a> </b>
 
 <b> Meeting ID：679 9054 5137 </b>
 
