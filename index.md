@@ -38,7 +38,7 @@
 
 <body>
 <b>July</b>
-          <details>
+      <details>
       <summary><u><b>Jul 30: Prof. Silvana Pesenti (University of Toronto)</b></u></summary>
         <ol>
           <blockquote>
