@@ -1,4 +1,5 @@
 # Weekly Seminars on <br/> Risk Management and Actuarial Science
+<b> The weekly seminar is temporarily cancelled in August. We will resume in September with a notice email in advance. Thanks for your contribution, attendance and interest.
 
 <b>The weekly seminar series is a venue for international scholars in risk management and actuarial science to discuss research advances and exchange ideas. Junior researchers are the most encouraged to present their recent work, including on-going projects. The list of current and past speakers includes scholars from Canada, US, China, Australia, and Europe. </b>
 
@@ -6,12 +7,12 @@
 
 * <b>We will send out weekly reminders via a mailing list, usually on the day before the presentation. Papers and presentation slides will be circulated among participants via the mailing list. If you would like to be included in the list, please contact the organizers.</b>
 
-## Current Schedule
-<b>Time: 10:00am-11:00am, every Thursday (Eastern Standard Time)</b>
+%## Current Schedule
+%<b>Time: 10:00am-11:00am, every Thursday (Eastern Standard Time)</b>
 
-<b>Zoom Link: [https://cernet.zoom.com.cn/j/67990545137](https://cernet.zoom.com.cn/j/67990545137)</b>
+%<b>Zoom Link: [https://cernet.zoom.com.cn/j/67990545137](https://cernet.zoom.com.cn/j/67990545137)</b>
 
-<b>Meeting ID：679 9054 5137</b>
+%<b>Meeting ID：679 9054 5137</b>
 
 
 ## Student Organizers
@@ -28,7 +29,16 @@
 
 ## Upcoming Events
 <body>
-   <details>
+     The weekly seminar is temporarily cancelled in August. We will resume in September with a notice email in advance. Thanks for your contribution, attendance and interest.
+</body>
+
+## Past Events
+
+### [<u>Seminars in 2020</u>](./2020.html)
+
+<body>
+<b>July</b>
+          <details>
       <summary><u><b>Jul 30: Prof. Silvana Pesenti (University of Toronto)</b></u></summary>
         <ol>
           <blockquote>
@@ -40,14 +50,6 @@
           </blockquote>
         </ol>
         </details>
-</body>
-
-## Past Events
-
-### [<u>Seminars in 2020</u>](./2020.html)
-
-<body>
-<b>July</b>
        <details>
         <summary><u><b>Jul 23: Prof. Yunran Wei (Northern Illinois University)</b></u></summary>
         <ol>
