@@ -9,6 +9,10 @@
 ## Current Schedule
 <b> The weekly seminar is temporarily cancelled in August. We will resume in September with a notice email in advance. Thanks for your contribution, attendance and interest. </b>
 
+<b> Zoom Link: https://cernet.zoom.com.cn/j/67990545137 </b>
+
+<b> Meeting ID：679 9054 5137 </b>
+
 ## Student Organizers
 <b>[Yang Liu](https://yang-liu16.github.io/) (Tsinghua University & University of Waterloo):
 <a href="mailto:y2796liu@uwaterloo.ca">y2796liu@uwaterloo.ca</a></b>
