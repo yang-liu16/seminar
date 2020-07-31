@@ -7,7 +7,7 @@
 * <b>We will send out weekly reminders via a mailing list, usually on the day before the presentation. Papers and presentation slides will be circulated among participants via the mailing list. If you would like to be included in the list, please contact the organizers.</b>
 
  ## Current Schedule
-<b> The weekly seminar is temporarily cancelled in August. We will resume in September with a notice email in advance. Thanks for your contribution, attendance and interest. <\b>
+<b> The weekly seminar is temporarily cancelled in August. We will resume in September with a notice email in advance. Thanks for your contribution, attendance and interest. </b>
 
 ## Student Organizers
 <b>[Yang Liu](https://yang-liu16.github.io/) (Tsinghua University & University of Waterloo):
