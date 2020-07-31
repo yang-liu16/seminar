@@ -7,7 +7,7 @@
 * <b>We will send out weekly reminders via a mailing list, usually on the day before the presentation. Papers and presentation slides will be circulated among participants via the mailing list. If you would like to be included in the list, please contact the organizers.</b>
 
 ## Current Schedule
-<b> The weekly seminar is temporarily cancelled in August. We will resume in September with a notice email in advance. Thanks for your contribution, attendance and interest. </b>
+<b> The weekly seminar is suspended in August for summer break. We will resume in September with a notice email in advance. Thanks for your contribution, attendance and interest. </b>
 
 <b> Zoom Link: <a href="https://cernet.zoom.com.cn/j/67990545137">https://cernet.zoom.com.cn/j/67990545137</a> </b>
 
