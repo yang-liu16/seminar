@@ -7,11 +7,11 @@
 * <b>We will send out weekly reminders via a mailing list, usually on the day before the presentation. Papers and presentation slides will be circulated among participants via the mailing list. If you would like to be included in the list, please contact the organizers.</b>
 
 ## Current Schedule
-<b> The weekly seminar is suspended in August for the summer break. We will resume in September with a notice email in advance. Thanks for your contribution, attendance and interest. </b>
+<b> The weekly seminar is held at 10-11am, every Thursday. </b>
 
-<b> Zoom Link: <a href="https://cernet.zoom.com.cn/j/67990545137">https://cernet.zoom.com.cn/j/67990545137</a> </b>
+<b> Zoom Link: <a href="https://zoom.us/j/5564680447?pwd=bnFqWm1jT25kYUVvamQvUzlacVRHZz09">https://zoom.us/j/5564680447?pwd=bnFqWm1jT25kYUVvamQvUzlacVRHZz09</a> </b>
 
-<b> Meeting ID：679 9054 5137 </b>
+<b> Meeting ID：556 468 0447, Passcode: 3iA1cF </b>
 
 ## Student Organizers
 <b>[Yang Liu](https://yang-liu16.github.io/) (Tsinghua University & University of Waterloo):
@@ -27,7 +27,19 @@
 
 ## Upcoming Events
 <body>
-<b>TBD</b>
+<b>Oct</b>
+<details>
+      <summary><u><b>Oct 15: Qiuqi Wang (University of Waterloo)</b></u></summary>
+        <ol>
+          <blockquote>
+            <p><b> Title: Optimizing Distortion Riskmetrics with Distributional Uncertainty</b></p>
+            <p><b> Speaker: Qiuqi Wang (PhD Candidate, University of Waterloo) </b></p>
+            <p><b> Time: 10:00am-11:00am, Oct 15 (Thu) </b></p>
+            <p><b> Location: Online via Zoom </b></p>
+            <p><b> Abstract: TBD. </b></p>
+          </blockquote>
+        </ol>
+        </details>
 </body>
 
 ## Past Events
