@@ -39,7 +39,7 @@
           <blockquote>
             <p><b> Title: TBD</b></p>
             <p><b> Speaker: Yang Liu (PhD Candidate, Tsinghua University) </b></p>
-            <p><b> Time: 10:00am-11:00am EST, Oct 15 (Thu) </b></p>
+            <p><b> Time: 10:00am-11:00am EST, Oct 29 (Thu) </b></p>
             <p><b> Location: Online via Zoom </b></p>
             <p><b> Abstract: TBD</b></p>
           </blockquote>
