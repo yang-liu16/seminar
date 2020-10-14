@@ -62,7 +62,7 @@
             <p><b> Speaker: Qiuqi Wang (PhD Candidate, University of Waterloo) </b></p>
             <p><b> Time: 10:00am-11:00am, Oct 15 (Thu) </b></p>
             <p><b> Location: Online via Zoom </b></p>
-            <p><b> Abstract: TBD. </b></p>
+            <p><b> Abstract: Optimization of distortion riskmetrics with distributional uncertainty has wide applications in finance and operations research. Distortion riskmetrics include many commonly applied risk measures and deviation measures, which are not necessarily monotone or convex. One of our central findings is a unifying result which allows us to freely transform the optimization of a non-convex distortion riskmetric to that of a convex one, giving rise to great tractability in many practical problems. Key to the main unifying equivalence result, we introduce the notion of closedness under concentration for the set of plausible distributions. Our result includes many special cases that are well studied in the optimization literature, including but not limited to optimizing probability, Value-at-Risk, Expected Shortfall, and Yaari's dual utility under various forms of distributional uncertainty. We illustrate our theoretical results via applications to portfolio optimization, optimization under moment constraints, and preference robust optimization. </b></p>
           </blockquote>
         </ol>
         </details>
