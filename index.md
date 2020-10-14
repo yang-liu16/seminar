@@ -10,8 +10,11 @@
 <b> The weekly seminar is held on every Thursday: </b>
 
 <b> Eastern Standard Time (EST)：10-11 am </b>
+
 <b> UK Time: 3-4 pm </b>
+
 <b> Switzerland Time: 4-5 pm </b>
+
 <b> China Time: 10-11 pm </b>
 
 <b> Zoom Link: <a href="https://zoom.us/j/5564680447?pwd=bnFqWm1jT25kYUVvamQvUzlacVRHZz09">https://zoom.us/j/5564680447?pwd=bnFqWm1jT25kYUVvamQvUzlacVRHZz09</a> </b>
