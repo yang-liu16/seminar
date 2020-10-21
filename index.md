@@ -49,11 +49,11 @@
       <summary><u><b>Oct 22: Mingren Yin (University of Waterloo)</b></u></summary>
         <ol>
           <blockquote>
-            <p><b> Title: TBD</b></p>
+            <p><b> Title: Worst-case Risk Measures and Robust Portfolio Optimization</b></p>
             <p><b> Speaker: Mingren Yin (PhD Candidate, University of Waterloo) </b></p>
             <p><b> Time: 10:00am-11:00am EST, Oct 22 (Thu) </b></p>
             <p><b> Location: Online via Zoom </b></p>
-            <p><b> Abstract: TBD</b></p>
+            <p><b> Abstract: Classical formulations of the portfolio optimization problem, such as mean-variance or Value-at-Risk (VaR) approaches, can result in a portfolio extremely sensitive to errors in the data, such as mean and covariance matrix of the returns. These two papers instead assumed the distribution of returns is partially known and considered the problem of computing the worst-case VaR and the worst-case CVaR, respectively, with respect to several types of model uncertainties. The both papers showed the problems can be converted into convex problems and hence are tractable. </b></p>
           </blockquote>
         </ol>
 </details>
