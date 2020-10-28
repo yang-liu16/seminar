@@ -37,15 +37,23 @@
       <summary><u><b>Oct 29: Yang Liu (Tsinghua University)</b></u></summary>
         <ol>
           <blockquote>
-            <p><b> Title: TBD</b></p>
+            <p><b> Title: A classification approach to general S-shaped utility optimization with principals' constraints</b></p>
             <p><b> Speaker: Yang Liu (PhD Candidate, Tsinghua University) </b></p>
             <p><b> Time: 10:00am-11:00am EST, Oct 29 (Thu) </b></p>
             <p><b> Location: Online via Zoom </b></p>
-            <p><b> Abstract: TBD</b></p>
+            <p><b> Abstract: We study a problem in the principal-agent model of two general S-shaped utilities without explicit expressions, where the two parties have different reference points. The problem is featured with a principal's participating incentive compatible constraint, which particularly stands in the context of asset management with motivation to safeguard the benefit of the principal. After a thorough investigation, it turns out to be a complicated double S-shaped utility optimization problem. We propose a new classification approach to study the optimal final asset allocation. First, it is classified into two cases: (a) One-side-loss Case in which either both parties suffer liquidation, or one gains and the other loses, or both make profit; (b) Option Case in which either both parties suffer liquidation or both make profit. Further, we demonstrate an asymptotic classification of the optimal asset allocation that the single utility maximization of the principal is the limit of the Option Case, while that of the agent is the limit of the One-side-loss Case. More importantly, we find a division reservation utility which the optimal asset allocation belongs to the Option Case beyond and to the One-side-loss Case below. Thus, the key factor resulting in different risk choices is the size of the reservation utility. As an application, we numerically visualize these results with a specific participating contract, which illustrates some novel mechanisms in asset management.</b></p>
           </blockquote>
         </ol>
 </details>
-<details>
+</body>
+
+## Past Events
+
+### [<u>Seminars in 2020</u>](./2020.html)
+
+<body>
+<b>October</b>
+ <details>
       <summary><u><b>Oct 22: Mingren Yin (University of Waterloo)</b></u></summary>
         <ol>
           <blockquote>
@@ -69,13 +77,7 @@
           </blockquote>
         </ol>
 </details>
-</body>
-
-## Past Events
-
-### [<u>Seminars in 2020</u>](./2020.html)
-
-<body>
+ 
 <b>July</b>
       <details>
       <summary><u><b>Jul 30: Prof. Silvana Pesenti (University of Toronto)</b></u></summary>
