@@ -33,6 +33,27 @@
 
 ## Upcoming Events
 <body>
+ <details>
+      <summary><u><b>Oct 22: Yuyu Chen (University of Waterloo)</b></u></summary>
+        <ol>
+          <blockquote>
+            <p><b> Title: TBD</b></p>
+            <p><b> Speaker: Yuyu Chen (PhD Candidate, University of Waterloo) </b></p>
+            <p><b> Time: 10:00am-11:00am EST, Nov 5 (Thu) </b></p>
+            <p><b> Location: Online via Zoom </b></p>
+            <p><b> Abstract: TBD </b></p>
+          </blockquote>
+        </ol>
+</details>
+</body>
+
+## Past Events
+
+### [<u>Seminars in 2020</u>](./2020.html)
+
+<body>
+<b>October</b>
+ 
 <details>
       <summary><u><b>Oct 29: Yang Liu (Tsinghua University)</b></u></summary>
         <ol>
@@ -45,14 +66,6 @@
           </blockquote>
         </ol>
 </details>
-</body>
-
-## Past Events
-
-### [<u>Seminars in 2020</u>](./2020.html)
-
-<body>
-<b>October</b>
  <details>
       <summary><u><b>Oct 22: Mingren Yin (University of Waterloo)</b></u></summary>
         <ol>
