@@ -34,7 +34,7 @@
 ## Upcoming Events
 <body>
  <details>
-      <summary><u><b>Oct 22: Yuyu Chen (University of Waterloo)</b></u></summary>
+      <summary><u><b>Nov 5: Yuyu Chen (University of Waterloo)</b></u></summary>
         <ol>
           <blockquote>
             <p><b> Title: TBD</b></p>
