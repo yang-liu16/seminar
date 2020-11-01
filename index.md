@@ -21,7 +21,7 @@
 
 ## Student Organizers
 
-<b>[Liyuan Lin] (University of Waterloo):
+<b>Liyuan Lin (University of Waterloo):
 <a href="mailto:l89lin@uwaterloo.ca">l89lin@uwaterloo.ca</a></b>
 
 <b>[Yang Liu](https://yang-liu16.github.io/) (Tsinghua University & University of Waterloo):
