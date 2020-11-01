@@ -20,6 +20,10 @@
 <b> Meeting ID：556 468 0447, Passcode: 3iA1cF </b>
 
 ## Student Organizers
+
+<b>[Liyuan Lin] (University of Waterloo):
+<a href="mailto:l89lin@uwaterloo.ca">l89lin@uwaterloo.ca</a></b>
+
 <b>[Yang Liu](https://yang-liu16.github.io/) (Tsinghua University & University of Waterloo):
 <a href="mailto:y2796liu@uwaterloo.ca">y2796liu@uwaterloo.ca</a></b>
  
