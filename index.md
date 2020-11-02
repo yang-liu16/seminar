@@ -7,11 +7,11 @@
 * <b>We will send out weekly reminders via a mailing list, usually on the day before the presentation. Papers and presentation slides will be circulated among participants via the mailing list. If you would like to be included in the list, please contact the organizers.</b>
 
 ## Current Schedule
-<b> The weekly seminar is held at 10-11 am (Eastern Standard Time, EST) on every Thursday. </b>
+<b> The weekly seminar is held at 9-10 am (Eastern Standard Time, EST) on every Thursday. </b>
 
-* <b> UK Time: 3-4 pm, every Thursday </b>
+* <b> UK Time: 2-3 pm, every Thursday </b>
 
-* <b> Switzerland Time: 4-5 pm, every Thursday </b>
+* <b> Switzerland Time: 3-4 pm, every Thursday </b>
 
 * <b> China Time: 10-11 pm, every Thursday </b>
 
@@ -43,7 +43,7 @@
           <blockquote>
             <p><b> Title: Detecting systematic risks affecting systems when genuine inputs are stationary time series </b></p>
             <p><b> Speaker: Ricardas Zitikis (Professor, Western University) </b></p>
-            <p><b> Time: 10:00am-11:00am EST, Nov 12 (Thu) </b></p>
+            <p><b> Time: 9:00am-10:00am EST, Nov 12 (Thu) </b></p>
             <p><b> Location: Online via Zoom </b></p>
             <p><b> Abstract: We develop a systematic-risk detection method when genuine inputs into the system originate from a large class of stationary random sequences, thus enabling the use of the method in a variety of applications. To show how the method works on data, and how to interpret results and make appropriate decisions, we illustrate the method when genuine inputs are ARMA time series and systematic risks (e.g., measurement errors) are sequences of iid random variables. (This is a joint work with Ning Sun and Chen Yang.)
   </b></p>
@@ -57,7 +57,7 @@
           <blockquote>
             <p><b> Title: TBD</b></p>
             <p><b> Speaker: Yuyu Chen (PhD Candidate, University of Waterloo) </b></p>
-            <p><b> Time: 10:00am-11:00am EST, Nov 5 (Thu) </b></p>
+            <p><b> Time: 9:00am-10:00am EST, Nov 5 (Thu) </b></p>
             <p><b> Location: Online via Zoom </b></p>
             <p><b> Abstract: TBD </b></p>
           </blockquote>
