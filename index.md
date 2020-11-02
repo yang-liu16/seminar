@@ -37,6 +37,20 @@
 
 ## Upcoming Events
 <body>
+
+<details>
+      <summary><u><b>Nov 19: Qinyu Wu (University of Science and Technology of China)</b></u></summary>
+        <ol>
+          <blockquote>
+            <p><b> Title: TBD</b></p>
+            <p><b> Speaker: Qinyu Wu (PhD Candidate, University of Science and Technology of China) </b></p>
+            <p><b> Time: 9:00am-10:00am EST, Nov 19 (Thu) </b></p>
+            <p><b> Location: Online via Zoom </b></p>
+            <p><b> Abstract: TBD </b></p>
+          </blockquote>
+        </ol>
+</details>
+
 <details>
         <summary><u><b>Nov 12: Prof. Ricardas Zitikis (Western University)</b></u></summary>
         <ol>
