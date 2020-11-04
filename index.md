@@ -69,11 +69,11 @@
       <summary><u><b>Nov 5: Yuyu Chen (University of Waterloo)</b></u></summary>
         <ol>
           <blockquote>
-            <p><b> Title: TBD</b></p>
+            <p><b> Title: Pareto-optimal insurance contracts with premium budget and minimum charge constraints </b></p>
             <p><b> Speaker: Yuyu Chen (PhD Candidate, University of Waterloo) </b></p>
             <p><b> Time: 9:00am-10:00am EST, Nov 5 (Thu) </b></p>
             <p><b> Location: Online via Zoom </b></p>
-            <p><b> Abstract: TBD </b></p>
+            <p><b> Abstract: In view of the fact that minimum charge and premium budget constraints are natural economic considerations in any risk-transfer between the insurance buyer and seller, the optimal insurance contract design problem is studied in terms of Pareto optimality with imposing these practical constraints. Pareto optimal insurance contracts, with indemnity schedule and premium payment, are solved in the cases when the risk preferences of the buyer and seller are given by Value-at-Risk or Tail Value-at-Risk. </b></p>
           </blockquote>
         </ol>
 </details>
