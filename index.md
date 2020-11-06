@@ -65,6 +65,15 @@
         </ol>
 </details>
 
+</body>
+
+## Past Events
+
+### [<u>Seminars in 2020</u>](./2020.html)
+
+<body>
+<b>November</b>
+ 
  <details>
       <summary><u><b>Nov 5: Yuyu Chen (University of Waterloo)</b></u></summary>
         <ol>
@@ -77,13 +86,9 @@
           </blockquote>
         </ol>
 </details>
-</body>
-
-## Past Events
-
-### [<u>Seminars in 2020</u>](./2020.html)
-
-<body>
+ 
+<br>  
+ 
 <b>October</b>
  
 <details>
