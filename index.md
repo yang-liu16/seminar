@@ -64,6 +64,16 @@
         </ol>
 </details>
 
+</body>
+
+## Past Events
+
+### [<u>Seminars in 2020</u>](./2020.html)
+
+<body>
+<b>November</b>
+
+
 <details>
         <summary><u><b>Nov 12: Prof. Ricardas Zitikis (Western University)</b></u></summary>
         <ol>
@@ -78,16 +88,7 @@
         </ol>
 </details>
 
-</body>
-
-## Past Events
-
-### [<u>Seminars in 2020</u>](./2020.html)
-
-<body>
-<b>November</b>
- 
- <details>
+<details>
       <summary><u><b>Nov 5: Yuyu Chen (University of Waterloo)</b></u></summary>
         <ol>
           <blockquote>
