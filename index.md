@@ -7,7 +7,9 @@
 * <b>We will send out weekly reminders via a mailing list, usually on the day before the presentation. Papers and presentation slides will be circulated among participants via the mailing list. If you would like to be included in the list, please contact the organizers.</b>
 
 ## Current Schedule
-<b> The weekly seminar is held at 9-10 am (Eastern Standard Time, EST) on every Thursday. </b>
+<b> The weekly seminar is held at: </b>
+
+* <b> Eastern Standard Time (EST): 9-10 am, every Thursday </b>
 
 * <b> UK Time: 2-3 pm, every Thursday </b>
 
