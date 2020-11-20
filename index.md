@@ -53,19 +53,6 @@
         </ol>
 </details>
 
-<details>
-      <summary><u><b>Nov 19: Zhanyi Jiao (University of Waterloo)</b></u></summary>
-        <ol>
-          <blockquote>
-            <p><b> Title: TBD </b></p>
-            <p><b> Speaker: Zhanyi Jiao (PhD Candidate, University of Waterloo) </b></p>
-            <p><b> Time: 9:00am-10:00am EST, Nov 19 (Thu) </b></p>
-            <p><b> Location: Online via Zoom </b></p>
-            <p><b> Abstract: TBD </b></p>
-          </blockquote>
-        </ol>
-</details>
-
 </body>
 
 ## Past Events
@@ -75,6 +62,18 @@
 <body>
 <b>November</b>
 
+<details>
+      <summary><u><b>Nov 19: Zhanyi Jiao (University of Waterloo)</b></u></summary>
+        <ol>
+          <blockquote>
+            <p><b> Title: Peer-to-peer multi-risk insurance and mutual aid </b></p>
+            <p><b> Speaker: Zhanyi Jiao (PhD Candidate, University of Waterloo) </b></p>
+            <p><b> Time: 9:00am-10:00am EST, Nov 19 (Thu) </b></p>
+            <p><b> Location: Online via Zoom </b></p>
+            <p><b> Abstract: Peer-to-peer (P2P) insurance is a decentralized network in which participants pool their resources together to compensate those who suffer losses. Despite the fast-changing landscape in this field, there has been no previous academic literature on the theoretical underpinning of P2P insurance. This paper presents the first effort to build the framework for the design and engineering of mutual aid and P2P insurance. Most of existing business models are developed to insure against a particular risk. This paper presents a variety of P2P insurance/mutual aid models that facilitate the exchange of multiple risks and enable peers with different needs to financially support each other in a transparent and fair way. </b></p>
+          </blockquote>
+        </ol>
+</details>
 
 <details>
         <summary><u><b>Nov 12: Prof. Ricardas Zitikis (Western University)</b></u></summary>
