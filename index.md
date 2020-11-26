@@ -44,11 +44,11 @@
       <summary><u><b>Nov 26: Qinyu Wu (University of Science and Technology of China)</b></u></summary>
         <ol>
           <blockquote>
-            <p><b> Title: TBD</b></p>
+            <p><b> Title: Generalized Optimized Certainty Equivalent</b></p>
             <p><b> Speaker: Qinyu Wu (PhD Candidate, University of Science and Technology of China) </b></p>
             <p><b> Time: 9:00am-10:00am EST, Nov 26 (Thu) </b></p>
             <p><b> Location: Online via Zoom </b></p>
-            <p><b> Abstract: TBD </b></p>
+            <p><b> Abstract: In this paper, we introduce a class of optimized certainty equivalent based on the variational preference, give its dual representation based on ϕ-divergence, and study its equivalent characterization of positive homogeneity and coherence. As applications, we investigate the properties of optimized certainty equivalent based on the rank-dependent utility (RDU) model. The dual representation of RDU-based shortfall risk measure proposed by Mao and Cai (2018) is also presented. </b></p>
           </blockquote>
         </ol>
 </details>
