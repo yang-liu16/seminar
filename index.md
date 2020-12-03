@@ -39,6 +39,18 @@
 
 ## Upcoming Events
 <body>
+<details>
+      <summary><u><b>Dec 3: Xia Han (University of Waterloo)</b></u></summary>
+        <ol>
+          <blockquote>
+            <p><b> Title: Stochastic Stackelberg differential reinsurance games under time-inconsistent mean-variance framework</b></p>
+            <p><b> Speaker: Xia Han (Postdoc Fellow, University of Waterloo) </b></p>
+            <p><b> Time: 9:00am-10:00am EST, Dec 3 (Thu) </b></p>
+            <p><b> Location: Online via Zoom </b></p>
+            <p><b> Abstract: We study optimal reinsurance in the framework of stochastic Stackelberg differential game, in which an insurer and a reinsurer are the two players, and more specifically are considered as the follower and the leader of the Stackelberg game, respectively. An optimal reinsurance policy is determined by the Stackelberg equilibrium of the game, consisting of an optimal reinsurance strategy chosen by the insurer and an optimal reinsurance premium strategy by the reinsurer. Both the insurer and the reinsurer aim to maximize their respective mean–variance cost functionals. To overcome the time- inconsistency issue in the game, we formulate the optimization problem of each player as an embedded game and solve it via a corresponding extended Hamilton–Jacobi–Bellman equation. It is found that the Stackelberg equilibrium can be achieved by the pair of a variance reinsurance premium principle and a proportional reinsurance treaty, or that of an expected value reinsurance premium principle and an excess-of-loss reinsurance treaty.</b></p>
+          </blockquote>
+        </ol>
+</details>
 
 <details>
       <summary><u><b>Nov 26: Qinyu Wu (University of Science and Technology of China)</b></u></summary>
