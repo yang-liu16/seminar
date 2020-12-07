@@ -52,6 +52,16 @@
         </ol>
 </details>
  
+</body>
+
+## Past Events
+
+### [<u>Seminars in 2020</u>](./2020.html)
+
+<body>
+<b>November</b>
+
+
 <details>
       <summary><u><b>Dec 3: Dr. Xia Han (University of Waterloo)</b></u></summary>
         <ol>
@@ -78,14 +88,6 @@
         </ol>
 </details>
 
-</body>
-
-## Past Events
-
-### [<u>Seminars in 2020</u>](./2020.html)
-
-<body>
-<b>November</b>
 
 <details>
       <summary><u><b>Nov 19: Zhanyi Jiao (University of Waterloo)</b></u></summary>
