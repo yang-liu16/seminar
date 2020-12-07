@@ -59,9 +59,7 @@
 ### [<u>Seminars in 2020</u>](./2020.html)
 
 <body>
-<b>November</b>
-
-
+<b>December</b>
 <details>
       <summary><u><b>Dec 3: Dr. Xia Han (University of Waterloo)</b></u></summary>
         <ol>
@@ -75,6 +73,7 @@
         </ol>
 </details>
 
+<b>November</b>
 <details>
       <summary><u><b>Nov 26: Qinyu Wu (University of Science and Technology of China)</b></u></summary>
         <ol>
