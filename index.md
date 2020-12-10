@@ -43,11 +43,11 @@
       <summary><u><b>Dec 10: Liyuan Lin (University of Waterloo)</b></u></summary>
         <ol>
           <blockquote>
-            <p><b> Title: TBD</b></p>
+            <p><b> Title: Sum of standard uniform random variables</b></p>
             <p><b> Speaker: Liyuan Lin (PhD Candidate, University of Waterloo) </b></p>
             <p><b> Time: 9:00am-10:00am EST, Dec 10 (Thu) </b></p>
             <p><b> Location: Online via Zoom </b></p>
-            <p><b> Abstract: TBD</b></p>
+            <p><b> Abstract: In this paper, we analyse the set of all possible aggregate distributions of the sum of standard uniform random variables, a simply stated yet challenging problem in the literature of distributions with given margins. Our main results are obtained for two distinct cases. In the case of dimension two, we obtain four partial characterization results. For dimension greater than or equal to three, we obtain a full characterization of the set of aggregate distributions, which is the first complete characterization result of this type in the literature for any choice of continuous marginal distributions.</b></p>
           </blockquote>
         </ol>
 </details>
