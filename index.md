@@ -39,7 +39,16 @@
 
 ## Upcoming Events
 <body>
- <details>
+The seminar is temporarily suspended now, and will resume in January, 2021.
+</body>
+
+## Past Events
+
+### [<u>Seminars in 2020</u>](./2020.html)
+
+<body>
+<b>December</b>
+<details>
       <summary><u><b>Dec 10: Liyuan Lin (University of Waterloo)</b></u></summary>
         <ol>
           <blockquote>
@@ -52,14 +61,6 @@
         </ol>
 </details>
  
-</body>
-
-## Past Events
-
-### [<u>Seminars in 2020</u>](./2020.html)
-
-<body>
-<b>December</b>
 <details>
       <summary><u><b>Dec 3: Dr. Xia Han (University of Waterloo)</b></u></summary>
         <ol>
