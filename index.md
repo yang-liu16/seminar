@@ -9,13 +9,13 @@
 ## Current Schedule
 <b> The weekly seminar is held at: </b>
 
-* <b> Eastern Standard Time (EST): 9-10 am, every Thursday </b>
+* <b> Eastern Standard Time (EST): 9-10 am, every Wednesday </b>
 
-* <b> UK Time: 2-3 pm, every Thursday </b>
+* <b> UK Time: 2-3 pm, every Wednesday </b>
 
-* <b> Switzerland Time: 3-4 pm, every Thursday </b>
+* <b> Switzerland Time: 3-4 pm, every Wednesday </b>
 
-* <b> China Time: 10-11 pm, every Thursday </b>
+* <b> China Time: 10-11 pm, every Wednesday </b>
 
 <b> Zoom Link: <a href="https://zoom.us/j/5564680447?pwd=bnFqWm1jT25kYUVvamQvUzlacVRHZz09">https://zoom.us/j/5564680447?pwd=bnFqWm1jT25kYUVvamQvUzlacVRHZz09</a> </b>
 
