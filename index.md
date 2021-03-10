@@ -40,25 +40,12 @@
 ## Upcoming Events
 <body>
 <details>
-      <summary><u><b>Mar 24: Yang Liu (Tsinghua University)</b></u></summary>
-        <ol>
-          <blockquote>
-            <p><b> Title: To be determined </b></p>
-            <p><b> Speaker: Yang Liu (PhD Candidate, Tsinghua University) </b></p>
-            <p><b> Time: 9:00am-10:00am EST, Mar 24 (Wed) </b></p>
-            <p><b> Location: Online via Zoom </b></p>
-            <p><b> Abstract: To be determined </b></p>
-          </blockquote>
-        </ol>
-</details>
-
-<details>
-      <summary><u><b>Mar 31: Yuyu Chen (University of Waterloo)</b></u></summary>
+      <summary><u><b>Mar 24: Yuyu Chen (University of Waterloo)</b></u></summary>
         <ol>
           <blockquote>
             <p><b> Title: To be determined </b></p>
             <p><b> Speaker: Yuyu Chen (PhD Candidate, University of Waterloo) </b></p>
-            <p><b> Time: 9:00am-10:00am EST, Mar 31 (Wed) </b></p>
+            <p><b> Time: 9:00am-10:00am EST, Mar 24 (Wed) </b></p>
             <p><b> Location: Online via Zoom </b></p>
             <p><b> Abstract: To be determined </b></p>
           </blockquote>
