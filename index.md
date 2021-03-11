@@ -38,7 +38,7 @@
 
 
 ## Upcoming Events
-<body>
+<body> 
 <details>
       <summary><u><b>Mar 24: Yuyu Chen (University of Waterloo)</b></u></summary>
         <ol>
@@ -51,6 +51,20 @@
           </blockquote>
         </ol>
 </details>
+ 
+<details>
+      <summary><u><b>Mar 31: Prof. Hirbod Assa (Kent Business School)</b></u></summary>
+        <ol>
+          <blockquote>
+            <p><b> Title: COVID 19, how it would change the insurance, the way we know it </b></p>
+            <p><b> Speaker: <a href="http://www.hirbod-assa.com/index.html">Hirbod Assa</a> (Professor, Kent Business School) </b></p>
+            <p><b> Time: 9:00am-10:00am EST, Mar 31 (Wed) </b></p>
+            <p><b> Location: Online via Zoom </b></p>
+            <p><b> Abstract: In this talk, I will discuss some practical and theoretical issues related to insurance as a risk management practice at the time of macro-economic systematic events like COVID-19. First, I will briefly discuss the modeling, decision-making, economic and political issues. The investigation of these issues would suggest revisiting the insurance as a general approach to risk management of systematic events. Particularly, we will revisit the so-called “insurance principle” and the ex-ante insurance policies in the presence of the common shocks, by introducing the ex-post policies. From a mathematical standpoint, I will be spending some time reviewing central limit theorems as well as the asymptotic equivalence of value at risk. We see how new concepts like contingent premiums, and VaR conditional on an event, naturally arise from our discussions and will be used for risk management of the systematic risk.  </b></p>
+          </blockquote>
+        </ol>
+</details>
+
 </body>
 
 ## Past Events
