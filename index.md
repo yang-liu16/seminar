@@ -57,8 +57,9 @@
 
 ## Past Events
 
-### [<u>Seminars in 2021</u>](./2020.html)
+### [<u>Seminars in 2021</u>](./2021.html)
 <body>
+<b>March</b>
 <details>
       <summary><u><b>Mar 24: Yuyu Chen (University of Waterloo)</b></u></summary>
         <ol>
