@@ -65,7 +65,7 @@
         <ol>
           <blockquote>
             <p><b> Title: Aggregation of Two Ordered Risks with Dependence Uncertainty </b></p>
-            <p><b> Speaker: Yuyu Chen (PhD Candidate, University of Waterloo) </b></p>
+            <p><b> Speaker: <a href = "https://yuyuchen-uw.github.io/"> Yuyu Chen</a> (PhD Candidate, University of Waterloo) </b></p>
             <p><b> Time: 9:00am-10:00am EST, Mar 24 (Wed) </b></p>
             <p><b> Location: Online via Zoom </b></p>
             <p><b> Abstract: In this talk, we study the aggregation of two risks when the marginal distributions are known, and one risk is assumed to be smaller than the other. The concave ordering of the aggregate position is discussed. In particular, the largest aggregate risk in concave order is attained when the two risks are directionally lower (DL) coupled. These results are used to calculate the best-case and worst-case values of risk measures. Moreover, we derive an analytical solution for Value-at-Risk. Our numerical results suggest that the new bounds on risk measures with the extra order constraint can greatly improve those where only the marginal distributions are known. </b></p>
