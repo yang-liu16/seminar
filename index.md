@@ -53,6 +53,18 @@
         </ol>
 </details>
 
+<details>
+      <summary><u><b>Apr 7: Prof. Takaaki Koike (the Institute of Statistical Mathematics, Japan)</b></u></summary>
+        <ol>
+          <blockquote>
+            <p><b> Title: TBD </b></p>
+            <p><b> Speaker: <a href="http://www.hirbod-assa.com/index.html">Takaaki Koike</a> (Assistant Professor, the Institute of Statistical Mathematics, Japan) </b></p>
+            <p><b> Time: 9:00am-10:00am EST, April 7 (Wed) </b></p>
+            <p><b> Location: Online via Zoom </b></p>
+            <p><b> Abstract: TBD  </b></p>
+          </blockquote>
+        </ol>
+</details>
 </body>
 
 ## Past Events
