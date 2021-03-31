@@ -54,11 +54,11 @@
 </details>
 
 <details>
-      <summary><u><b>Apr 7: Prof. Takaaki Koike (Institute of Statistical Mathematics, Japan)</b></u></summary>
+      <summary><u><b>Apr 7: Prof. Takaaki Koike (Institute of Statistical Mathematics)</b></u></summary>
         <ol>
           <blockquote>
             <p><b> Title: Tail concordance measures: A fair assessment of tail dependence </b></p>
-            <p><b> Speaker: <a href="https://researchmap.jp/takaakikoike?lang=en">Takaaki Koike</a> (Project Assistant Professor, Institute of Statistical Mathematics, Japan) </b></p>
+            <p><b> Speaker: <a href="https://researchmap.jp/takaakikoike?lang=en">Takaaki Koike</a> (Project Assistant Professor, Institute of Statistical Mathematics) </b></p>
             <p><b> Time: 9:00am-10:00am EST, April 7 (Wed) </b></p>
             <p><b> Location: Online via Zoom </b></p>
             <p><b> Abstract: In this talk, we propose a new class of measures of bivariate tail dependence called tail concordance measure (TCM), which is defined as the limit of a measure of concordance of the underlying copula restricted to the tail region of interest.  The proposed measures capture the extremal relationship between random variables not only along the diagonal but also along all angles weighted by a tail generating measure.  Axioms of tail dependence measures are introduced, and the TCMs are shown to characterize linear tail dependence measures.  The infimum and supremum of the TCMs over all generating measures are presented to investigate the issue of under- and overestimation of the degree of extreme co-movements. The infimum is shown to be attained by the classical tail dependence coefficient, and thus the classical notion always underestimates tail dependence.  A formula for the supremum TCM is derived and shown to overestimate the degree of extreme co-movements.  Estimators of the proposed measures are studied, and their performance is demonstrated in numerical experiments.  For a fair assessment of tail dependence and stability of the estimation under small sample sizes, TCMs weighted over all angles are suggested, with tail Spearman's rho and tail Gini's gamma being novel special cases of TCMs.  </b></p>
