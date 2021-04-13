@@ -44,7 +44,7 @@
         <ol>
           <blockquote>
             <p><b> Title: TBD </b></p>
-            <p><b> Speaker: <a href="https://sites.unimi.it/burzonim/">Haiyan Liu</a> (Professor, Michigan State University) </b></p>
+            <p><b> Speaker: <a href="https://sites.google.com/site/uwaterloohaiyanliu/">Haiyan Liu</a> (Professor, Michigan State University) </b></p>
             <p><b> Time: 9:00am-10:00am EST, April 28 (Wed) </b></p>
             <p><b> Location: Online via Zoom </b></p>
             <p><b> Abstract: TBD  </b></p>
