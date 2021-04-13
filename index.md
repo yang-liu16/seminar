@@ -51,7 +51,6 @@
           </blockquote>
         </ol>
 </details>
-</body>
 
 <details>
       <summary><u><b>Apr 21: Prof. Matteo Burzoni (University of Milan)</b></u></summary>
