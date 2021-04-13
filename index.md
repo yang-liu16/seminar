@@ -40,6 +40,20 @@
 ## Upcoming Events
 <body> 
 <details>
+      <summary><u><b>Apr 28: Prof. Haiyan Liu (Michigan State University)</b></u></summary>
+        <ol>
+          <blockquote>
+            <p><b> Title: TBD </b></p>
+            <p><b> Speaker: <a href="https://sites.unimi.it/burzonim/">Haiyan Liu</a> (Professor, Michigan State University) </b></p>
+            <p><b> Time: 9:00am-10:00am EST, April 28 (Wed) </b></p>
+            <p><b> Location: Online via Zoom </b></p>
+            <p><b> Abstract: TBD  </b></p>
+          </blockquote>
+        </ol>
+</details>
+</body>
+
+<details>
       <summary><u><b>Apr 21: Prof. Matteo Burzoni (University of Milan)</b></u></summary>
         <ol>
           <blockquote>
