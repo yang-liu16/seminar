@@ -45,7 +45,7 @@
       <summary><u><b>Apr 21: Prof. Matteo Burzoni (University of Milan)</b></u></summary>
         <ol>
           <blockquote>
-            <p><b> Title: Viability and arbitrage under Knightian Uncertainty </b></p>
+            <p><b> Title: Viability and Arbitrage under Knightian Uncertainty </b></p>
             <p><b> Speaker: <a href="https://sites.unimi.it/burzonim/">Matteo Burzoni</a> (Professor, University of Milan) </b></p>
             <p><b> Time: 9:00am-10:00am EST, April 21 (Wed) </b></p>
             <p><b> Location: Online via Zoom </b></p>
