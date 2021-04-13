@@ -39,8 +39,6 @@
 
 ## Upcoming Events
 <body> 
-
-
 <details>
       <summary><u><b>Apr 21: Prof. Matteo Burzoni (University of Milan)</b></u></summary>
         <ol>
@@ -73,7 +71,8 @@
           </blockquote>
         </ol>
 </details>
- 
+<br>  
+
 <b>March</b>
 <details>
       <summary><u><b>Mar 31: Prof. Hirbod Assa (Kent Business School)</b></u></summary>
