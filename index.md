@@ -60,7 +60,7 @@
             <p><b> Speaker: <a href="https://sites.unimi.it/burzonim/">Matteo Burzoni</a> (Professor, University of Milan) </b></p>
             <p><b> Time: 9:00am-10:00am EST, April 21 (Wed) </b></p>
             <p><b> Location: Online via Zoom </b></p>
-            <p><b> Abstract: TBD  </b></p>
+            <p><b> Abstract: We reconsider the microeconomic foundations of financial economics. Motivated by the importance of Knightian Uncertainty in markets, we present a model that does not carry any probabilistic structure ex ante, yet is based on a common order. We derive the fundamental equivalence of economic viability of asset prices and absence of arbitrage. We also obtain a modified version of the Fundamental Theorem of Asset Pricing using the notion of sublinear pricing measures. Different versions of the Efficient Market Hypothesis are related to the assumptions one is willing to impose on the common order.  </b></p>
           </blockquote>
         </ol>
 </details>
