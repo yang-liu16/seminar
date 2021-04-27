@@ -17,6 +17,8 @@
 
 * <b> China Time: 9-10 pm, every Wednesday </b>
 
+* <b> Japan Time: 10-11 pm, every Wednesday </b>
+
 <b> Zoom Link: <a href="https://zoom.us/j/5564680447?pwd=bnFqWm1jT25kYUVvamQvUzlacVRHZz09">https://zoom.us/j/5564680447?pwd=bnFqWm1jT25kYUVvamQvUzlacVRHZz09</a> </b>
 
 <b> Meeting ID：556 468 0447, Passcode: 3iA1cF </b>
