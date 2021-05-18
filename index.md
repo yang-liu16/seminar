@@ -42,14 +42,14 @@
 ## Upcoming Events
 <body> 
 <details>
-      <summary><u><b>Apr 28: Prof. Haiyan Liu (Michigan State University)</b></u></summary>
+      <summary><u><b>May 19: Qiuqi Wang (University of Waterloo)</b></u></summary>
         <ol>
           <blockquote>
-            <p><b> Title: Distributionally robust reinsurance with Value-at-Risk and Conditional Value-at-Risk </b></p>
-            <p><b> Speaker: <a href="https://sites.google.com/site/uwaterloohaiyanliu/">Haiyan Liu</a> (Professor, Michigan State University) </b></p>
-            <p><b> Time: 9:00am-10:00am EST, April 28 (Wed) </b></p>
+            <p><b> Title:  Optimal reinsurance contracts and the Expected Shortfall </b></p>
+            <p><b> Speaker: <a href="https://qwangan.github.io/">Qiuqi Wang</a> (PhD Candidate, University of Waterloo) </b></p>
+            <p><b> Time: 9:00am-10:00am EST, May 19 (Wed) </b></p>
             <p><b> Location: Online via Zoom </b></p>
-            <p><b> Abstract: A basic assumption of the classic reinsurance model is that the distribution of the loss is precisely known. In practice, only partial information is available for the loss distribution  due to the lack of data and estimation error. We study a distributionally robust reinsurance problem   by minimizing the maximum Value-at-Risk (or the worst-case VaR) of the total retained loss of the insurer  for all loss distributions with known mean and variance. Our model handles  typical stop-loss reinsurance contracts. We show that a three-point distribution achieves the worst-case VaR of  the total retained loss of the insurer,  from which the closed-form solutions of the worst-case distribution and optimal deductible are  obtained. Moreover, we show that the worst-case Conditional Value-at-Risk of the total retained loss of the insurer  is equal to the worst-case VaR, and thus the optimal deductible is the same in both cases. This talk is based on joint work with Tiantian Mao.  </b></p>
+            <p><b> Abstract: The Expected Shortfall (ES) is one of the most important risk measures widely applied in the field of finance, insurance, statistics, and risk management. In light of recent results characterizing ES in the context of financial regulation and statistics, we examine the implication of ES in insurance and actuarial science. In this paper, we study a reinsurance contract design problem focusing on the risk measure used by an overseer. One of our major results is that we characterize a mixture of the mean and ES as the risk measure of the overseer, where the optimal contracts are within the common set of ceded loss functions with a deductible form. Characterization results of other classes of risk measures including the mean and the distortion risk measures are demonstrated as the optimal set of ceded loss functions changes. Extension to the case with multiple reinsurers and alternative explanations of the optimal contract condition from the perspective of the insurer are also discussed.  </b></p>
           </blockquote>
         </ol>
 </details>
@@ -61,6 +61,18 @@
 <body>
 <b>April</b>
 
+ <details>
+      <summary><u><b>Apr 28: Prof. Haiyan Liu (Michigan State University)</b></u></summary>
+        <ol>
+          <blockquote>
+            <p><b> Title: Distributionally robust reinsurance with Value-at-Risk and Conditional Value-at-Risk </b></p>
+            <p><b> Speaker: <a href="https://sites.google.com/site/uwaterloohaiyanliu/">Haiyan Liu</a> (Professor, Michigan State University) </b></p>
+            <p><b> Time: 9:00am-10:00am EST, April 28 (Wed) </b></p>
+            <p><b> Location: Online via Zoom </b></p>
+            <p><b> Abstract: A basic assumption of the classic reinsurance model is that the distribution of the loss is precisely known. In practice, only partial information is available for the loss distribution  due to the lack of data and estimation error. We study a distributionally robust reinsurance problem   by minimizing the maximum Value-at-Risk (or the worst-case VaR) of the total retained loss of the insurer  for all loss distributions with known mean and variance. Our model handles  typical stop-loss reinsurance contracts. We show that a three-point distribution achieves the worst-case VaR of  the total retained loss of the insurer,  from which the closed-form solutions of the worst-case distribution and optimal deductible are  obtained. Moreover, we show that the worst-case Conditional Value-at-Risk of the total retained loss of the insurer  is equal to the worst-case VaR, and thus the optimal deductible is the same in both cases. This talk is based on joint work with Tiantian Mao.  </b></p>
+          </blockquote>
+        </ol>
+</details>
 <details>
       <summary><u><b>Apr 21: Prof. Matteo Burzoni (University of Milan)</b></u></summary>
         <ol>
