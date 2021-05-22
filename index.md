@@ -42,6 +42,27 @@
 ## Upcoming Events
 <body> 
 <details>
+      <summary><u><b>May 26: Yang Liu (Tsinghua University)</b></u></summary>
+        <ol>
+          <blockquote>
+            <p><b> Title: A framework for measures of risk under uncertainty </b></p>
+            <p><b> Speaker: <a href="https://yang-liu16.github.io/">Yang Liu</a> (PhD Candidate, Tsinghua University) </b></p>
+            <p><b> Time: 9:00am-10:00am EST, May 26 (Wed) </b></p>
+            <p><b> Location: Online via Zoom </b></p>
+            <p><b> Abstract: A risk analyst assesses potential financial losses based on multiple sources of information. In particular, the assessment does not only depend on the loss random variable, but also various economic scenarios. Motivated by this observation, we design a unified axiomatic framework for evaluation principles which quantifies jointly a loss random variable and a set of plausible probabilities. We call such an evaluation principle a generalized risk measure. As the most practical choice, the worst-case generalized risk measure is characterized via a few intuitive axioms. We reveal the relationship between a few natural forms of law invariance, under which we further pin down particular forms of the worst-case generalized risk measures. Some connections to decision theory are discussed, and many open questions remain.  </b></p>
+          </blockquote>
+        </ol>
+</details>
+
+</body>
+
+## Past Events
+
+### [<u>Seminars in 2021</u>](./2021.html)
+<body>
+<b>May</b>
+
+<details>
       <summary><u><b>May 19: Qiuqi Wang (University of Waterloo)</b></u></summary>
         <ol>
           <blockquote>
@@ -53,12 +74,8 @@
           </blockquote>
         </ol>
 </details>
-</body>
-
-## Past Events
-
-### [<u>Seminars in 2021</u>](./2021.html)
-<body>
+<br>  
+ 
 <b>April</b>
 
  <details>
