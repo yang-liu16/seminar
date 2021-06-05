@@ -42,6 +42,67 @@
 ## Upcoming Events
 <body> 
 <details>
+      <summary><u><b>Jun 9: Dr. Xia Han (University of Waterloo)</b></u></summary>
+        <ol>
+          <blockquote>
+            <p><b> Title: TBD </b></p>
+            <p><b> Speaker: Xia Han (Postdoc Fellow, University of Waterloo) </b></p>
+            <p><b> Time: 9:00am-10:00am EST, Jun 9 (Wed) </b></p>
+            <p><b> Location: Online via Zoom </b></p>
+            <p><b> Abstract: TBD </b></p>
+          </blockquote>
+        </ol>
+</details>
+
+
+<details>
+      <summary><u><b>Jun 16: Prof. Peng Liu (University of Essex)</b></u></summary>
+        <ol>
+          <blockquote>
+            <p><b> Title: TBD </b></p>
+            <p><b> Speaker: Peng Liu (Assistant Professor, University of Essex) </b></p>
+            <p><b> Time: 9:00am-10:00am EST, Jun 16 (Wed) </b></p>
+            <p><b> Location: Online via Zoom </b></p>
+            <p><b> Abstract: TBD </b></p>
+          </blockquote>
+        </ol>
+</details>
+</body>
+
+
+<details>
+      <summary><u><b>Jun 23: Zhanyi Jiao (University of Waterloo)</b></u></summary>
+        <ol>
+          <blockquote>
+            <p><b> Title: TBD </b></p>
+            <p><b> Speaker: Zhanyi Jiao (PhD Candidate, University of Waterloo) </b></p>
+            <p><b> Time: 9:00am-10:00am EST, Jun 23 (Wed) </b></p>
+            <p><b> Location: Online via Zoom </b></p>
+            <p><b> Abstract: TBD </b></p>
+          </blockquote>
+        </ol>
+</details>
+
+
+<details>
+      <summary><u><b>Jun 30: Mingren Yin (University of Waterloo)</b></u></summary>
+        <ol>
+          <blockquote>
+            <p><b> Title: TBD </b></p>
+            <p><b> Speaker: Mingren Yin (PhD Candidate, University of Waterloo) </b></p>
+            <p><b> Time: 9:00am-10:00am EST, Jun 30 (Wed) </b></p>
+            <p><b> Location: Online via Zoom </b></p>
+            <p><b> Abstract: TBD </b></p>
+          </blockquote>
+        </ol>
+</details>
+
+## Past Events
+
+### [<u>Seminars in 2021</u>](./2021.html)
+<body>
+<b>May</b>
+<details>
       <summary><u><b>May 26: Yang Liu (Tsinghua University)</b></u></summary>
         <ol>
           <blockquote>
@@ -53,14 +114,6 @@
           </blockquote>
         </ol>
 </details>
-
-</body>
-
-## Past Events
-
-### [<u>Seminars in 2021</u>](./2021.html)
-<body>
-<b>May</b>
 
 <details>
       <summary><u><b>May 19: Qiuqi Wang (University of Waterloo)</b></u></summary>
@@ -83,7 +136,7 @@
         <ol>
           <blockquote>
             <p><b> Title: Distributionally robust reinsurance with Value-at-Risk and Conditional Value-at-Risk </b></p>
-            <p><b> Speaker: <a href="https://sites.google.com/site/uwaterloohaiyanliu/">Haiyan Liu</a> (Professor, Michigan State University) </b></p>
+            <p><b> Speaker: <a href="https://sites.google.com/site/uwaterloohaiyanliu/">Haiyan Liu</a> (Assistant Professor, Michigan State University) </b></p>
             <p><b> Time: 9:00am-10:00am EST, April 28 (Wed) </b></p>
             <p><b> Location: Online via Zoom </b></p>
             <p><b> Abstract: A basic assumption of the classic reinsurance model is that the distribution of the loss is precisely known. In practice, only partial information is available for the loss distribution  due to the lack of data and estimation error. We study a distributionally robust reinsurance problem   by minimizing the maximum Value-at-Risk (or the worst-case VaR) of the total retained loss of the insurer  for all loss distributions with known mean and variance. Our model handles  typical stop-loss reinsurance contracts. We show that a three-point distribution achieves the worst-case VaR of  the total retained loss of the insurer,  from which the closed-form solutions of the worst-case distribution and optimal deductible are  obtained. Moreover, we show that the worst-case Conditional Value-at-Risk of the total retained loss of the insurer  is equal to the worst-case VaR, and thus the optimal deductible is the same in both cases. This talk is based on joint work with Tiantian Mao.  </b></p>
