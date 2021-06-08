@@ -68,11 +68,11 @@
 </details>
 
 <details>
-      <summary><u><b>Jun 23: Zhanyi Jiao (University of Waterloo)</b></u></summary>
+      <summary><u><b>Jun 23: Prof. Peng Liu (University of Essex)</b></u></summary>
         <ol>
           <blockquote>
             <p><b> Title: TBD </b></p>
-            <p><b> Speaker: Zhanyi Jiao (PhD Candidate, University of Waterloo) </b></p>
+            <p><b> Speaker: <a href = "https://sites.google.com/view/pengliushomepage/home"> Peng Liu </a> (Assistant Professor, University of Essex) </b></p>
             <p><b> Time: 9:00am-10:00am EST, Jun 23 (Wed) </b></p>
             <p><b> Location: Online via Zoom </b></p>
             <p><b> Abstract: TBD </b></p>
@@ -94,19 +94,6 @@
         </ol>
 </details>
 
- 
-<details>
-      <summary><u><b>Jul 14: Prof. Peng Liu (University of Essex)</b></u></summary>
-        <ol>
-          <blockquote>
-            <p><b> Title: TBD </b></p>
-            <p><b> Speaker: <a href = "https://sites.google.com/view/pengliushomepage/home"> Peng Liu </a> (Assistant Professor, University of Essex) </b></p>
-            <p><b> Time: 9:00am-10:00am EST, Jul 14 (Wed) </b></p>
-            <p><b> Location: Online via Zoom </b></p>
-            <p><b> Abstract: TBD </b></p>
-          </blockquote>
-        </ol>
-</details>
 </body>
 
 ## Past Events
