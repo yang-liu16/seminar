@@ -45,30 +45,27 @@
       <summary><u><b>Jun 9: Dr. Xia Han (University of Waterloo)</b></u></summary>
         <ol>
           <blockquote>
-            <p><b> Title: TBD </b></p>
+            <p><b> Title: On the no reward for concentration axiom </b></p>
             <p><b> Speaker: Xia Han (Postdoc Fellow, University of Waterloo) </b></p>
             <p><b> Time: 9:00am-10:00am EST, Jun 9 (Wed) </b></p>
             <p><b> Location: Online via Zoom </b></p>
-            <p><b> Abstract: TBD </b></p>
+            <p><b> Abstract: Expected Shortfall (ES) is the most important coherent risk measure in both industry practice and academic research in finance, insurance, risk management, and engineering. In Wang and Zitikis (2020) , they put forward four intuitive economic axioms for portfolio risk assessment  that  provides the first economic axiomatic foundation for the family of ES. In this paper, we  incorporate the  notion of $p$-concentration aversion ($p$-CA) to present a new axiomatic characterization of risk measures. The risk measure characterized can be regarded as the functionals of  ES and expectation. We  further show that  if the risk measure also satisfies the axioms -- monotonicity, translation-invariance and prudence,  then it uniquely characterizes the family of ES.  In contrast to  Wang and Zitikis (2020),  we  use  the $p$-CA to replace the  no reward for concentration axiom  NRC, which  makes the axiomatic foundation for ES more natural to be  illustrated  for portfolio risk assessment. </b></p>
           </blockquote>
         </ol>
 </details>
 
-
 <details>
-      <summary><u><b>Jun 16: Prof. Peng Liu (University of Essex)</b></u></summary>
+      <summary><u><b>Jun 16: Dr. Jean-Gabriel Lauzier (Bocconi University) </b></u></summary>
         <ol>
           <blockquote>
             <p><b> Title: TBD </b></p>
-            <p><b> Speaker: Peng Liu (Assistant Professor, University of Essex) </b></p>
+            <p><b> Speaker: <a href = "https://sites.google.com/view/jean-gabriellauzier">  Jean-Gabriel Lauzier </a> (PhD, Bocconi University) </b></p>
             <p><b> Time: 9:00am-10:00am EST, Jun 16 (Wed) </b></p>
             <p><b> Location: Online via Zoom </b></p>
             <p><b> Abstract: TBD </b></p>
           </blockquote>
         </ol>
 </details>
-</body>
-
 
 <details>
       <summary><u><b>Jun 23: Zhanyi Jiao (University of Waterloo)</b></u></summary>
@@ -96,6 +93,21 @@
           </blockquote>
         </ol>
 </details>
+
+ 
+<details>
+      <summary><u><b>Jul 14: Prof. Peng Liu (University of Essex)</b></u></summary>
+        <ol>
+          <blockquote>
+            <p><b> Title: TBD </b></p>
+            <p><b> Speaker: Peng Liu (Assistant Professor, University of Essex) </b></p>
+            <p><b> Time: 9:00am-10:00am EST, Jun 16 (Wed) </b></p>
+            <p><b> Location: Online via Zoom </b></p>
+            <p><b> Abstract: TBD </b></p>
+          </blockquote>
+        </ol>
+</details>
+</body>
 
 ## Past Events
 
