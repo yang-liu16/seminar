@@ -100,8 +100,8 @@
         <ol>
           <blockquote>
             <p><b> Title: TBD </b></p>
-            <p><b> Speaker: Peng Liu (Assistant Professor, University of Essex) </b></p>
-            <p><b> Time: 9:00am-10:00am EST, Jun 16 (Wed) </b></p>
+            <p><b> Speaker: <a href = "https://sites.google.com/view/pengliushomepage/home"> Peng Liu </a> (Assistant Professor, University of Essex) </b></p>
+            <p><b> Time: 9:00am-10:00am EST, Jul 14 (Wed) </b></p>
             <p><b> Location: Online via Zoom </b></p>
             <p><b> Abstract: TBD </b></p>
           </blockquote>
