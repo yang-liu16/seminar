@@ -58,11 +58,11 @@
       <summary><u><b>Jun 16: Dr. Jean-Gabriel Lauzier (Bocconi University) </b></u></summary>
         <ol>
           <blockquote>
-            <p><b> Title: TBD </b></p>
+            <p><b> Title: Ex-post moral hazard and manipulation-proof contracts </b></p>
             <p><b> Speaker: <a href = "https://sites.google.com/view/jean-gabriellauzier">  Jean-Gabriel Lauzier </a> (PhD, Bocconi University) </b></p>
             <p><b> Time: 9:00am-10:00am EST, Jun 16 (Wed) </b></p>
             <p><b> Location: Online via Zoom </b></p>
-            <p><b> Abstract: TBD </b></p>
+            <p><b> Abstract: We examine the trade-off between the provision of incentives to exert costly effort (ex-ante moral hazard) and the incentives needed to prevent the agent from manipulating the profit observed by the principal (ex-post moral hazard). Formally, we build a model of two-stage hidden actions where the agent can both influence the expected revenue of a business and manipulate its observed profit. We show that manipulation-proofness is sensitive to the interaction between the manipulation technology and the probability distribution of the stochastic output. The optimal contract is manipulation-proof whenever the manipulation technology is linear. However, a convex manipulation technology sometimes leads to contracts for which there is manipulation in equilibrium. Whenever the distribution satisfies the monotone likelihood ratio property we can always find a manipulation technology for which this is the case. </b></p>
           </blockquote>
         </ol>
 </details>
