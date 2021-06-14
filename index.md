@@ -42,19 +42,6 @@
 ## Upcoming Events
 <body> 
 <details>
-      <summary><u><b>Jun 9: Dr. Xia Han (University of Waterloo)</b></u></summary>
-        <ol>
-          <blockquote>
-            <p><b> Title: On the no reward for concentration axiom </b></p>
-            <p><b> Speaker: Xia Han (Postdoc Fellow, University of Waterloo) </b></p>
-            <p><b> Time: 9:00am-10:00am EST, Jun 9 (Wed) </b></p>
-            <p><b> Location: Online via Zoom </b></p>
-            <p><b> Abstract: Expected Shortfall (ES) is the most important coherent risk measure in both industry practice and academic research in finance, insurance, risk management, and engineering. In Wang and Zitikis (2020) , they put forward four intuitive economic axioms for portfolio risk assessment  that  provides the first economic axiomatic foundation for the family of ES. In this paper, we  incorporate the  notion of $p$-concentration aversion ($p$-CA) to present a new axiomatic characterization of risk measures. The risk measure characterized can be regarded as the functionals of  ES and expectation. We  further show that  if the risk measure also satisfies the axioms -- monotonicity, translation-invariance and prudence,  then it uniquely characterizes the family of ES.  In contrast to  Wang and Zitikis (2020),  we  use  the $p$-CA to replace the  no reward for concentration axiom  NRC, which  makes the axiomatic foundation for ES more natural to be  illustrated  for portfolio risk assessment. </b></p>
-          </blockquote>
-        </ol>
-</details>
-
-<details>
       <summary><u><b>Jun 16: Dr. Jean-Gabriel Lauzier (Bocconi University) </b></u></summary>
         <ol>
           <blockquote>
@@ -94,12 +81,41 @@
         </ol>
 </details>
 
+ <details>
+      <summary><u><b>Jul 14: Dr. Felix-Benedikt Liebrich (Leibniz University Hannover) </b></u></summary>
+        <ol>
+          <blockquote>
+            <p><b> Title: Is "star-shaped" the new convex? Collapse to the mean and risk sharing with heterogeneous reference probabilities </b></p>
+            <p><b> Speaker: Felix-Benedikt Liebrich (Research Fellow, Leibniz University Hannover) </b></p>
+            <p><b> Time: 9:00am-10:00am EST, Jul 14 (Wed) </b></p>
+            <p><b> Location: Online via Zoom </b></p>
+            <p><b> Abstract: Over the past decade, the debate of the role that convexity plays in risk measure theory has intensified. We follow two recent contributions of Mao & Wang (2020) and Castagnoli et al. (2021) and try to explore the mathematical power of assumptions like star-shapedness of a risk measure and consistency with second-order stochastic dominance. The first part of the talk focuses on the „collapse of the mean“. The latter refers to the fundamental tension existing between law invariance of functionals and suitable “linearity” properties; in many cases, the expectation turns out to be the only functional with both properties. We shall discuss this phenomenon for consistent risk measures and a broad class of nonconvex Choquet integrals. In the second part, we approach the classical problem of finding Pareto-optimal allocations of risk among finitely many agents. The associated individual risk measures are assumed to be consistent, but with respect to agent-dependent and potentially heterogeneous concordant reference probability measures. Moreover, convexity is replaced by star-shapedness. We provide a simple sufficient condition for the existence of Pareto optima and sketch its proof, which is based on local comonotone improvement combined with a Dieudonné-type argument based on the „collapse to the mean“ established in the first part. The talk is partially based on joint work with Cosimo Munari. </b></p>
+          </blockquote>
+        </ol>
+</details>
 </body>
+
+
 
 ## Past Events
 
 ### [<u>Seminars in 2021</u>](./2021.html)
 <body>
+<b>June</b>
+<details>
+      <summary><u><b>Jun 9: Dr. Xia Han (University of Waterloo)</b></u></summary>
+        <ol>
+          <blockquote>
+            <p><b> Title: On the no reward for concentration axiom </b></p>
+            <p><b> Speaker: Xia Han (Postdoc Fellow, University of Waterloo) </b></p>
+            <p><b> Time: 9:00am-10:00am EST, Jun 9 (Wed) </b></p>
+            <p><b> Location: Online via Zoom </b></p>
+            <p><b> Abstract: Expected Shortfall (ES) is the most important coherent risk measure in both industry practice and academic research in finance, insurance, risk management, and engineering. In Wang and Zitikis (2020) , they put forward four intuitive economic axioms for portfolio risk assessment  that  provides the first economic axiomatic foundation for the family of ES. In this paper, we  incorporate the  notion of $p$-concentration aversion ($p$-CA) to present a new axiomatic characterization of risk measures. The risk measure characterized can be regarded as the functionals of  ES and expectation. We  further show that  if the risk measure also satisfies the axioms -- monotonicity, translation-invariance and prudence,  then it uniquely characterizes the family of ES.  In contrast to  Wang and Zitikis (2020),  we  use  the $p$-CA to replace the  no reward for concentration axiom  NRC, which  makes the axiomatic foundation for ES more natural to be  illustrated  for portfolio risk assessment. </b></p>
+          </blockquote>
+        </ol>
+</details>
+<br>
+ 
 <b>May</b>
 <details>
       <summary><u><b>May 26: Yang Liu (Tsinghua University)</b></u></summary>
