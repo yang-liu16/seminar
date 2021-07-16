@@ -46,7 +46,7 @@
         <ol>
           <blockquote>
             <p><b> Title: TBD </b></p>
-            <p><b> Speaker: Niushan Gao (Assistant Professor, Ryerson Unversity) </b></p>
+            <p><b> Speaker: <a href="https://math.ryerson.ca/~niushan/index.html">Niushan Gao</a> (Assistant Professor, Ryerson Unversity) </b></p>
             <p><b> Time: 9:00am-10:00am EST, Jul 21 (Wed) </b></p>
             <p><b> Location: Online via Zoom </b></p>
             <p><b> Abstract: TBD </b></p>
