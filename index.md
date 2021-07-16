@@ -42,14 +42,14 @@
 ## Upcoming Events
 <body> 
 <details>
-      <summary><u><b>Jul 14: Dr. Felix-Benedikt Liebrich (Leibniz University Hannover) </b></u></summary>
+      <summary><u><b>Jul 21: Prof. Niushan Gao (Ryerson Unversity) </b></u></summary>
         <ol>
           <blockquote>
-            <p><b> Title: Is "star-shaped" the new convex? Collapse to the mean and risk sharing with heterogeneous reference probabilities </b></p>
-            <p><b> Speaker: Felix-Benedikt Liebrich (Research Fellow, Leibniz University Hannover) </b></p>
-            <p><b> Time: 9:00am-10:00am EST, Jul 14 (Wed) </b></p>
+            <p><b> Title: TBD </b></p>
+            <p><b> Speaker: Niushan Gao (Assistant Professor, Ryerson Unversity) </b></p>
+            <p><b> Time: 9:00am-10:00am EST, Jul 21 (Wed) </b></p>
             <p><b> Location: Online via Zoom </b></p>
-            <p><b> Abstract: Over the past decade, the debate of the role that convexity plays in risk measure theory has intensified. We follow two recent contributions of Mao & Wang (2020) and Castagnoli et al. (2021) and try to explore the mathematical power of assumptions like star-shapedness of a risk measure and consistency with second-order stochastic dominance. The first part of the talk focuses on the „collapse of the mean“. The latter refers to the fundamental tension existing between law invariance of functionals and suitable “linearity” properties; in many cases, the expectation turns out to be the only functional with both properties. We shall discuss this phenomenon for consistent risk measures and a broad class of nonconvex Choquet integrals. In the second part, we approach the classical problem of finding Pareto-optimal allocations of risk among finitely many agents. The associated individual risk measures are assumed to be consistent, but with respect to agent-dependent and potentially heterogeneous concordant reference probability measures. Moreover, convexity is replaced by star-shapedness. We provide a simple sufficient condition for the existence of Pareto optima and sketch its proof, which is based on local comonotone improvement combined with a Dieudonné-type argument based on the „collapse to the mean“ established in the first part. The talk is partially based on joint work with Cosimo Munari. </b></p>
+            <p><b> Abstract: TBD </b></p>
           </blockquote>
         </ol>
 </details>
@@ -61,6 +61,21 @@
 
 ### [<u>Seminars in 2021</u>](./2021.html)
 <body>
+<b>July</b>
+<details>
+      <summary><u><b>Jul 14: Dr. Felix-Benedikt Liebrich (Leibniz University Hannover) </b></u></summary>
+        <ol>
+          <blockquote>
+            <p><b> Title: Is "star-shaped" the new convex? Collapse to the mean and risk sharing with heterogeneous reference probabilities </b></p>
+            <p><b> Speaker: Felix-Benedikt Liebrich (Research Fellow, Leibniz University Hannover) </b></p>
+            <p><b> Time: 9:00am-10:00am EST, Jul 14 (Wed) </b></p>
+            <p><b> Location: Online via Zoom </b></p>
+            <p><b> Abstract: Over the past decade, the debate of the role that convexity plays in risk measure theory has intensified. We follow two recent contributions of Mao & Wang (2020) and Castagnoli et al. (2021) and try to explore the mathematical power of assumptions like star-shapedness of a risk measure and consistency with second-order stochastic dominance. The first part of the talk focuses on the „collapse of the mean“. The latter refers to the fundamental tension existing between law invariance of functionals and suitable “linearity” properties; in many cases, the expectation turns out to be the only functional with both properties. We shall discuss this phenomenon for consistent risk measures and a broad class of nonconvex Choquet integrals. In the second part, we approach the classical problem of finding Pareto-optimal allocations of risk among finitely many agents. The associated individual risk measures are assumed to be consistent, but with respect to agent-dependent and potentially heterogeneous concordant reference probability measures. Moreover, convexity is replaced by star-shapedness. We provide a simple sufficient condition for the existence of Pareto optima and sketch its proof, which is based on local comonotone improvement combined with a Dieudonné-type argument based on the „collapse to the mean“ established in the first part. The talk is partially based on joint work with Cosimo Munari. </b></p>
+          </blockquote>
+        </ol>
+</details>
+<br>
+ 
 <b>June</b>
 
 
