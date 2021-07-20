@@ -69,7 +69,7 @@ In this talk, we show that, on nearly all classical model spaces including Orlic
 
 <br>
            
-The talk is based on joint work with Shengzhong Chen, Denny Leung & Lei Li.
+The talk is based on joint work with Shengzhong Chen, Denny Leung & Lei Li.</b></p>
           </blockquote>
         </ol>
 </details>
