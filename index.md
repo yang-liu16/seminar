@@ -51,19 +51,24 @@
             <p><b> Location: Online via Zoom </b></p>
             <p><b> Abstract: Automatic continuity has long been an interesting topic and possibly has its roots in the well-known fact that a real-valued convex function on an open interval is continuous. In infinite-dimensional spaces, Birkhoff’s Theorem states that a positive linear functional on a Banach lattice is norm continuous. This result was later extended to the following celebrated theorem for real-valued convex functionals:</b></p>
 
+<br>           
 
 <p><b>Theorem (Ruszczynski and Shapiro ’06). A real-valued, convex, decreasing functional on a Banach lattice is norm continuous.</b></p>
 
+<br>
 
 <b>A natural question is whether law invariance leads to continuity properties. The following result is striking.</b>
 
-
+<br>
+           
 <b>Theorem (Jouini et al ’06). A real-valued, convex, decreasing, law-invariant functional on L^\infty has the Fatou property and is thus \sigma(L^\infty, L^1) lower semicontinuous.</b>
 
-
+<br>
+           
 <b>In this talk, we show that, on nearly all classical model spaces including Orlicz spaces, every real-valued, law-invariant, coherent risk measure automatically has the Fatou property at every point whose negative part has a “thin tail”. The result is also sharp in the sense that automatic Fatou property cannot be expected at other points.</b>
 
-
+<br>
+           
 <b>The talk is based on joint work with Shengzhong Chen, Denny Leung & Lei Li.  </b></p>
           </blockquote>
         </ol>
