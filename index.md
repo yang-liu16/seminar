@@ -57,19 +57,19 @@ Theorem (Ruszczynski and Shapiro ’06). A real-valued, convex, decreasing funct
 
 <br>
 
-<b>A natural question is whether law invariance leads to continuity properties. The following result is striking.</b>
+A natural question is whether law invariance leads to continuity properties. The following result is striking.
 
 <br>
            
-<b>Theorem (Jouini et al ’06). A real-valued, convex, decreasing, law-invariant functional on L^\infty has the Fatou property and is thus \sigma(L^\infty, L^1) lower semicontinuous.</b>
+Theorem (Jouini et al ’06). A real-valued, convex, decreasing, law-invariant functional on L^\infty has the Fatou property and is thus \sigma(L^\infty, L^1) lower semicontinuous.
 
 <br>
            
-<b>In this talk, we show that, on nearly all classical model spaces including Orlicz spaces, every real-valued, law-invariant, coherent risk measure automatically has the Fatou property at every point whose negative part has a “thin tail”. The result is also sharp in the sense that automatic Fatou property cannot be expected at other points.</b>
+In this talk, we show that, on nearly all classical model spaces including Orlicz spaces, every real-valued, law-invariant, coherent risk measure automatically has the Fatou property at every point whose negative part has a “thin tail”. The result is also sharp in the sense that automatic Fatou property cannot be expected at other points.
 
 <br>
            
-<b>The talk is based on joint work with Shengzhong Chen, Denny Leung & Lei Li.  </b>
+The talk is based on joint work with Shengzhong Chen, Denny Leung & Lei Li.
           </blockquote>
         </ol>
 </details>
