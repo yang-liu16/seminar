@@ -49,11 +49,11 @@
             <p><b> Speaker: <a href="https://math.ryerson.ca/~niushan/index.html">Niushan Gao</a> (Assistant Professor, Ryerson Unversity) </b></p>
             <p><b> Time: 9:00am-10:00am EST, Jul 21 (Wed) </b></p>
             <p><b> Location: Online via Zoom </b></p>
-            <p><b> Abstract: Automatic continuity has long been an interesting topic and possibly has its roots in the well-known fact that a real-valued convex function on an open interval is continuous. In infinite-dimensional spaces, Birkhoff’s Theorem states that a positive linear functional on a Banach lattice is norm continuous. This result was later extended to the following celebrated theorem for real-valued convex functionals:</b></p>
+            <p><b> Abstract: Automatic continuity has long been an interesting topic and possibly has its roots in the well-known fact that a real-valued convex function on an open interval is continuous. In infinite-dimensional spaces, Birkhoff’s Theorem states that a positive linear functional on a Banach lattice is norm continuous. This result was later extended to the following celebrated theorem for real-valued convex functionals:
 
 <br>           
 
-<p><b>Theorem (Ruszczynski and Shapiro ’06). A real-valued, convex, decreasing functional on a Banach lattice is norm continuous.</b></p>
+Theorem (Ruszczynski and Shapiro ’06). A real-valued, convex, decreasing functional on a Banach lattice is norm continuous.
 
 <br>
 
@@ -69,7 +69,7 @@
 
 <br>
            
-<b>The talk is based on joint work with Shengzhong Chen, Denny Leung & Lei Li.  </b></p>
+<b>The talk is based on joint work with Shengzhong Chen, Denny Leung & Lei Li.  </b>
           </blockquote>
         </ol>
 </details>
