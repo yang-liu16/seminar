@@ -41,6 +41,17 @@
 
 ## Upcoming Events
 <body> 
+
+</body>
+
+
+
+## Past Events
+
+### [<u>Seminars in 2021</u>](./2021.html)
+<body>
+<b>July</b>
+ 
 <details>
       <summary><u><b>Jul 21: Prof. Niushan Gao (Ryerson University) </b></u></summary>
         <ol>
@@ -73,15 +84,7 @@ The talk is based on joint work with Shengzhong Chen, Denny Leung & Lei Li.</b><
           </blockquote>
         </ol>
 </details>
-</body>
-
-
-
-## Past Events
-
-### [<u>Seminars in 2021</u>](./2021.html)
-<body>
-<b>July</b>
+ 
 <details>
       <summary><u><b>Jul 14: Dr. Felix-Benedikt Liebrich (Leibniz University Hannover) </b></u></summary>
         <ol>
