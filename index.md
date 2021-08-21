@@ -41,7 +41,7 @@
 
 ## Upcoming Events
 <body> 
-<b>The seminar is temporarily suspended. We will resume in September. </b>
+<b>We are currently taking a break and will resume in September. </b>
 
 
 </body>
