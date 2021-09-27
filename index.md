@@ -43,6 +43,19 @@
 <body> 
  
 <details>
+      <summary><u><b>Oct 14: Liyuan Lin (University of Waterloo) </b></u></summary>
+        <ol>
+          <blockquote>
+            <p><b> Title: TBD </b></p>
+            <p><b> Speaker: Liyuan Lin (PhD Candidate, University of Waterloo) </b></p>
+            <p><b> Time: 9:00am-10:00am EST, Oct 14 (Thu) </b></p>
+            <p><b> Location: Online via Zoom </b></p>
+            <p><b> Abstract: TBD </b></p>
+          </blockquote>
+        </ol>
+</details>
+
+<details>
       <summary><u><b>Oct 21: Nazem Khan (University of Warwick) </b></u></summary>
         <ol>
           <blockquote>
@@ -53,19 +66,6 @@
             <p><b> Abstract: We study mean-risk portfolio selection in a one-period financial market, where risk is quantified by a superlinear risk measure \rho. We introduce two new axioms: weak and strong sensitivity to large losses. We show that the first axiom is key to ensure the existence of optimal portfolios and the second one is key to ensure the absence of \rho-arbitrage. This leads to a new class of risk measures that are suitable for portfolio selection. We show that \rho belongs to this class if and only if \rho is real-valued and the smallest positively homogeneous risk measure dominating \rho is the worst-case risk measure. We then turn to the case that \rho is convex and admits a dual representation. We derive necessary and sufficient dual characterisations of (strong) \rho-arbitrage as well as the property that \rho is suitable for portfolio selection. Finally, we introduce the new risk measure of "Loss Sensitive Expected Shortfall", which is similar to and not more complicated to compute than
 Expected Shortfall but suitable for portfolio selection – which Expected Shortfall is not.
            </b></p>
-          </blockquote>
-        </ol>
-</details>
- 
-<details>
-      <summary><u><b>Oct 14: Liyuan Lin (University of Waterloo) </b></u></summary>
-        <ol>
-          <blockquote>
-            <p><b> Title: TBD </b></p>
-            <p><b> Speaker: Liyuan Lin (PhD Candidate, University of Waterloo) </b></p>
-            <p><b> Time: 9:00am-10:00am EST, Oct 14 (Thu) </b></p>
-            <p><b> Location: Online via Zoom </b></p>
-            <p><b> Abstract: TBD </b></p>
           </blockquote>
         </ol>
 </details>
