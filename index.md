@@ -9,15 +9,15 @@
 ## Current Schedule
 <b> The weekly seminar is held at: </b>
 
-* <b> Eastern Standard Time (EST): 9-10 am, every Wednesday </b>
+* <b> Eastern Standard Time (EST): 9-10 am, every Thursday </b>
 
-* <b> UK Time: 2-3 pm, every Wednesday </b>
+* <b> UK Time: 2-3 pm, every Thursday </b>
 
-* <b> Switzerland Time: 3-4 pm, every Wednesday </b>
+* <b> Switzerland Time: 3-4 pm, every Thursday </b>
 
-* <b> China Time: 9-10 pm, every Wednesday </b>
+* <b> China Time: 9-10 pm, every Thursday </b>
 
-* <b> Japan Time: 10-11 pm, every Wednesday </b>
+* <b> Japan Time: 10-11 pm, every Thursday </b>
 
 <b> Zoom Link: <a href="https://zoom.us/j/5564680447?pwd=bnFqWm1jT25kYUVvamQvUzlacVRHZz09">https://zoom.us/j/5564680447?pwd=bnFqWm1jT25kYUVvamQvUzlacVRHZz09</a> </b>
 
@@ -41,8 +41,18 @@
 
 ## Upcoming Events
 <body> 
-<b>We are currently taking a break and will resume in September. </b>
-
+<details>
+      <summary><u><b>Oct 14: Liyuan Lin (University of Waterloo) </b></u></summary>
+        <ol>
+          <blockquote>
+            <p><b> Title: TBD </b></p>
+            <p><b> Speaker: Liyuan Lin (PhD Candidate, University of Waterloo) </b></p>
+            <p><b> Time: 9:00am-10:00am EST, Oct 14 (Thu) </b></p>
+            <p><b> Location: Online via Zoom </b></p>
+            <p><b> Abstract: TBD </b></p>
+          </blockquote>
+        </ol>
+</details>
 
 </body>
 
