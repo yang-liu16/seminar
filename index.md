@@ -46,7 +46,7 @@
       <summary><u><b>Oct 21: Nazem Khan (University of Warwick) </b></u></summary>
         <ol>
           <blockquote>
-            <p><b> Title: Sensitivity to large losses and rho-arbitrage for convex risk measures </b></p>
+            <p><b> Title: Sensitivity to large losses and \rho-arbitrage for convex risk measures </b></p>
             <p><b> Speaker: Nazem Khan (PhD Candidate, University of Warwick) </b></p>
             <p><b> Time: 9:00am-10:00am EST, Oct 21 (Thu) </b></p>
             <p><b> Location: Online via Zoom </b></p>
