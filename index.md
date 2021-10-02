@@ -69,9 +69,73 @@ Expected Shortfall but suitable for portfolio selection – which Expected Short
           </blockquote>
         </ol>
 </details>
+ 
+ 
+<details>
+      <summary><u><b>Oct 28: Dr. Yang Liu (University of Waterloo) </b></u></summary>
+        <ol>
+          <blockquote>
+            <p><b> Title: TBD </b></p>
+            <p><b> Speaker: Yang Liu (Postdoc Fellow, University of Waterloo) </b></p>
+            <p><b> Time: 9:00am-10:00am EST, Oct 28 (Thu) </b></p>
+            <p><b> Location: Online via Zoom </b></p>
+            <p><b> Abstract: TBD </b></p>
+          </blockquote>
+        </ol>
+</details>
+ 
+<details>
+      <summary><u><b>Nov 4: Zhanyi Jiao (University of Waterloo) </b></u></summary>
+        <ol>
+          <blockquote>
+            <p><b> Title: TBD </b></p>
+            <p><b> Speaker: Zhanyi Jiao (PhD Candidate, University of Waterloo) </b></p>
+            <p><b> Time: 9:00am-10:00am EST, Nov 4 (Thu) </b></p>
+            <p><b> Location: Online via Zoom </b></p>
+            <p><b> Abstract: TBD </b></p>
+          </blockquote>
+        </ol>
+</details>
+ 
+<details>
+      <summary><u><b>Nov 11: Qiuqi Wang (University of Waterloo) </b></u></summary>
+        <ol>
+          <blockquote>
+            <p><b> Title: TBD </b></p>
+            <p><b> Speaker: Qiuqi Wang (PhD Candidate, University of Waterloo) </b></p>
+            <p><b> Time: 9:00am-10:00am EST, Nov 11 (Thu) </b></p>
+            <p><b> Location: Online via Zoom </b></p>
+            <p><b> Abstract: TBD </b></p>
+          </blockquote>
+        </ol>
+</details>
 
+<details>
+      <summary><u><b>Nov 25: Dr. Xia Han (University of Waterloo) </b></u></summary>
+        <ol>
+          <blockquote>
+            <p><b> Title: TBD </b></p>
+            <p><b> Speaker: Xia Han (Postdoc Fellow, University of Waterloo) </b></p>
+            <p><b> Time: 9:00am-10:00am EST, Nov 25 (Thu) </b></p>
+            <p><b> Location: Online via Zoom </b></p>
+            <p><b> Abstract: TBD </b></p>
+          </blockquote>
+        </ol>
+</details>
 </body>
 
+<details>
+      <summary><u><b>Dec 2: Prof. Peng Liu (University of Essex) </b></u></summary>
+        <ol>
+          <blockquote>
+            <p><b> Title: TBD </b></p>
+            <p><b> Speaker: Peng Liu (Assistant Professor, University of Essex) </b></p>
+            <p><b> Time: 9:00am-10:00am EST, Dec 2 (Thu) </b></p>
+            <p><b> Location: Online via Zoom </b></p>
+            <p><b> Abstract: TBD </b></p>
+          </blockquote>
+        </ol>
+</details>
 
 
 ## Past Events
