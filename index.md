@@ -1,6 +1,6 @@
 # Weekly Seminars on <br/> Risk Management and Actuarial Science
 
-<b>The weekly seminar series is a venue for international scholars in risk management and actuarial science to discuss research advances and exchange ideas. Junior researchers are the most encouraged to present their recent work, including on-going projects. The list of current and past speakers includes scholars from Canada, US, China, Japan, Australia, Switzerland, UK, Italy and Germany. </b>
+<b>The weekly seminar series is a venue for international scholars in risk management and actuarial science to discuss research advances and exchange ideas. Junior researchers are the most encouraged to present their recent work, including on-going projects. The list of current and past speakers includes scholars from Canada, US, China, Japan, Australia, Switzerland, UK, Italy, Germany and France. </b>
 
 * <b>To volunteer yourself or propose a speaker for a research presentation, please contact the organizers by email. </b>
 
@@ -111,6 +111,20 @@ Expected Shortfall but suitable for portfolio selection – which Expected Short
 </details>
 
 <details>
+      <summary><u><b>Nov 18: Mehdi Tomas (Ecole Polytechnique) </b></u></summary>
+        <ol>
+          <blockquote>
+            <p><b> Title: TBD </b></p>
+            <p><b> Speaker: Mehdi Tomas (PhD Candidate, Ecole Polytechnique) </b></p>
+            <p><b> Time: 9:00am-10:00am EST, Nov 18 (Thu) </b></p>
+            <p><b> Location: Online via Zoom </b></p>
+            <p><b> Abstract: TBD </b></p>
+          </blockquote>
+        </ol>
+</details>
+
+ 
+<details>
       <summary><u><b>Nov 25: Dr. Xia Han (University of Waterloo) </b></u></summary>
         <ol>
           <blockquote>
@@ -122,7 +136,7 @@ Expected Shortfall but suitable for portfolio selection – which Expected Short
           </blockquote>
         </ol>
 </details>
-</body>
+
 
 <details>
       <summary><u><b>Dec 2: Prof. Peng Liu (University of Essex) </b></u></summary>
@@ -136,7 +150,7 @@ Expected Shortfall but suitable for portfolio selection – which Expected Short
           </blockquote>
         </ol>
 </details>
-
+</body>
 
 ## Past Events
 
