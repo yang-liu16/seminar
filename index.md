@@ -140,7 +140,9 @@ Expected Shortfall but suitable for portfolio selection – which Expected Short
 </body>
 
 ## Past Events
+### [<u>Seminars in 2021</u>](./2021.html)
 <body>
+ 
 <b>October</b>
 <details>
       <summary><u><b>Oct 14: Liyuan Lin (University of Waterloo) </b></u></summary>
@@ -154,10 +156,8 @@ Expected Shortfall but suitable for portfolio selection – which Expected Short
           </blockquote>
         </ol>
 </details>
-</body>
-
-### [<u>Seminars in 2021</u>](./2021.html)
-<body>
+<br>
+ 
 <b>July</b>
  
 <details>
