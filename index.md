@@ -143,7 +143,7 @@ Expected Shortfall but suitable for portfolio selection – which Expected Short
         <ol>
           <blockquote>
             <p><b> Title: A decomposition of general premium principles into risk and deviation </b></p>
-            <p><b> Speaker: <a href = "https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=127338064&lang=EN">Max Nendel<\a> (Assistant Professor, Bielefeld University) </b></p>
+            <p><b> Speaker: <a href = "https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=127338064&lang=EN"> Max Nendel </a> (Assistant Professor, Bielefeld University) </b></p>
             <p><b> Time: 9:00am-10:00am EST, Dec 9 (Thu) </b></p>
             <p><b> Location: Online via Zoom </b></p>
             <p><b> Abstract: TBD </b></p>
