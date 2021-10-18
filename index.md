@@ -130,7 +130,7 @@ Expected Shortfall but suitable for portfolio selection – which Expected Short
         <ol>
           <blockquote>
             <p><b> Title: TBD </b></p>
-            <p><b> Speaker: <a hef = "https://sites.google.com/view/pengliushomepage/home"> Peng Liu </a> (Assistant Professor, University of Essex) </b></p>
+            <p><b> Speaker: <a href = "https://sites.google.com/view/pengliushomepage/home"> Peng Liu </a> (Assistant Professor, University of Essex) </b></p>
             <p><b> Time: 9:00am-10:00am EST, Dec 2 (Thu) </b></p>
             <p><b> Location: Online via Zoom </b></p>
             <p><b> Abstract: TBD </b></p>
