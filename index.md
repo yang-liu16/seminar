@@ -63,7 +63,7 @@ Expected Shortfall but suitable for portfolio selection – which Expected Short
         <ol>
           <blockquote>
             <p><b> Title: TBD </b></p>
-            <p><b> Speaker: Yang Liu (Postdoc Fellow, University of Waterloo) </b></p>
+            <p><b> Speaker: <a href = "yang-liu16.github.io"> Yang Liu </a> (Postdoc Fellow, University of Waterloo) </b></p>
             <p><b> Time: 9:00am-10:00am EST, Oct 28 (Thu) </b></p>
             <p><b> Location: Online via Zoom </b></p>
             <p><b> Abstract: TBD </b></p>
@@ -89,7 +89,7 @@ Expected Shortfall but suitable for portfolio selection – which Expected Short
         <ol>
           <blockquote>
             <p><b> Title: TBD </b></p>
-            <p><b> Speaker: Qiuqi Wang (PhD Candidate, University of Waterloo) </b></p>
+            <p><b> Speaker: <a href = "qwangan.github.io"> Qiuqi Wang </a> (PhD Candidate, University of Waterloo) </b></p>
             <p><b> Time: 9:00am-10:00am EST, Nov 11 (Thu) </b></p>
             <p><b> Location: Online via Zoom </b></p>
             <p><b> Abstract: TBD </b></p>
@@ -130,7 +130,7 @@ Expected Shortfall but suitable for portfolio selection – which Expected Short
         <ol>
           <blockquote>
             <p><b> Title: TBD </b></p>
-            <p><b> Speaker: Peng Liu (Assistant Professor, University of Essex) </b></p>
+            <p><b> Speaker: <a hef = "https://sites.google.com/view/pengliushomepage/home"> Peng Liu </a> (Assistant Professor, University of Essex) </b></p>
             <p><b> Time: 9:00am-10:00am EST, Dec 2 (Thu) </b></p>
             <p><b> Location: Online via Zoom </b></p>
             <p><b> Abstract: TBD </b></p>
