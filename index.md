@@ -113,7 +113,7 @@
       <summary><u><b>Dec 2: Prof. Giovanni Puccetti (University of Milan) </b></u></summary>
         <ol>
           <blockquote>
-            <p><b> Title: We love swapping (when simple necessary conditions are close-to-otpimal) </b></p>
+            <p><b> Title: We love swapping (when simple necessary conditions are close-to-optimal) </b></p>
             <p><b> Speaker: <a href = "https://sites.google.com/site/giovannipuccetti/home2?authuser=0"> Giovanni Puccetti </a> (Professor, University of Milan) </b></p>
             <p><b> Time: 9:00am-10:00am EST, Dec 2 (Thu) </b></p>
             <p><b> Location: Online via Zoom </b></p>
