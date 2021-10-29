@@ -43,19 +43,6 @@
 <body> 
  
 <details>
-      <summary><u><b>Oct 28: Dr. Yang Liu (University of Waterloo) </b></u></summary>
-        <ol>
-          <blockquote>
-            <p><b> Title: A Unified Formula of the Optimal Portfolio for Piecewise HARA Utilities </b></p>
-            <p><b> Speaker: <a href = "https://yang-liu16.github.io"> Yang Liu </a> (Postdoc Fellow, University of Waterloo) </b></p>
-            <p><b> Time: 9:00am-10:00am EST, Oct 28 (Thu) </b></p>
-            <p><b> Location: Online via Zoom </b></p>
-            <p><b> Abstract: We propose a general family of piecewise hyperbolic absolute risk aversion (PHARA) utility, including many non-standard utilities as examples. A typical application is the composition of an HARA preference and a piecewise linear payoff in hedge fund management. We derive a unified closed-form formula of the optimal portfolio, which is a four-term division. The formula has clear economic meanings, reflecting the behavior of risk aversion, risk seeking, loss aversion and first-order risk aversion. One main finding is that risk-taking behaviors are greatly increased by non-concavity and reduced by non-differentiability. </b></p>
-          </blockquote>
-        </ol>
-</details>
- 
-<details>
       <summary><u><b>Nov 4: Zhanyi Jiao (University of Waterloo) </b></u></summary>
         <ol>
           <blockquote>
@@ -157,6 +144,19 @@
 <b>October</b>
 
 
+<details>
+      <summary><u><b>Oct 28: Dr. Yang Liu (University of Waterloo) </b></u></summary>
+        <ol>
+          <blockquote>
+            <p><b> Title: A Unified Formula of the Optimal Portfolio for Piecewise HARA Utilities </b></p>
+            <p><b> Speaker: <a href = "https://yang-liu16.github.io"> Yang Liu </a> (Postdoc Fellow, University of Waterloo) </b></p>
+            <p><b> Time: 9:00am-10:00am EST, Oct 28 (Thu) </b></p>
+            <p><b> Location: Online via Zoom </b></p>
+            <p><b> Abstract: We propose a general family of piecewise hyperbolic absolute risk aversion (PHARA) utility, including many non-standard utilities as examples. A typical application is the composition of an HARA preference and a piecewise linear payoff in hedge fund management. We derive a unified closed-form formula of the optimal portfolio, which is a four-term division. The formula has clear economic meanings, reflecting the behavior of risk aversion, risk seeking, loss aversion and first-order risk aversion. One main finding is that risk-taking behaviors are greatly increased by non-concavity and reduced by non-differentiability. </b></p>
+          </blockquote>
+        </ol>
+</details>
+ 
 <details>
       <summary><u><b>Oct 21: Nazem Khan (University of Warwick) </b></u></summary>
         <ol>
