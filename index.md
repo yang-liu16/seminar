@@ -46,11 +46,11 @@
       <summary><u><b>Nov 18: Mehdi Tomas (Ecole Polytechnique) </b></u></summary>
         <ol>
           <blockquote>
-            <p><b> Title: TBD </b></p>
+            <p><b> Title: Measuring portfolio liquidity risk </b></p>
             <p><b> Speaker: Mehdi Tomas (PhD Candidate, Ecole Polytechnique) </b></p>
             <p><b> Time: 9:00am-10:00am EST, Nov 18 (Thu) </b></p>
             <p><b> Location: Online via Zoom </b></p>
-            <p><b> Abstract: TBD </b></p>
+            <p><b> Abstract: Expected Shortfall is the standard risk measure to assess market risk and design capital requirements of financial institutions. In extreme scenarios, institutions may be forced to liquidate their positions. However, institutions cannot buy or sell assets outright at the current market price. Instead, they face liquidity risk and must pay a liquidation premium (also known as execution cost or slippage). Since this risk increases potential losses, measuring it is of particular interest to asset managers and regulators. We present an ongoing study on the measure of the liquidity risk of portfolios. We use databases of private investor orders to measure liquidity risk on stock and future markets and propose a formula which accounts for concentration and diversification. Stress-testing it on data, we find it is more accurate than formulas which ignore these effects.  </b></p>
           </blockquote>
         </ol>
 </details>
