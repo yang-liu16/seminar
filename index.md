@@ -57,11 +57,11 @@
 
  
 <details>
-      <summary><u><b>Nov 25: Dr. Xia Han (University of Waterloo) </b></u></summary>
+      <summary><u><b>Nov 25: TBD </b></u></summary>
         <ol>
           <blockquote>
             <p><b> Title: TBD </b></p>
-            <p><b> Speaker: Xia Han (Postdoc Fellow, University of Waterloo) </b></p>
+            <p><b> Speaker: TBD </b></p>
             <p><b> Time: 9:00am-10:00am EST, Nov 25 (Thu) </b></p>
             <p><b> Location: Online via Zoom </b></p>
             <p><b> Abstract: TBD </b></p>
