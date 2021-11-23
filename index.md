@@ -46,11 +46,11 @@
       <summary><u><b>Nov 25: Dr. Kelvin Shuangjian Zhang (University of Waterloo)</b></u></summary>
         <ol>
           <blockquote>
-            <p><b> Title: TBD </b></p>
+            <p><b> Title: The Monopolist’s Problem: Old and New </b></p>
             <p><b> Speaker: <a href = "http://www.shuangjian.info/"> Kelvin Shuangjian Zhang </a> (Postdoc Fellow, University of Waterloo) </b></p>
             <p><b> Time: 9:00am-10:00am EST, Nov 25 (Thu) </b></p>
             <p><b> Location: Online via Zoom </b></p>
-            <p><b> Abstract: TBD </b></p>
+            <p><b> Abstract: The principal-agent problem is one of the central problems in microeconomics and has many applications in actuarial science. Existence, uniqueness, convexity/concavity, regularity/continuity, and characterization of the solutions have been widely studied after Mirrlees and Spence in the 1970s. Recently, the generalizations of results for the utility functions being quasi-linear to fully nonlinear serve as the major breakthrough in the past 20 years. In this talk, I will first introduce the historical work on the principal-agent framework under the context of the monopolist problem before moving to the recent progress. The results profoundly connect with the Optimal Transport theory, a powerful tool with potential applications in many areas (including actuarial science). This talk contains my joint work with Professor Robert J. McCann. </b></p>
           </blockquote>
         </ol>
 </details>
