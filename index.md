@@ -43,19 +43,6 @@
 <body> 
 
 <details>
-      <summary><u><b>Dec 2: Prof. Giovanni Puccetti (University of Milan) </b></u></summary>
-        <ol>
-          <blockquote>
-            <p><b> Title: We love swapping (when simple necessary conditions are close-to-optimal) </b></p>
-            <p><b> Speaker: <a href = "https://sites.google.com/site/giovannipuccetti/home2?authuser=0"> Giovanni Puccetti </a> (Professor, University of Milan) </b></p>
-            <p><b> Time: 9:00am-10:00am EST, Dec 2 (Thu) </b></p>
-            <p><b> Location: Online via Zoom </b></p>
-            <p><b> Abstract: In two relevant examples taken from the fields of mass transportations and decision theory, we show how two simple swapping conditions deliver excellent and fast results. </b></p>
-          </blockquote>
-        </ol>
-</details>
-
-<details>
       <summary><u><b>Dec 9: Prof. Max Nendel (Bielefeld University) </b></u></summary>
         <ol>
           <blockquote>
@@ -87,6 +74,23 @@
 ### [<u>Seminars in 2021</u>](./2021.html)
 <body>
 
+
+<b>December</b>
+<details>
+      <summary><u><b>Dec 2: Prof. Giovanni Puccetti (University of Milan) </b></u></summary>
+        <ol>
+          <blockquote>
+            <p><b> Title: We love swapping (when simple necessary conditions are close-to-optimal) </b></p>
+            <p><b> Speaker: <a href = "https://sites.google.com/site/giovannipuccetti/home2?authuser=0"> Giovanni Puccetti </a> (Professor, University of Milan) </b></p>
+            <p><b> Time: 9:00am-10:00am EST, Dec 2 (Thu) </b></p>
+            <p><b> Location: Online via Zoom </b></p>
+            <p><b> Abstract: In two relevant examples taken from the fields of mass transportations and decision theory, we show how two simple swapping conditions deliver excellent and fast results. </b></p>
+          </blockquote>
+        </ol>
+</details>
+<br>
+  
+ 
 <b>November</b> 
 
 <details>
