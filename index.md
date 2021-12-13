@@ -42,7 +42,7 @@
 ## Upcoming Events
 <body> 
 
-We are now taking a break until March, 2022.
+<b> We are now taking a break until March, 2022. </b>
  
 </body>
 
