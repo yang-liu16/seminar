@@ -29,7 +29,7 @@
 <a href="mailto:l89lin@uwaterloo.ca">l89lin@uwaterloo.ca</a></b>
 
 <b>[Yang Liu](https://yang-liu16.github.io/) (Tsinghua University & University of Waterloo):
-<a href="mailto:y2796liu@uwaterloo.ca">y2796liu@uwaterloo.ca</a></b>
+<a href="mailto:yang.liu1@uwaterloo.ca">yang.liu1@uwaterloo.ca</a></b>
  
 <b>[Qiuqi Wang](https://qwangan.github.io/) (University of Waterloo):
 <a href="mailto:q428wang@uwaterloo.ca">q428wang@uwaterloo.ca</a></b>
