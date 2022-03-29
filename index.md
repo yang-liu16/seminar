@@ -9,15 +9,15 @@
 ## Current Schedule
 <b> The weekly seminar is held at: </b>
 
-* <b> Eastern Standard Time (EST): 9-10 am, every Thursday </b>
+* <b> Eastern Time (ET): 9-10 am, every Thursday </b>
 
 * <b> UK Time: 2-3 pm, every Thursday </b>
 
 * <b> Switzerland Time: 3-4 pm, every Thursday </b>
 
-* <b> China Time: 10-11 pm, every Thursday </b>
+* <b> China Time: 9-10 pm, every Thursday </b>
 
-* <b> Japan Time: 11-12 pm, every Thursday </b>
+* <b> Japan Time: 10-11 pm, every Thursday </b>
 
 <b> Zoom Link: <a href="https://zoom.us/j/5564680447?pwd=bnFqWm1jT25kYUVvamQvUzlacVRHZz09">https://zoom.us/j/5564680447?pwd=bnFqWm1jT25kYUVvamQvUzlacVRHZz09</a> </b>
 
@@ -48,8 +48,8 @@
         <ol>
           <blockquote>
             <p><b> Title: TBD </b></p>
-            <p><b> Speaker: <a href="http://www.hirbod-assa.com/index.html">Peng Liu</a> (Assistant Professor, Essex University) </b></p>
-            <p><b> Time: 9:00am-10:00am EST, Apr 7 (Wed) </b></p>
+            <p><b> Speaker: <a href="https://sites.google.com/view/pengliushomepage/home">Peng Liu</a> (Assistant Professor, Essex University) </b></p>
+            <p><b> Time: 9:00am-10:00am ET, Apr 7 (Wed) </b></p>
             <p><b> Location: Online via Zoom </b></p>
             <p><b> Abstract: TBD </b></p>
           </blockquote>
@@ -62,7 +62,7 @@
           <blockquote>
             <p><b> Title: TBD </b></p>
             <p><b> Speaker: <a href = "https://yang-liu16.github.io"> Yang Liu </a> (Postdoc Fellow, University of Waterloo) </b></p>
-            <p><b> Time: 9:00am-10:00am EST, Apr 21 (Thu) </b></p>
+            <p><b> Time: 9:00am-10:00am ET, Apr 21 (Thu) </b></p>
             <p><b> Location: Online via Zoom </b></p>
             <p><b> Abstract: TBD </b></p>
           </blockquote>
@@ -75,7 +75,7 @@
           <blockquote>
             <p><b> Title: TBD </b></p>
             <p><b> Speaker: Zhanyi Jiao (PhD Candidate, University of Waterloo) </b></p>
-            <p><b> Time: 9:00am-10:00am EST, Apr 28 (Thu) </b></p>
+            <p><b> Time: 9:00am-10:00am ET, Apr 28 (Thu) </b></p>
             <p><b> Location: Online via Zoom </b></p>
             <p><b> Abstract: TBD </b></p>
           </blockquote>
