@@ -40,13 +40,58 @@
 
 
 ## Upcoming Events
-<body> 
+<body>
 
-<b> We are now taking a break until March, 2022. </b>
+<b>April</b>
+<details>
+      <summary><u><b>Apr 7: Prof. Peng Liu (Essex University)</b></u></summary>
+        <ol>
+          <blockquote>
+            <p><b> Title: TBD </b></p>
+            <p><b> Speaker: <a href="http://www.hirbod-assa.com/index.html">Peng Liu</a> (Assistant Professor, Essex University) </b></p>
+            <p><b> Time: 9:00am-10:00am EST, Apr 7 (Wed) </b></p>
+            <p><b> Location: Online via Zoom </b></p>
+            <p><b> Abstract: TBD </b></p>
+          </blockquote>
+        </ol>
+</details>
+
+<details>
+      <summary><u><b>Apr 21: Dr. Yang Liu (University of Waterloo) </b></u></summary>
+        <ol>
+          <blockquote>
+            <p><b> Title: TBD </b></p>
+            <p><b> Speaker: <a href = "https://yang-liu16.github.io"> Yang Liu </a> (Postdoc Fellow, University of Waterloo) </b></p>
+            <p><b> Time: 9:00am-10:00am EST, Apr 21 (Thu) </b></p>
+            <p><b> Location: Online via Zoom </b></p>
+            <p><b> Abstract: TBD </b></p>
+          </blockquote>
+        </ol>
+</details>
+
+ <details>
+      <summary><u><b>Apr 28: Zhanyi Jiao (University of Waterloo) </b></u></summary>
+        <ol>
+          <blockquote>
+            <p><b> Title: TBD </b></p>
+            <p><b> Speaker: Zhanyi Jiao (PhD Candidate, University of Waterloo) </b></p>
+            <p><b> Time: 9:00am-10:00am EST, Apr 28 (Thu) </b></p>
+            <p><b> Location: Online via Zoom </b></p>
+            <p><b> Abstract: TBD </b></p>
+          </blockquote>
+        </ol>
+</details>
+
  
 </body>
 
 ## Past Events
+
+### [<u>Seminars in 2022</u>](./2022.html)
+<body>
+
+</body>
+
 ### [<u>Seminars in 2021</u>](./2021.html)
 <body>
 
