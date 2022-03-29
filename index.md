@@ -44,11 +44,11 @@
 
 <b>April</b>
 <details>
-      <summary><u><b>Apr 7: Prof. Peng Liu (Essex University)</b></u></summary>
+      <summary><u><b>Apr 7: Prof. Peng Liu (University of Essex)</b></u></summary>
         <ol>
           <blockquote>
             <p><b> Title: TBD </b></p>
-            <p><b> Speaker: <a href="https://sites.google.com/view/pengliushomepage/home">Peng Liu</a> (Assistant Professor, Essex University) </b></p>
+            <p><b> Speaker: <a href="https://sites.google.com/view/pengliushomepage/home">Peng Liu</a> (Lecturer/Assistant Professor, University of Essex) </b></p>
             <p><b> Time: 9:00am-10:00am ET, Apr 7 (Wed) </b></p>
             <p><b> Location: Online via Zoom </b></p>
             <p><b> Abstract: TBD </b></p>
