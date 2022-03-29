@@ -49,7 +49,7 @@
           <blockquote>
             <p><b> Title: TBD </b></p>
             <p><b> Speaker: <a href="https://sites.google.com/view/pengliushomepage/home">Peng Liu</a> (Lecturer/Assistant Professor, University of Essex) </b></p>
-            <p><b> Time: 9:00am-10:00am ET, Apr 7 (Wed) </b></p>
+            <p><b> Time: 9:00am-10:00am ET, Apr 7 (Thu) </b></p>
             <p><b> Location: Online via Zoom </b></p>
             <p><b> Abstract: TBD </b></p>
           </blockquote>
