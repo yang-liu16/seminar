@@ -43,18 +43,6 @@
 <body>
 
 <b>April</b>
-<details>
-      <summary><u><b>Apr 7: Prof. Peng Liu (University of Essex)</b></u></summary>
-        <ol>
-          <blockquote>
-            <p><b> Title: One axiom to rule them all: A minimalist axiomatization of quantiles </b></p>
-            <p><b> Speaker: <a href="https://sites.google.com/view/pengliushomepage/home">Peng Liu</a> (Lecturer/Assistant Professor, University of Essex) </b></p>
-            <p><b> Time: 9:00am-10:00am ET, Apr 7 (Thu) </b></p>
-            <p><b> Location: Online via Zoom </b></p>
-            <p><b> Abstract:  We offer a minimalist axiomatization of quantiles among all real-valued mappings on a general set of distributions through only one axiom. This axiom is called ordinality:  quantiles are the only mappings that commute with all increasing and continuous transforms. Other convenient properties of quantiles, monotonicity, semicontinuity, comonotonic additivity and elicitability in particular,  follow from this axiom. Furthermore, on the set of convexly supported distributions, the median is the only mapping that commutates with all monotone and continuous transforms. On a general set of distributions,  the median interval is pinned down as the unique minimal interval-valued mapping that commutes with all monotone and continuous transforms. Finally, our main result, put in a decision-theoretic setting, leads to a minimalist axiomatization of quantile preferences. In banking and insurance, quantiles are known as the standard regulatory risk measure Value-at-Risk (VaR), and thus, an axiomatization of VaR is obtained with only one axiom among law-based risk measures. </b></p>
-          </blockquote>
-        </ol>
-</details>
 
 <details>
       <summary><u><b>Apr 21: Dr. Yang Liu (University of Waterloo) </b></u></summary>
@@ -89,7 +77,19 @@
 
 ### [<u>Seminars in 2022</u>](./2022.html)
 <body>
-
+<b>April</b>
+<details>
+      <summary><u><b>Apr 7: Prof. Peng Liu (University of Essex)</b></u></summary>
+        <ol>
+          <blockquote>
+            <p><b> Title: One axiom to rule them all: A minimalist axiomatization of quantiles </b></p>
+            <p><b> Speaker: <a href="https://sites.google.com/view/pengliushomepage/home">Peng Liu</a> (Lecturer/Assistant Professor, University of Essex) </b></p>
+            <p><b> Time: 9:00am-10:00am ET, Apr 7 (Thu) </b></p>
+            <p><b> Location: Online via Zoom </b></p>
+            <p><b> Abstract:  We offer a minimalist axiomatization of quantiles among all real-valued mappings on a general set of distributions through only one axiom. This axiom is called ordinality:  quantiles are the only mappings that commute with all increasing and continuous transforms. Other convenient properties of quantiles, monotonicity, semicontinuity, comonotonic additivity and elicitability in particular,  follow from this axiom. Furthermore, on the set of convexly supported distributions, the median is the only mapping that commutates with all monotone and continuous transforms. On a general set of distributions,  the median interval is pinned down as the unique minimal interval-valued mapping that commutes with all monotone and continuous transforms. Finally, our main result, put in a decision-theoretic setting, leads to a minimalist axiomatization of quantile preferences. In banking and insurance, quantiles are known as the standard regulatory risk measure Value-at-Risk (VaR), and thus, an axiomatization of VaR is obtained with only one axiom among law-based risk measures. </b></p>
+          </blockquote>
+        </ol>
+</details>
 </body>
 
 ### [<u>Seminars in 2021</u>](./2021.html)
