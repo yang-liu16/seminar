@@ -48,11 +48,11 @@
       <summary><u><b>Apr 21: Dr. Yang Liu (University of Waterloo) </b></u></summary>
         <ol>
           <blockquote>
-            <p><b> Title: TBD </b></p>
+            <p><b> Title: Uncertainty aversion and  equity improvement </b></p>
             <p><b> Speaker: <a href = "https://yang-liu16.github.io"> Yang Liu </a> (Postdoc Fellow, University of Waterloo) </b></p>
             <p><b> Time: 9:00am-10:00am ET, Apr 21 (Thu) </b></p>
             <p><b> Location: Online via Zoom </b></p>
-            <p><b> Abstract: TBD </b></p>
+            <p><b> Abstract: We address the relationship between risk equity and aggregate uncertainty avoidance. We find a fundamental conflict between the two concepts in a setting where the model of Keeney [Keeney (1980): Equity and public risk. {\em Operations Research}, 28(3), 527--534] is equipped with uncertainty. Further, we characterize these concepts with the ambiguity and risk attitudes of the decision maker in the framework of the $\alpha$-maxmin preference. Finally, we extend the result to some general aggregation function. </b></p>
           </blockquote>
         </ol>
 </details>
