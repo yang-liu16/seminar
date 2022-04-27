@@ -50,7 +50,7 @@
           <blockquote>
             <p><b> Title: TBD </b></p>
             <p><b> Speaker: Zhanyi Jiao (PhD Candidate, University of Waterloo) </b></p>
-            <p><b> Time: 9:00am-10:00am ET, Apr 28 (Thu) </b></p>
+            <p><b> Time: 9:00am-10:00am ET, May 5 (Thu) </b></p>
             <p><b> Location: Online via Zoom </b></p>
             <p><b> Abstract: TBD </b></p>
           </blockquote>
