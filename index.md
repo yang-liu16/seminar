@@ -45,7 +45,7 @@
 <b>April</b>
 
  <details>
-      <summary><u><b>Apr 28: Zhanyi Jiao (University of Waterloo) </b></u></summary>
+      <summary><u><b>May 5: Zhanyi Jiao (University of Waterloo) </b></u></summary>
         <ol>
           <blockquote>
             <p><b> Title: TBD </b></p>
