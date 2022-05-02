@@ -42,7 +42,7 @@
 ## Upcoming Events
 <body>
 
-<b>April</b>
+<b>May</b>
 
  <details>
       <summary><u><b>May 5: Zhanyi Jiao (University of Waterloo) </b></u></summary>
