@@ -77,10 +77,9 @@
           </blockquote>
         </ol>
 </details>
-
-<b>April</b>
+<br>
  
-
+<b>April</b>
 <details>
       <summary><u><b>Apr 21: Dr. Yang Liu (University of Waterloo) </b></u></summary>
         <ol>
