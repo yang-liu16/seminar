@@ -41,7 +41,28 @@
 
 ## Upcoming Events
 <body>
+<b>June</b>
+<details>
+      <summary><u><b>Jun 23: Giulio Principi (New York University)  </b></u></summary>
+        <ol>
+          <blockquote>
+            <p><b> Title: TBD </b></p>
+            <p><b> Speaker: Giulio Principi (PhD Candidate, New York University) </b></p>
+            <p><b> Time: 9:00am-10:00am ET, Jun 23 (Thu) </b></p>
+            <p><b> Location: Online via Zoom </b></p>
+            <p><b> Abstract: TBD  </b></p>
+          </blockquote>
+        </ol>
+</details> 
+ 
+</body>
 
+## Past Events
+
+### [<u>Seminars in 2022</u>](./2022.html)
+<body>
+ 
+ 
 <b>May</b>
 
  <details>
@@ -57,13 +78,6 @@
         </ol>
 </details>
 
- 
-</body>
-
-## Past Events
-
-### [<u>Seminars in 2022</u>](./2022.html)
-<body>
 <b>April</b>
  
 
