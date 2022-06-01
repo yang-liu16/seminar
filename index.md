@@ -43,12 +43,12 @@
 <body>
 <b>June</b>
 <details>
-      <summary><u><b>Jun 23: Giulio Principi (New York University)  </b></u></summary>
+      <summary><u><b>Jun 16: Giulio Principi (New York University)  </b></u></summary>
         <ol>
           <blockquote>
             <p><b> Title: Conditional divergence risk measures </b></p>
             <p><b> Speaker: Giulio Principi (PhD Candidate, New York University) </b></p>
-            <p><b> Time: 9:00am-10:00am ET, Jun 23 (Thu) </b></p>
+            <p><b> Time: 9:00am-10:00am ET, Jun 16 (Thu) </b></p>
             <p><b> Location: Online via Zoom </b></p>
             <p><b> Abstract: In this paper we retrieve a conditional version of the variational formula for optimized certainty equivalents. We take a random modular approach employing representation results for the smallest niveloid on the conditional L^{\infty}-space.  </b></p>
           </blockquote>
