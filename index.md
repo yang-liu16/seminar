@@ -28,11 +28,9 @@
 <b>[Liyuan Lin](https://liyuan-lin.github.io/Liyuan/) (University of Waterloo):
 <a href="mailto:l89lin@uwaterloo.ca">l89lin@uwaterloo.ca</a></b>
 
-<b>[Yang Liu](https://yang-liu16.github.io/) (University of Waterloo):
+<b>[Zhanyi Jiao] (University of Waterloo):
 <a href="mailto:yang.liu1@uwaterloo.ca">yang.liu1@uwaterloo.ca</a></b>
  
-<b>[Qiuqi Wang](https://qwangan.github.io/) (University of Waterloo):
-<a href="mailto:q428wang@uwaterloo.ca">q428wang@uwaterloo.ca</a></b>
 
 
 ## Faculty Mentor
@@ -41,6 +39,28 @@
 
 ## Upcoming Events
 <body>
+<b>Mar</b>
+ 
+ <details>
+      <summary><u><b>Mar 2: Yudong Luo (University of Waterloo & Vector Institute)  </b></u></summary>
+        <ol>
+          <blockquote>
+            <p><b> Title: Mean-Variance Reinforcement Learning </b></p>
+            <p><b> Speaker: Yudong Luo (PhD Candidate, University of Waterloo & Vector Institute) </b></p>
+            <p><b> Time: 15:30 - 17:00 pm, Mar 2 (Thu) </b></p>
+            <p><b> Location: M3 4206 </b></p>
+            <p><b> Abstract: Restricting the variance of a policy's return is a popular choice in risk-averse reinforcement learning (RL) literature due to its clear mathematical definition and easy interpretability. In this presentation, the fundamental concepts of traditional risk-neutral RL are first introduced, followed with the risk-averse mean-variance RL problem. The existing mean-variance RL methods are described, and their limitations are discussed.  </b></p>
+          </blockquote>
+        </ol>
+</details>  
+ 
+</body>
+
+## Past Events
+
+### [<u>Seminars in 2022</u>](./2022.html)
+<body>
+
 <b>June</b>
 <details>
       <summary><u><b>Jun 16: Giulio Principi (New York University)  </b></u></summary>
@@ -53,15 +73,7 @@
             <p><b> Abstract: In this paper we retrieve a conditional version of the variational formula for optimized certainty equivalents. We take a random modular approach employing representation results for the smallest niveloid on the conditional L^{\infty}-space.  </b></p>
           </blockquote>
         </ol>
-</details> 
- 
-</body>
-
-## Past Events
-
-### [<u>Seminars in 2022</u>](./2022.html)
-<body>
- 
+</details>  
  
 <b>May</b>
 
