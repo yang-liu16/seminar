@@ -6,30 +6,16 @@
 
 * <b>We will send out weekly reminders via a mailing list, usually on the day before the presentation. Papers and presentation slides will be circulated among participants via the mailing list. If you would like to be included in the list, please contact the organizers.</b>
 
-## Current Schedule
-<b> The weekly seminar is held at: </b>
-
-* <b> Eastern Time (ET): 9-10 am, every Thursday </b>
-
-* <b> UK Time: 2-3 pm, every Thursday </b>
-
-* <b> Switzerland Time: 3-4 pm, every Thursday </b>
-
-* <b> China Time: 9-10 pm, every Thursday </b>
-
-* <b> Japan Time: 10-11 pm, every Thursday </b>
-
-<b> Zoom Link: <a href="https://zoom.us/j/5564680447?pwd=bnFqWm1jT25kYUVvamQvUzlacVRHZz09">https://zoom.us/j/5564680447?pwd=bnFqWm1jT25kYUVvamQvUzlacVRHZz09</a> </b>
-
-<b> Meeting ID：556 468 0447, Passcode: 3iA1cF </b>
+* <b>This year most seminars are held in person at the University of Waterloo.
 
 ## Student Organizers
+
+<b>Zhanyi Jiao (University of Waterloo):
+<a href="mailto:z27jiao@uwaterloo.ca">z27jiao@uwaterloo.ca</a></b>
 
 <b>[Liyuan Lin](https://liyuan-lin.github.io/Liyuan/) (University of Waterloo):
 <a href="mailto:l89lin@uwaterloo.ca">l89lin@uwaterloo.ca</a></b>
 
-<b>[Zhanyi Jiao] (University of Waterloo):
-<a href="mailto:yang.liu1@uwaterloo.ca">yang.liu1@uwaterloo.ca</a></b>
  
 
 
@@ -74,6 +60,7 @@
           </blockquote>
         </ol>
 </details>  
+<br>
  
 <b>May</b>
 
