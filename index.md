@@ -32,7 +32,7 @@
         <ol>
           <blockquote>
             <p><b> Title: Mean-Variance Reinforcement Learning </b></p>
-            <p><b> Speaker: <a href = "http://miyunluo.com/"> Yudong Luo <a> (PhD Candidate, University of Waterloo & Vector Institute) </b></p>
+            <p><b> Speaker: <a href = "http://miyunluo.com/"> Yudong Luo </a> (PhD Candidate, University of Waterloo & Vector Institute) </b></p>
             <p><b> Time: 15:30 - 17:00 pm, Mar 2 (Thu) </b></p>
             <p><b> Location: M3 4206 </b></p>
             <p><b> Abstract: Restricting the variance of a policy's return is a popular choice in risk-averse reinforcement learning (RL) literature due to its clear mathematical definition and easy interpretability. In this presentation, the fundamental concepts of traditional risk-neutral RL are first introduced, followed with the risk-averse mean-variance RL problem. The existing mean-variance RL methods are described, and their limitations are discussed.  </b></p>
