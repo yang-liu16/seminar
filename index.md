@@ -25,7 +25,7 @@
 
 ## Upcoming Events
 <body>
-<b>Mar</b>
+<b>March</b>
  
  <details>
       <summary><u><b>Mar 2: Yudong Luo (University of Waterloo & Vector Institute)  </b></u></summary>
