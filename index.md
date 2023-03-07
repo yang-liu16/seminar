@@ -27,7 +27,26 @@
 <body>
 <b>March</b>
  
- <details>
+<details>
+      <summary><u><b>Mar 9: Ziyue Shi (University of Waterloo)  </b></u></summary>
+        <ol>
+          <blockquote>
+            <p><b> Title: The design of an optimal retrospective rating plan </b></p>
+            <p><b> Speaker: Ziyue Shi (PhD Student, University of Waterloo) </b></p>
+            <p><b> Time: 15:30 - 17:00 pm, Mar 9 (Thu) </b></p>
+            <p><b> Location: M3 4206 </b></p>
+            <p><b> Abstract: This talk is based on the work of Chen et al. (2016), which studies an optimal retrospective rating plan by minimizing the risk exposure of the insured under the framework of convex order. This paper adopts a little-studied premium principle called the retrospective rating plan premium. This premium principle considers the insured's actual losses during the policy year and, in fact, it is widely used in insurance practice. In this talk, we will introduce the retrospective rating plan premium, elaborate on the model setup, and discuss the main results of the background paper.   </b></p>
+          </blockquote>
+        </ol>
+</details>   
+ 
+</body>
+
+
+## Past Events
+
+<body>
+<details>
       <summary><u><b>Mar 2: Yudong Luo (University of Waterloo & Vector Institute)  </b></u></summary>
         <ol>
           <blockquote>
@@ -39,11 +58,8 @@
           </blockquote>
         </ol>
 </details>  
- 
 </body>
-
-## Past Events
-
+ 
 ### [<u>Seminars in 2022</u>](./2022.html)
 
 ### [<u>Seminars in 2021</u>](./2021.html)
