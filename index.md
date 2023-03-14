@@ -28,6 +28,27 @@
 <b>March</b>
  
 <details>
+      <summary><u><b>Mar 16: Qinghua Ren (University of Waterloo)  </b></u></summary>
+        <ol>
+          <blockquote>
+            <p><b> Title: Distributionally robust reinsurance with Value-at-Risk and Conditional Value-at-Risk </b></p>
+            <p><b> Speaker: Qinghua Ren (PhD Student, University of Waterloo) </b></p>
+            <p><b> Time: 15:30 - 17:00 pm, Mar 16 (Thu) </b></p>
+            <p><b> Location: M3 3127 </b></p>
+            <p><b> Abstract: This paper introduced the model uncertainty into the classic reinsurance framework and focused on distributionally robust reinsurance problems by minimizing the worst-case VaR(CVaR) of the total retained loss. The authors obtained closed-form solutions for the worst-case VaR over an uncertainty set containing distributions with common ﬁrst two moments. The optimal deductibles of the optimization problems were also obtained. The paper showed that the worst-case CVaR is equal to the worst-case VaR of the insurer’s total retained loss under stop-loss reinsurance contract. Several numerical experiments were conducted to compare this model with classic stop-loss reinsurance framework.   </b></p>
+          </blockquote>
+        </ol>
+</details> 
+ 
+</body>
+
+
+## Past Events
+
+<body>
+<b>March</b>
+ 
+<details>
       <summary><u><b>Mar 9: Ziyue Shi (University of Waterloo)  </b></u></summary>
         <ol>
           <blockquote>
@@ -38,15 +59,8 @@
             <p><b> Abstract: This talk is based on the work of Chen et al. (2016), which studies an optimal retrospective rating plan by minimizing the risk exposure of the insured under the framework of convex order. This paper adopts a little-studied premium principle called the retrospective rating plan premium. This premium principle considers the insured's actual losses during the policy year and, in fact, it is widely used in insurance practice. In this talk, we will introduce the retrospective rating plan premium, elaborate on the model setup, and discuss the main results of the background paper.   </b></p>
           </blockquote>
         </ol>
-</details>   
+</details>  
  
-</body>
-
-
-## Past Events
-
-<body>
-<b>March</b>
 <details>
       <summary><u><b>Mar 2: Yudong Luo (University of Waterloo & Vector Institute)  </b></u></summary>
         <ol>
