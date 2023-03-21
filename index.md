@@ -32,7 +32,7 @@
         <ol>
           <blockquote>
             <p><b> Title: Weighted Credibility Distribution Estimation with Applications to Insurance and Finance </b></p>
-            <p><b> Speaker: <a href = "https://www.unipi.gr/unipi/en/pitselis.html"> Georgios Pitselis </a> (Professor, University of Piraeus) </b></p>
+            <p><b> Speaker: <a href = "https://www.unipi.gr/unipi/en/pitselis.html"> Georgios Pitselis </a> (University of Piraeus) </b></p>
             <p><b> Time: 15:30 - 17:00 pm, Mar 23 (Thu) </b></p>
             <p><b> Location: M3 3127 </b></p>
             <p><b> Abstract: This paper extends the results of Jewell (1974) of forecasting the distribution of individual risk in cases where the observations are weighted or are grouped in intervals. The credibility estimation is obtained by restricting the class of admissible functions, leading to the so-called linearized credibility results and the optimal projection theorem is also applied for credibility estimation. In addition, distribution credibility estimators are also established, and numerical illustrations are herein presented. Two examples of distribution credibility estimation are given, one with insurance loss data and the other with industry financial data.   </b></p>
