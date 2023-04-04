@@ -25,10 +25,30 @@
 
 ## Upcoming Events
 <body>
+ 
+<b>Apr</b>
+
+<details>
+      <summary><u><b>Apr 6: Jean-Gabriel Lauzier (University of Waterloo)  </b></u></summary>
+        <ol>
+          <blockquote>
+            <p><b> Title: Risk sharing, measuring variability, and distortion riskmetrics </b></p>
+            <p><b> Speaker: Jean-Gabriel Lauzier (Postdoc Fellow, University of Waterloo) </b></p>
+            <p><b> Time: 15:30 - 17:00 pm, Apr 6 (Thu) </b></p>
+            <p><b> Location: M3 4206 </b></p>
+            <p><b> Abstract: We address the problem of sharing risk among agents with preferences modelled by a general class of comonotonic additive and law-based functionals that need not be either monotone or convex. Such functionals are called distortion riskmetrics, which include many statistical measures of risk and variability used in portfolio optimization and insurance. The set of Pareto-optimal allocations is characterized under various settings of general or comonotonic risk sharing problems. We solve explicitly Pareto-optimal allocations among agents using the Gini deviation, the mean-median deviation, or the inter-quantile difference as the relevant variability measures. The latter is of particular interest, as optimal allocations are not comonotonic in the presence of inter-quantile difference agents; instead, the optimal allocation features a mixture of pairwise counter-monotonic structures, showing some patterns of extremal negative dependence. </b></p>
+          </blockquote>
+        </ol>
+</details> 
 
 
+</body>
+
+
+## Past Events
+
+<body>
 <b>March</b>
-
  
 <details>
       <summary><u><b>Mar 30: Zachary John Van Oosten (University of Waterloo)  </b></u></summary>
@@ -42,15 +62,7 @@
           </blockquote>
         </ol>
 </details> 
-
-
-</body>
-
-
-## Past Events
-
-<body>
-<b>March</b>
+ 
 <details>
       <summary><u><b>Mar 23: Prof. Georgios Pitselis (University of Piraeus)  </b></u></summary>
         <ol>
