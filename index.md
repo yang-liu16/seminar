@@ -29,12 +29,12 @@
 <b>Apr</b>
 
  <details>
-      <summary><u><b>Apr 14: Qinyu Wu (University of Waterloo)  </b></u></summary>
+      <summary><u><b>Apr 13: Qinyu Wu (University of Waterloo)  </b></u></summary>
         <ol>
           <blockquote>
             <p><b> Title: Generalization and Regularization via Wasserstein Distributionally Robust Optimization </b></p>
             <p><b> Speaker: Qinyu Wu (Postdoc Fellow, University of Waterloo) </b></p>
-            <p><b> Time: 15:30 - 17:00 pm, Apr 14 (Thu) </b></p>
+            <p><b> Time: 15:30 - 17:00 pm, Apr 13 (Thu) </b></p>
             <p><b> Location: M3 4206 </b></p>
             <p><b> Abstract: Wasserstein distributionally robust optimization (DRO) has found success in operations research and machine learning applications as a powerful means to obtain solutions with favorable out-of-sample performances. Two compelling explanations for the success are the generalization bounds derived from Wasserstein DRO and the equivalency between Wasserstein DRO and the regularization scheme commonly applied in machine learning. Existing results on generalization bounds and the equivalency to regularization are largely limited to the setting where the Wasserstein ball is of a certain type and the decision criterion takes certain forms of an expected function. In this paper, we show that by focusing on Wasserstein DRO problems with affine decision rules, it is possible to obtain generalization bounds and the equivalency to regularization in a significantly broader setting where the Wasserstein ball can be of a general type and the decision criterion can be a general measure of risk, i.e., nonlinear in distributions. This allows for accommodating many important classification, regression, and risk minimization applications that have not been addressed to date using Wasserstein DRO. Our results are strong in that the generalization bounds do not suffer from the curse of dimensionality and the equivalency to regularization is exact. As a byproduct, our regularization results broaden considerably the class of Wasserstein DRO models that can be solved efficiently via regularization formulations.. </b></p>
           </blockquote>
