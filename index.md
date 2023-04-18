@@ -33,7 +33,7 @@
         <ol>
           <blockquote>
             <p><b> Title: Safe Testing </b></p>
-            <p><b> Speaker: Yixuan Fan (Ph.D. Candidate, Jilin University) </b></p>
+            <p><b> Speaker: Yixuan Fan (PhD Candidate, Jilin University) </b></p>
             <p><b> Time: 15:30 - 17:00 pm, Apr 20 (Thu) </b></p>
             <p><b> Location: M3 4206 </b></p>
             <p><b> Abstract: This paper develops the theory of hypothesis testing based on the e-value, a notion of evidence that, unlike the p-value, allows for effortlessly combining results from several studies in the common scenario where the decision to perform a new study may depend on previous outcomes. Tests based on e-values are safe, i.e. they preserve Type-I error guarantees, under such optional continuation. This paper defines growth-rate optimality (GRO) as an analogue of power in an optional continuation context and shows how to construct GRO e-variables for general testing problems with composite null and alternative, emphasizing models with nuisance parameters. GRO e-values take the form of Bayes factors with special priors.  The theory is also illustrated by using several classic examples including a one-sample safe t-test and the 2×2 contingency table. Sharing Fisherian, Neymanian and Jeffreys-Bayesian interpretations, e-values may provide a methodology acceptable to adherents of all three schools. </b></p>
