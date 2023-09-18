@@ -34,7 +34,7 @@
           <blockquote>
             <p><b> Title: FGM copulas, generalizations, and actuarial applications </b></p>
             <p><b> Speaker: Christopher Blier-Wong (Postdoc Fellow, University of Waterloo) </b></p>
-            <p><b> Time:  14:00 - 15:30 pm, September 14, 2023 (Thu) </b></p>
+            <p><b> Time:  14:00 - 15:30 pm, Sep 14, 2023 (Thu) </b></p>
             <p><b> Location: M3 3127 </b></p>
             <p><b> Abstract: This talk will outline recent advances on the Farlie-Gumbel-Morgenstern (FGM) family copulas. At its core is a stochastic representation of FGM copulas based on multivariate symmetric Bernoulli distributions. This one-to-one correspondence lets us derive useful properties for this family. We study subfamilies and generalizations of FGM copulas and construct high-dimensional copulas with few dependence parameters. Then, we will explain some actuarial applications, focusing on risk aggregation (including risk-sharing and capital allocation) and collective risk models. Finally, we will conclude with current avenues for research, including high-dimensional estimation strategies and generalizing the results to Baker copulas. This research is based on joint work with Hélène Cossette, Etienne Marceau, and other collaborators. </b></p>
           </blockquote>
@@ -63,7 +63,7 @@
 </details> 
  
 <details>
-      <summary><u><b>Apr 13: Qinyu Wu (University of Waterloo)  </b></u></summary>
+      <summary><u><b>Apr 13: Qinyu Wu (University of Waterloo) </b></u></summary>
         <ol>
           <blockquote>
             <p><b> Title: Generalization and Regularization via Wasserstein Distributionally Robust Optimization </b></p>
