@@ -29,6 +29,26 @@
 <b>Sep</b>
 
 <details>
+      <summary><u><b>Sep 21: Ziyue Shi (University of Waterloo)  </b></u></summary>
+        <ol>
+          <blockquote>
+            <p><b> Title: Robustness in the optimization of risk measures </b></p>
+            <p><b> Speaker: Ziyue Shi (PhD Student, University of Waterloo) </b></p>
+            <p><b> Time:  14:00 - 15:30 pm, Sep 21, 2023 (Thu) </b></p>
+            <p><b> Location: M3 3127 </b></p>
+            <p><b> Abstract: This talk delves into the paper "Embrechts, P., Schied, A., & Wang, R. (2022). Robustness in the optimization of risk measures. Operations Research, 70(1), 95-110." A risk measure as a function may have some robustness properties but may fail to be robust within an optimization context. Robustness properties on the procedure of optimization are investigated in this paper. The key concern of the paper is to investigate the influence of the selection of the underlying objective on the robustness in risk optimization. Specifically, it places particular emphasis on the two popular regulatory risk measures, the Value-at-Risk and Expected Shortfall, and their robustness properties in optimization problems. In this talk, I will focus on the motivation, model setup, results, and main conclusions of this paper. </b></p>
+          </blockquote>
+        </ol>
+</details>  
+ 
+</body>
+
+
+## Past Events
+
+<body>
+<b>September</b>
+<details>
       <summary><u><b>Sep 14: Christopher Blier-Wong (University of Waterloo)  </b></u></summary>
         <ol>
           <blockquote>
@@ -40,13 +60,8 @@
           </blockquote>
         </ol>
 </details>  
+<br>
  
-</body>
-
-
-## Past Events
-
-<body>
 <b>April</b>
 
 <details>
