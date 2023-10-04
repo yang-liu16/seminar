@@ -26,7 +26,14 @@
 ## Upcoming Events
 <body>
 
-<b>Sep</b>
+
+</body>
+
+
+## Past Events
+
+<body>
+<b>September</b>
 
 <details>
       <summary><u><b>Sep 21: Ziyue Shi (University of Waterloo)  </b></u></summary>
@@ -40,14 +47,7 @@
           </blockquote>
         </ol>
 </details>  
- 
-</body>
-
-
-## Past Events
-
-<body>
-<b>September</b>
+  
 <details>
       <summary><u><b>Sep 14: Christopher Blier-Wong (University of Waterloo)  </b></u></summary>
         <ol>
