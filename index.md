@@ -27,6 +27,36 @@
 <body>
 
 
+
+<b>Oct</b>
+
+<details>
+      <summary><u><b>Oct 5: Qinghua Ren (PhD Student, University of Waterloo)  </b></u></summary>
+        <ol>
+          <blockquote>
+            <p><b> Title: Risk sharing under heterogeneous beliefs without convexity </b></p>
+            <p><b> Speaker: Qinghua Ren (PhD Student, University of Waterloo) </b></p>
+            <p><b> Time:  14:00 - 15:30 pm, Oct 5, 2023 (Thu) </b></p>
+            <p><b> Location: M3 3127 </b></p>
+            <p><b> Abstract: This talk delves into the paper "Liebrich, F. B. (2021). Risk sharing under heterogeneous beliefs without convexity. " The paper aims to find Pareto-optimal allocations of risk among finitely many agents. The associated individual risk measures are assumed to be consistent with the respective second-order stochastic dominance relations, but with respect to potentially heterogeneous reference probability measures. The paper provides a simple sufficient condition for the existence of Pareto optima. Furthermore, the results are extended to capital requirements with multidimensional security markets. </b></p>
+          </blockquote>
+        </ol>
+</details>  
+
+
+
+<details>
+      <summary><u><b>Sep 28: Yuling Max Chen (PhD Student, University of Waterloo)  </b></u></summary>
+        <ol>
+          <blockquote>
+            <p><b> Title: Reinforcement Learning Approaches to Stochastic Control Problems: A Bidirectional Introduction</b></p>
+            <p><b> Speaker: Yuling Max Chen (PhD Student, University of Waterloo) </b></p>
+            <p><b> Time:  14:00 - 15:30 pm, Sep 28, 2023 (Thu) </b></p>
+            <p><b> Location: M3 3127 </b></p>
+            <p><b> Abstract: Reinforcement Learning (RL) is the Computer Science counterpart of the statisticians’ Stochastic Control (SC) problem, both seeking optimal solutions for sequential decision-making problems modeled by Markov Decision Processes (MDPs). This presentation explores RL in a bidirectional manner. Starting gently from the SC perspective, we demonstrate how RL enhances exploration and exploitation in classical control problems, comparing RL-facilitated optimal control with non-RL solutions, under the Markowitz portfolio optimization setting. Conversely, Inverse Reinforcement Learning (IRL) has garnered substantial attention within the Deep Learning community, expanding the boundaries of traditional control problems. While traditional control problems (e.g., Linear Quadratic Control) optimize known objective functions within dynamic systems, IRL acknowledges the limitations of this approach in real-world scenarios, as individual’s objective (utility) evolve with accumulating experience. Thereby, we introduce a scalable Bayesian IRL model that addresses control problems with indeterminate objectives. Our method employs Variational Inference for a priori objective function learning and utilizes exploration-exploitation strategies to identify optimal controls. Empirical results underscore the model's efficacy, showcasing its promising performance in solving a toy maze problem.  </b></p>
+          </blockquote>
+        </ol>
+</details>  
 </body>
 
 
