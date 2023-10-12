@@ -53,7 +53,7 @@
 <b>October</b>
 
 <details>
-      <summary><u><b>Oct 5: Qinghua Ren (PhD Student, University of Waterloo)  </b></u></summary>
+      <summary><u><b>Oct 5: Qinghua Ren (University of Waterloo)  </b></u></summary>
         <ol>
           <blockquote>
             <p><b> Title: Risk sharing under heterogeneous beliefs without convexity </b></p>
@@ -70,7 +70,7 @@
 <b>September</b>
 
 <details>
-      <summary><u><b>Sep 28: Yuling Max Chen (PhD Student, University of Waterloo)  </b></u></summary>
+      <summary><u><b>Sep 28: Yuling Max Chen (University of Waterloo)  </b></u></summary>
         <ol>
           <blockquote>
             <p><b> Title: Reinforcement Learning Approaches to Stochastic Control Problems: A Bidirectional Introduction</b></p>
