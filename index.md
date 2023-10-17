@@ -29,16 +29,15 @@
 
 
 <b>Oct</b>
-
 <details>
-      <summary><u><b>Oct 12: Emma Kroell (University of Toronto)  </b></u></summary>
+      <summary><u><b>Oct 19: Yimiao Zhao (University of Waterloo)  </b></u></summary>
         <ol>
           <blockquote>
-            <p><b> Title: Optimal Robust Reinsurance with Multiple Insurers </b></p>
-            <p><b> Speaker: Emma Kroell (PhD Candidate, University of Toronto) </b></p>
-            <p><b> Time:  14:00 - 15:30 pm, Oct 12, 2023 (Thu) </b></p>
+            <p><b> Title: Catastrophe Risk Pooling </b></p>
+            <p><b> Speaker: Yimiao Zhao (PhD Student, University of Waterloo) </b></p>
+            <p><b> Time:  14:00 - 15:30 pm, Oct 19, 2023 (Thu) </b></p>
             <p><b> Location: M3 3127 </b></p>
-            <p><b> Abstract: We study a reinsurer who faces multiple sources of model uncertainty. The reinsurer offers contracts to n insurers whose claims follow different compound Poisson processes. As the reinsurer is uncertain about the insurers’ claim severity distributions and frequencies, they design reinsurance contracts that maximise their expected wealth subject to an entropy penalty. Insurers meanwhile seek to maximise their expected utility without ambiguity. We solve this continuous-time Stackelberg game for general reinsurance contracts and find that the reinsurer prices under a distortion of the barycentre of the insurers’ models. We apply our results to proportional reinsurance and excess-of-loss reinsurance contracts and illustrate the solutions numerically. </b></p>
+            <p><b> Abstract: The ongoing climate change causes natural disaster losses are on the rise. The huge gap between actual and insured losses, however, is growing. Insurance-based solutions are receiving increasing attention to mitigate disaster and climate risks. Due to the features of catastrophic risks, catastrophe insurance market has failed to provide sufficient protections. In this paper we discuss how pooling catastrophe risks from various geographies and perils can be an effective tool for diversifying catastrophic risks and reducing risk premiums. Simulations are provided to illustrate our results. </b></p>
           </blockquote>
         </ol>
 </details>  
@@ -51,6 +50,18 @@
 <body>
 
 <b>October</b>
+<details>
+      <summary><u><b>Oct 12: Emma Kroell (University of Toronto)  </b></u></summary>
+        <ol>
+          <blockquote>
+            <p><b> Title: Optimal Robust Reinsurance with Multiple Insurers </b></p>
+            <p><b> Speaker: Emma Kroell (PhD Candidate, University of Toronto) </b></p>
+            <p><b> Time:  14:00 - 15:30 pm, Oct 12, 2023 (Thu) </b></p>
+            <p><b> Location: M3 3127 </b></p>
+            <p><b> Abstract: We study a reinsurer who faces multiple sources of model uncertainty. The reinsurer offers contracts to n insurers whose claims follow different compound Poisson processes. As the reinsurer is uncertain about the insurers’ claim severity distributions and frequencies, they design reinsurance contracts that maximise their expected wealth subject to an entropy penalty. Insurers meanwhile seek to maximise their expected utility without ambiguity. We solve this continuous-time Stackelberg game for general reinsurance contracts and find that the reinsurer prices under a distortion of the barycentre of the insurers’ models. We apply our results to proportional reinsurance and excess-of-loss reinsurance contracts and illustrate the solutions numerically. </b></p>
+          </blockquote>
+        </ol>
+</details>  
 
 <details>
       <summary><u><b>Oct 5: Qinghua Ren (University of Waterloo)  </b></u></summary>
