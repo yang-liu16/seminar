@@ -10,7 +10,7 @@
 
 ## Student Organizers
 
-<b>Zhanyi Jiao (University of Waterloo):
+<b>[Zhanyi Jiao](https://zhanyij.github.io/) (University of Waterloo):
 <a href="mailto:z27jiao@uwaterloo.ca">z27jiao@uwaterloo.ca</a></b>
 
 <b>[Liyuan Lin](https://liyuan-lin.github.io/Liyuan/) (University of Waterloo):
