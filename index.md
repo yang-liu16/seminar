@@ -26,9 +26,28 @@
 ## Upcoming Events
 <body>
 
+<b>Nov</b>
+<details>
+      <summary><u><b>Nov 2: Zhiqiao Song (University of Waterloo)  </b></u></summary>
+        <ol>
+          <blockquote>
+            <p><b> Title: Distributionally Robust Mean-Variance Portfolio Selection with Wasserstein Distances </b></p>
+            <p><b> Speaker: Zhiqiao Song (PhD Student, University of Waterloo) </b></p>
+            <p><b> Time:  14:00 - 15:30 pm, Nov 2, 2023 (Thu) </b></p>
+            <p><b> Location: M3 3127 </b></p>
+            <p><b> Abstract: This presentation will delve into various financial models related to portfolio selection. We will revisit the Markowitz’s mean-variance model, Fama-French model, as well as Black-Litterman model, and introduce a distributionally robust model newly proposed in the paper “Blanchet, J., Chen, L., and Zhou, X. Y. (2022). Distributionally Robust Mean-Variance Portfolio Selection with Wasserstein Distances.” This paper studies the robust portfolio selection problem with distributional uncertainty centered around the empirical measure and dictate the discrepancy between probability measures by Wasserstein distance. The problem is reformulated as an empirical variance minimization problem with an additional regularization term. Recently developed inference methodology is applied in order to define the size of the distributional uncertainty and the associated robust target return. Finally, a brief comparison would be provided to illustrate the performance of the models.   </b></p>
+          </blockquote>
+        </ol>
+</details>  
+
+</body>
 
 
-<b>Oct</b>
+## Past Events
+
+<body>
+
+<b>October</b>
 <details>
       <summary><u><b>Oct 19: Yimiao Zhao (University of Waterloo)  </b></u></summary>
         <ol>
@@ -42,14 +61,6 @@
         </ol>
 </details>  
 
-</body>
-
-
-## Past Events
-
-<body>
-
-<b>October</b>
 <details>
       <summary><u><b>Oct 12: Emma Kroell (University of Toronto)  </b></u></summary>
         <ol>
