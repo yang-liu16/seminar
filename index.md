@@ -27,6 +27,27 @@
 <body>
 
 <b>Nov</b>
+
+<details>
+      <summary><u><b>Nov 9: Zhaowen Wang (Fudan University)  </b></u></summary>
+        <ol>
+          <blockquote>
+            <p><b> Title: CoVaR Under Asymptotic Independence </b></p>
+            <p><b> Speaker: Zhaowen Wang (PhD Student, Fudan University) </b></p>
+            <p><b> Time:  14:00 - 15:30 pm, Nov 9, 2023 (Thu) </b></p>
+            <p><b> Location: M3 3127 </b></p>
+            <p><b> Abstract: There has been increasing interest in measuring systemic risk since the global financial crisis of 2007-2009. Accurate assessment of systemic risk would enable regulators to introduce suitable policies to mitigate the risk as well as allow individual institutions to monitor their vulnerability to market movements. One popular measure of systemic risk is the conditional value-at-risk (CoVaR), proposed by Adrian and Brunnermeier (2011). We develop a methodology to estimate CoVaR semi-parametrically under asymptotic independence within the framework of bivariate extreme value theory. There is growing attention on asymptotic independent pairs in quantitative risk management. We use parametric modelling of the bivariate extremal structure to address data sparsity in the joint tail regions and prove consistency of the proposed estimator. The performance of the estimator is illustrated via simulation studies and a real data example.   </b></p>
+          </blockquote>
+        </ol>
+</details>  
+
+</body>
+
+
+## Past Events
+
+<body>
+<b>November</b>
 <details>
       <summary><u><b>Nov 2: Zhiqiao Song (University of Waterloo)  </b></u></summary>
         <ol>
@@ -39,13 +60,7 @@
           </blockquote>
         </ol>
 </details>  
-
-</body>
-
-
-## Past Events
-
-<body>
+<br>
 
 <b>October</b>
 <details>
