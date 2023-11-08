@@ -48,6 +48,7 @@
 
 <body>
 <b>November</b>
+ 
 <details>
       <summary><u><b>Nov 2: Zhiqiao Song (University of Waterloo)  </b></u></summary>
         <ol>
