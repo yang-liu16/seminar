@@ -29,6 +29,27 @@
 <b>Nov</b>
 
 <details>
+      <summary><u><b>Nov 23: Zachary John Van Oosten (University of Waterloo)  </b></u></summary>
+        <ol>
+          <blockquote>
+            <p><b> Title: Coherent Extensions </b></p>
+            <p><b> Speaker: Zachary John Van Oosten (PhD Student, University of Waterloo) </b></p>
+            <p><b> Time:  14:00 - 15:30 pm, Nov 23, 2023 (Thu) </b></p>
+            <p><b> Location: M3 3127 </b></p>
+            <p><b> Abstract: In this talk, I will discuss some preliminary results on extending coherent risk measures defined on the subspace of random variables that are measurable with respect to a coarser-sigma-algebra. These extensions will be called coherent extensions and this concept is motivated by my earlier project on partially law-invariant coherent risk measures.  I will include some questions I am currently working on and a brief description of what I hope to get out of the project.
+   </b></p>
+          </blockquote>
+        </ol>
+</details>  
+
+</body>
+
+
+## Past Events
+
+<body>
+<b>November</b>
+<details>
       <summary><u><b>Nov 16: Samuel Solgon Santos (University of Waterloo)  </b></u></summary>
         <ol>
           <blockquote>
@@ -42,14 +63,7 @@
         </ol>
 </details>  
 
-</body>
-
-
-## Past Events
-
-<body>
-<b>November</b>
- <details>
+<details>
       <summary><u><b>Nov 9: Zhaowen Wang (Fudan University)  </b></u></summary>
         <ol>
           <blockquote>
