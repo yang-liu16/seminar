@@ -30,7 +30,7 @@
           <blockquote>
             <p><b> Title: A representation-learning approach for insurance pricing with images </b></p>
             <p><b> Speaker: Christopher Blier-Wong (Postdoc Fellow, University of Waterloo) </b></p>
-            <p><b> Time:  15:00 - 16:00, Mar 14, 2023 (Thu) </b></p>
+            <p><b> Time:  15:00 - 16:00, Mar 14, 2024 (Thu) </b></p>
             <p><b> Location: M3 3127 </b></p>
             <p><b> Abstract: Unstructured data are a promising new source of information that insurance companies may use to understand their risk portfolio better and improve the customer experience. However, these novel data sources are difficult to incorporate into existing ratemaking frameworks due to the size and format of the unstructured data. This paper proposes a framework to use street view imagery within a generalized linear model. To do so, we use representation learning to extract an embedding vector containing useful information from the image. This embedding is dense and low-dimensional, making it appropriate to use within existing ratemaking models. We find that there is useful information included in street view imagery to predict the frequency of claims for certain types of perils. This model can be used as-is in a ratemaking framework but also opens the door to future empirical research on attempting to extract which characteristics within the image leads to increased or decreased predicted claim frequencies. Throughout, we discuss the practical difficulties (technical and social) of using this type of data for insurance pricing.
    </b></p>
@@ -45,7 +45,7 @@
 
 <body>
 
-<b>November 30, 2023</b>
+<b>November, 2023</b>
 
 <details>
       <summary><u><b>Nov 30, 2023: Qinyu Wu (University of Waterloo)  </b></u></summary>
