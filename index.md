@@ -6,16 +6,12 @@
 
 * <b>We will send out weekly reminders via a mailing list, usually on the day before the presentation. Papers and presentation slides will be circulated among participants via the mailing list. If you would like to be included in the list, please contact the organizers.</b>
 
-* <b>In this year of 2023, most seminars are held in person at the University of Waterloo.
+* <b>In this year of 2024, most seminars are held in person at the University of Waterloo.
 
 ## Student Organizers
 
-<b>[Zhanyi Jiao](https://zhanyij.github.io/) (University of Waterloo):
-<a href="mailto:z27jiao@uwaterloo.ca">z27jiao@uwaterloo.ca</a></b>
-
-<b>[Liyuan Lin](https://liyuan-lin.github.io/Liyuan/) (University of Waterloo):
-<a href="mailto:l89lin@uwaterloo.ca">l89lin@uwaterloo.ca</a></b>
-
+<b>[Zachary Van Oosten](https://sas.uwaterloo.ca/~wang/pages/team.html) (University of Waterloo):
+<a href="mailto:zjvanoosten@uwaterloo.ca">zjvanoosten@uwaterloo.ca</a></b>
  
 
 
