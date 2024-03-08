@@ -10,7 +10,7 @@
 
 ## Student Organizers
 
-<b>[Zachary Van Oosten](https://sas.uwaterloo.ca/~wang/pages/team.html) (University of Waterloo):
+<b>[Zachary John Van Oosten](https://sas.uwaterloo.ca/~wang/pages/team.html) (University of Waterloo):
 <a href="mailto:zjvanoosten@uwaterloo.ca">zjvanoosten@uwaterloo.ca</a></b>
  
 
